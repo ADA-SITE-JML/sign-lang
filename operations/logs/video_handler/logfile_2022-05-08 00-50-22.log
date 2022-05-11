@@ -1,0 +1,924 @@
+INFO:root:Logging Session Started at 2022-05-08 00-50-22
+INFO:root:Looking for 2022-04-26 13-58-53.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\76
+INFO:root:File '2022-04-26 13-58-53.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\76
+INFO:root:Looking for 2022-04-25 16-48-09.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\39
+INFO:root:File '2022-04-25 16-48-09.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\39
+INFO:root:Looking for 2022-04-26 13-27-43.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\39
+INFO:root:File '2022-04-26 13-27-43.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\39
+INFO:root:Looking for 2022-04-26 13-27-26.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\39
+INFO:root:File '2022-04-26 13-27-26.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\39
+INFO:root:Looking for 2022-04-25 17-21-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\39
+INFO:root:File '2022-04-25 17-21-33.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\39
+INFO:root:Looking for 2022-04-25 16-45-57.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\35
+INFO:root:File '2022-04-25 16-45-57.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\35
+INFO:root:Looking for 2022-04-26 13-25-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\35
+INFO:root:File '2022-04-26 13-25-33.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\35
+INFO:root:Looking for 2022-04-25 17-15-00.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\35
+INFO:root:File '2022-04-25 17-15-00.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\35
+INFO:root:Looking for 2022-04-22 12-31-40.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\14
+INFO:root:File '2022-04-22 12-31-40.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\14
+INFO:root:Looking for 2022-04-26 13-08-26.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\14
+INFO:root:File '2022-04-26 13-08-26.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\14
+INFO:root:Looking for 2022-04-21 17-36-47.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\14
+INFO:root:File '2022-04-21 17-36-47.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\14
+INFO:root:Looking for 2022-04-25 13-58-12.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\14
+INFO:root:File '2022-04-25 13-58-12.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\14
+INFO:root:Looking for 2022-04-23 12-14-22.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\14
+INFO:root:File '2022-04-23 12-14-22.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\14
+INFO:root:Looking for 2022-04-25 14-08-16.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\14
+INFO:root:File '2022-04-25 14-08-16.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\14
+INFO:root:Looking for 2022-04-25 17-09-22.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\56
+INFO:root:File '2022-04-25 17-09-22.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\56
+INFO:root:Looking for 2022-04-26 13-49-41.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\56
+INFO:root:File '2022-04-26 13-49-41.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\56
+INFO:root:Looking for 2022-04-26 13-50-25.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\56
+INFO:root:File '2022-04-26 13-50-25.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\56
+INFO:root:Looking for 2022-04-26 14-03-02.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\86
+INFO:root:File '2022-04-26 14-03-02.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\86
+INFO:root:Looking for 2022-04-27 12-42-41.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\135
+INFO:root:File '2022-04-27 12-42-41.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\135
+INFO:root:Looking for 2022-04-27 12-42-56.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\135
+INFO:root:File '2022-04-27 12-42-56.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\135
+INFO:root:Looking for 2022-04-25 16-34-48.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:File '2022-04-25 16-34-48.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:Looking for 2022-04-25 15-03-18.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:File '2022-04-25 15-03-18.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:Looking for 2022-04-23 13-09-12.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:File '2022-04-23 13-09-12.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:Looking for 2022-04-25 16-33-53.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:File '2022-04-25 16-33-53.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:Looking for 2022-04-26 13-22-34.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:File '2022-04-26 13-22-34.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:Looking for 2022-04-25 15-03-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:File '2022-04-25 15-03-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:Looking for 2022-04-26 13-21-59.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:File '2022-04-26 13-21-59.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\30
+INFO:root:Looking for 2022-04-27 12-38-34.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\128
+INFO:root:File '2022-04-27 12-38-34.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\128
+INFO:root:Looking for 2022-04-27 12-37-13.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\128
+INFO:root:File '2022-04-27 12-37-13.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\128
+INFO:root:Looking for 2022-04-25 13-49-53.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:File '2022-04-25 13-49-53.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:Looking for 2022-04-25 14-07-32.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:File '2022-04-25 14-07-32.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:Looking for 2022-04-23 12-05-10.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:File '2022-04-23 12-05-10.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:Looking for 2022-04-21 17-33-00.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:File '2022-04-21 17-33-00.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:Looking for 2022-04-22 12-29-46.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:File '2022-04-22 12-29-46.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:Looking for 2022-04-26 13-07-54.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:File '2022-04-26 13-07-54.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:Looking for 2022-04-25 13-50-04.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:File '2022-04-25 13-50-04.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:Looking for 2022-04-21 17-33-38.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:File '2022-04-21 17-33-38.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\12
+INFO:root:Looking for 2022-04-26 13-57-40.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\74
+INFO:root:File '2022-04-26 13-57-40.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\74
+INFO:root:Looking for 2022-04-27 12-55-43.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\146
+INFO:root:File '2022-04-27 12-55-43.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\146
+INFO:root:Looking for 2022-04-25 17-10-16.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\58
+INFO:root:File '2022-04-25 17-10-16.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\58
+INFO:root:Looking for 2022-04-26 13-56-46.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\71
+INFO:root:File '2022-04-26 13-56-46.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\71
+INFO:root:Looking for 2022-04-25 13-31-37.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:File '2022-04-25 13-31-37.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:Looking for 2022-04-19 15-46-58.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:File '2022-04-19 15-46-58.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:Looking for 2022-04-23 11-57-25.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:File '2022-04-23 11-57-25.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:Looking for 2022-04-26 13-00-49.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:File '2022-04-26 13-00-49.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:Looking for 2022-04-19 15-17-41.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:File '2022-04-19 15-17-41.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:Looking for 2022-04-25 13-12-44.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:File '2022-04-25 13-12-44.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:Looking for 2022-04-25 13-30-42.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:File '2022-04-25 13-30-42.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:Looking for 2022-04-22 12-15-10.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:File '2022-04-22 12-15-10.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:Looking for 2022-04-21 17-27-06.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:File '2022-04-21 17-27-06.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\4
+INFO:root:Looking for 2022-04-27 12-52-10.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\144
+INFO:root:File '2022-04-27 12-52-10.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\144
+INFO:root:Looking for 2022-04-26 14-02-35.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\85
+INFO:root:File '2022-04-26 14-02-35.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\85
+INFO:root:Looking for 2022-04-26 14-15-22.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\111
+INFO:root:File '2022-04-26 14-15-22.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\111
+INFO:root:Looking for 2022-04-25 16-43-41.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\34
+INFO:root:File '2022-04-25 16-43-41.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\34
+INFO:root:Looking for 2022-04-25 17-13-29.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\34
+INFO:root:File '2022-04-25 17-13-29.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\34
+INFO:root:Looking for 2022-04-26 13-25-17.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\34
+INFO:root:File '2022-04-26 13-25-17.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\34
+INFO:root:Looking for 2022-04-27 12-54-13.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\145
+INFO:root:File '2022-04-27 12-54-13.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\145
+INFO:root:Looking for 2022-04-25 15-44-23.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\23
+INFO:root:File '2022-04-25 15-44-23.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\23
+INFO:root:Looking for 2022-04-26 13-14-48.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\23
+INFO:root:File '2022-04-26 13-14-48.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\23
+INFO:root:Looking for 2022-04-25 14-28-57.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\23
+INFO:root:File '2022-04-25 14-28-57.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\23
+INFO:root:Looking for 2022-04-23 12-42-13.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\23
+INFO:root:File '2022-04-23 12-42-13.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\23
+INFO:root:Looking for 2022-04-26 13-14-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\23
+INFO:root:File '2022-04-26 13-14-33.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\23
+INFO:root:Looking for 2022-04-25 14-22-12.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:File '2022-04-25 14-22-12.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:Looking for 2022-04-23 12-36-47.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:File '2022-04-23 12-36-47.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:Looking for 2022-04-25 15-31-46.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:File '2022-04-25 15-31-46.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:Looking for 2022-04-21 18-04-10.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:File '2022-04-21 18-04-10.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:Looking for 2022-04-23 12-37-08.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:File '2022-04-23 12-37-08.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:Looking for 2022-04-26 13-13-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:File '2022-04-26 13-13-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:Looking for 2022-04-25 15-34-02.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:File '2022-04-25 15-34-02.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:Looking for 2022-04-21 18-04-01.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:File '2022-04-21 18-04-01.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:Looking for 2022-04-26 13-13-34.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:File '2022-04-26 13-13-34.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:Looking for 2022-04-25 15-30-57.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:File '2022-04-25 15-30-57.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\21
+INFO:root:Looking for 2022-04-27 13-08-53.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\159
+INFO:root:File '2022-04-27 13-08-53.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\159
+INFO:root:Looking for 2022-04-27 13-08-32.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\159
+INFO:root:File '2022-04-27 13-08-32.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\159
+INFO:root:Looking for 2022-04-26 14-06-30.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\93
+INFO:root:File '2022-04-26 14-06-30.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\93
+INFO:root:Looking for 2022-04-26 14-05-48.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\92
+INFO:root:File '2022-04-26 14-05-48.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\92
+INFO:root:Looking for 2022-04-27 13-01-01.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\154
+INFO:root:File '2022-04-27 13-01-01.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\154
+INFO:root:Looking for 2022-04-27 13-01-14.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\154
+INFO:root:File '2022-04-27 13-01-14.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\154
+INFO:root:Looking for 2022-04-27 13-13-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\164
+INFO:root:File '2022-04-27 13-13-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\164
+INFO:root:Looking for 2022-04-27 13-13-44.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\164
+INFO:root:File '2022-04-27 13-13-44.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\164
+INFO:root:Looking for 2022-04-27 13-54-36.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\164
+INFO:root:File '2022-04-27 13-54-36.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\164
+INFO:root:Looking for 2022-04-27 13-53-35.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\164
+INFO:root:File '2022-04-27 13-53-35.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\164
+INFO:root:Looking for 2022-04-27 13-54-18.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\164
+INFO:root:File '2022-04-27 13-54-18.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\164
+INFO:root:Looking for 2022-04-27 13-52-41.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\164
+INFO:root:File '2022-04-27 13-52-41.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\164
+INFO:root:Looking for 2022-04-25 14-53-27.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\26
+INFO:root:File '2022-04-25 14-53-27.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\26
+INFO:root:Looking for 2022-04-25 15-52-31.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\26
+INFO:root:File '2022-04-25 15-52-31.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\26
+INFO:root:Looking for 2022-04-26 13-16-14.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\26
+INFO:root:File '2022-04-26 13-16-14.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\26
+INFO:root:Looking for 2022-04-23 12-58-56.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\26
+INFO:root:File '2022-04-23 12-58-56.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\26
+INFO:root:Looking for 2022-04-25 16-36-18.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\32
+INFO:root:File '2022-04-25 16-36-18.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\32
+INFO:root:Looking for 2022-04-26 13-23-26.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\32
+INFO:root:File '2022-04-26 13-23-26.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\32
+INFO:root:Looking for 2022-04-25 15-08-49.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\32
+INFO:root:File '2022-04-25 15-08-49.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\32
+INFO:root:Looking for 2022-04-14 14-33-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\0
+INFO:root:File '2022-04-14 14-33-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\0
+INFO:root:Looking for 2022-04-14 14-33-48.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\0
+INFO:root:File '2022-04-14 14-33-48.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\0
+INFO:root:Looking for 2022-04-26 12-57-16.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\0
+INFO:root:File '2022-04-26 12-57-16.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\0
+INFO:root:Looking for 2022-04-14 14-34-06.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\0
+INFO:root:File '2022-04-14 14-34-06.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\0
+INFO:root:Looking for 2022-04-25 16-57-14.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\44
+INFO:root:File '2022-04-25 16-57-14.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\44
+INFO:root:Looking for 2022-04-26 13-34-01.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\44
+INFO:root:File '2022-04-26 13-34-01.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\44
+INFO:root:Looking for 2022-04-25 17-28-45.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\44
+INFO:root:File '2022-04-25 17-28-45.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\44
+INFO:root:Looking for 2022-04-26 13-34-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\44
+INFO:root:File '2022-04-26 13-34-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\44
+INFO:root:Looking for 2022-04-26 14-14-26.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\107
+INFO:root:File '2022-04-26 14-14-26.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\107
+INFO:root:Looking for 2022-04-25 15-01-05.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\29
+INFO:root:File '2022-04-25 15-01-05.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\29
+INFO:root:Looking for 2022-04-23 13-08-49.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\29
+INFO:root:File '2022-04-23 13-08-49.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\29
+INFO:root:Looking for 2022-04-25 16-24-54.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\29
+INFO:root:File '2022-04-25 16-24-54.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\29
+INFO:root:Looking for 2022-04-26 13-21-39.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\29
+INFO:root:File '2022-04-26 13-21-39.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\29
+INFO:root:Looking for 2022-04-26 13-10-11.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:File '2022-04-26 13-10-11.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:Looking for 2022-04-23 12-19-00.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:File '2022-04-23 12-19-00.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:Looking for 2022-04-25 15-20-20.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:File '2022-04-25 15-20-20.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:Looking for 2022-04-22 12-40-46.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:File '2022-04-22 12-40-46.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:Looking for 2022-04-25 14-12-22.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:File '2022-04-25 14-12-22.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:Looking for 2022-04-21 17-40-12.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:File '2022-04-21 17-40-12.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:Looking for 2022-04-25 15-20-06.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:File '2022-04-25 15-20-06.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:Looking for 2022-04-26 13-09-44.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:File '2022-04-26 13-09-44.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\17
+INFO:root:Looking for 2022-04-26 13-53-47.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\63
+INFO:root:File '2022-04-26 13-53-47.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\63
+INFO:root:Looking for 2022-04-27 13-00-43.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\153
+INFO:root:File '2022-04-27 13-00-43.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\153
+INFO:root:Looking for 2022-04-19 15-18-11.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:File '2022-04-19 15-18-11.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:Looking for 2022-04-26 13-04-42.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:File '2022-04-26 13-04-42.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:Looking for 2022-04-25 13-16-04.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:File '2022-04-25 13-16-04.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:Looking for 2022-04-19 15-49-43.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:File '2022-04-19 15-49-43.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:Looking for 2022-04-23 11-58-22.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:File '2022-04-23 11-58-22.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:Looking for 2022-04-21 17-27-53.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:File '2022-04-21 17-27-53.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:Looking for 2022-04-25 13-32-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:File '2022-04-25 13-32-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:Looking for 2022-04-22 12-17-01.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:File '2022-04-22 12-17-01.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:Looking for 2022-04-23 11-58-02.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:File '2022-04-23 11-58-02.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:Looking for 2022-04-26 13-04-09.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:File '2022-04-26 13-04-09.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\6
+INFO:root:Looking for 2022-04-26 14-24-21.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\122
+INFO:root:File '2022-04-26 14-24-21.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\122
+INFO:root:Looking for 2022-04-26 14-24-32.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\122
+INFO:root:File '2022-04-26 14-24-32.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\122
+INFO:root:Looking for 2022-04-26 13-29-42.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\41
+INFO:root:File '2022-04-26 13-29-42.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\41
+INFO:root:Looking for 2022-04-25 17-26-47.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\41
+INFO:root:File '2022-04-25 17-26-47.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\41
+INFO:root:Looking for 2022-04-26 13-28-28.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\41
+INFO:root:File '2022-04-26 13-28-28.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\41
+INFO:root:Looking for 2022-04-25 16-50-46.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\41
+INFO:root:File '2022-04-25 16-50-46.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\41
+INFO:root:Looking for 2022-04-26 14-06-48.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\94
+INFO:root:File '2022-04-26 14-06-48.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\94
+INFO:root:Looking for 2022-04-26 14-08-36.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\99
+INFO:root:File '2022-04-26 14-08-36.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\99
+INFO:root:Looking for 2022-04-26 13-48-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\54
+INFO:root:File '2022-04-26 13-48-33.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\54
+INFO:root:Looking for 2022-04-26 13-48-55.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\54
+INFO:root:File '2022-04-26 13-48-55.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\54
+INFO:root:Looking for 2022-04-25 17-07-37.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\54
+INFO:root:File '2022-04-25 17-07-37.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\54
+INFO:root:Looking for 2022-04-19 15-51-19.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:File '2022-04-19 15-51-19.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:Looking for 2022-04-21 17-28-47.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:File '2022-04-21 17-28-47.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:Looking for 2022-04-23 12-00-17.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:File '2022-04-23 12-00-17.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:Looking for 2022-04-25 13-35-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:File '2022-04-25 13-35-33.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:Looking for 2022-04-22 12-21-10.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:File '2022-04-22 12-21-10.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:Looking for 2022-04-19 15-18-51.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:File '2022-04-19 15-18-51.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:Looking for 2022-04-26 13-05-28.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:File '2022-04-26 13-05-28.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:Looking for 2022-04-25 13-21-00.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:File '2022-04-25 13-21-00.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\8
+INFO:root:Looking for 2022-04-27 12-35-58.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\127
+INFO:root:File '2022-04-27 12-35-58.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\127
+INFO:root:Looking for 2022-04-27 12-35-34.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\127
+INFO:root:File '2022-04-27 12-35-34.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\127
+INFO:root:Looking for 2022-04-27 12-41-09.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\133
+INFO:root:File '2022-04-27 12-41-09.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\133
+INFO:root:Looking for 2022-04-26 14-29-51.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\126
+INFO:root:File '2022-04-26 14-29-51.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\126
+INFO:root:Looking for 2022-04-19 15-50-08.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:File '2022-04-19 15-50-08.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:Looking for 2022-04-25 13-34-58.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:File '2022-04-25 13-34-58.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:Looking for 2022-04-23 11-58-46.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:File '2022-04-23 11-58-46.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:Looking for 2022-04-19 15-18-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:File '2022-04-19 15-18-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:Looking for 2022-04-21 17-28-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:File '2022-04-21 17-28-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:Looking for 2022-04-22 12-18-01.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:File '2022-04-22 12-18-01.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:Looking for 2022-04-25 13-20-06.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:File '2022-04-25 13-20-06.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:Looking for 2022-04-26 13-05-00.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:File '2022-04-26 13-05-00.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\7
+INFO:root:Looking for 2022-04-26 13-54-50.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\66
+INFO:root:File '2022-04-26 13-54-50.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\66
+INFO:root:Looking for 2022-04-25 17-03-32.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\51
+INFO:root:File '2022-04-25 17-03-32.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\51
+INFO:root:Looking for 2022-04-26 13-46-34.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\51
+INFO:root:File '2022-04-26 13-46-34.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\51
+INFO:root:Looking for 2022-04-26 13-53-29.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\62
+INFO:root:File '2022-04-26 13-53-29.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\62
+INFO:root:Looking for 2022-04-25 15-13-43.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:File '2022-04-25 15-13-43.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:Looking for 2022-04-25 14-10-42.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:File '2022-04-25 14-10-42.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:Looking for 2022-04-25 15-15-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:File '2022-04-25 15-15-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:Looking for 2022-04-25 15-17-46.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:File '2022-04-25 15-17-46.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:Looking for 2022-04-25 15-15-54.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:File '2022-04-25 15-15-54.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:Looking for 2022-04-26 13-09-02.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:File '2022-04-26 13-09-02.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:Looking for 2022-04-25 15-16-28.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:File '2022-04-25 15-16-28.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:Looking for 2022-04-26 13-09-21.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:File '2022-04-26 13-09-21.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:Looking for 2022-04-25 15-16-47.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:File '2022-04-25 15-16-47.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:Looking for 2022-04-22 12-33-58.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:File '2022-04-22 12-33-58.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:Looking for 2022-04-21 17-37-46.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:File '2022-04-21 17-37-46.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:Looking for 2022-04-21 17-37-57.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:File '2022-04-21 17-37-57.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\16
+INFO:root:Looking for 2022-04-25 17-22-32.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\40
+INFO:root:File '2022-04-25 17-22-32.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\40
+INFO:root:Looking for 2022-04-25 16-49-16.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\40
+INFO:root:File '2022-04-25 16-49-16.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\40
+INFO:root:Looking for 2022-04-26 13-28-09.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\40
+INFO:root:File '2022-04-26 13-28-09.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\40
+INFO:root:Looking for 2022-04-27 13-51-13.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\163
+INFO:root:File '2022-04-27 13-51-13.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\163
+INFO:root:Looking for 2022-04-27 13-51-29.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\163
+INFO:root:File '2022-04-27 13-51-29.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\163
+INFO:root:Looking for 2022-04-27 13-12-53.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\163
+INFO:root:File '2022-04-27 13-12-53.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\163
+INFO:root:Looking for 2022-04-27 13-12-42.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\163
+INFO:root:File '2022-04-27 13-12-42.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\163
+INFO:root:Looking for 2022-04-22 12-43-38.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:File '2022-04-22 12-43-38.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:Looking for 2022-04-23 12-21-29.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:File '2022-04-23 12-21-29.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:Looking for 2022-04-25 14-21-36.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:File '2022-04-25 14-21-36.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:Looking for 2022-04-21 17-58-05.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:File '2022-04-21 17-58-05.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:Looking for 2022-04-26 13-13-10.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:File '2022-04-26 13-13-10.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:Looking for 2022-04-25 15-26-53.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:File '2022-04-25 15-26-53.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:Looking for 2022-04-21 17-57-57.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:File '2022-04-21 17-57-57.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:Looking for 2022-04-26 13-12-58.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:File '2022-04-26 13-12-58.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:Looking for 2022-04-25 15-27-40.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:File '2022-04-25 15-27-40.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:Looking for 2022-04-25 15-26-38.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:File '2022-04-25 15-26-38.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\20
+INFO:root:Looking for 2022-04-27 13-10-07.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\161
+INFO:root:File '2022-04-27 13-10-07.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\161
+INFO:root:Looking for 2022-04-27 12-46-27.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\138
+INFO:root:File '2022-04-27 12-46-27.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\138
+INFO:root:Looking for 2022-04-27 12-46-16.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\138
+INFO:root:File '2022-04-27 12-46-16.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\138
+INFO:root:Looking for 2022-04-27 12-56-42.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\147
+INFO:root:File '2022-04-27 12-56-42.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\147
+INFO:root:Looking for 2022-04-27 12-56-56.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\147
+INFO:root:File '2022-04-27 12-56-56.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\147
+INFO:root:Looking for 2022-04-27 13-08-03.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\158
+INFO:root:File '2022-04-27 13-08-03.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\158
+INFO:root:Looking for 2022-04-26 14-02-05.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\83
+INFO:root:File '2022-04-26 14-02-05.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\83
+INFO:root:Looking for 2022-04-27 13-17-58.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\167
+INFO:root:File '2022-04-27 13-17-58.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\167
+INFO:root:Looking for 2022-04-27 12-57-16.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\148
+INFO:root:File '2022-04-27 12-57-16.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\148
+INFO:root:Looking for 2022-04-25 16-58-41.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\46
+INFO:root:File '2022-04-25 16-58-41.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\46
+INFO:root:Looking for 2022-04-26 13-38-17.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\46
+INFO:root:File '2022-04-26 13-38-17.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\46
+INFO:root:Looking for 2022-04-26 13-37-57.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\46
+INFO:root:File '2022-04-26 13-37-57.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\46
+INFO:root:Looking for 2022-04-27 12-39-19.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\129
+INFO:root:File '2022-04-27 12-39-19.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\129
+INFO:root:Looking for 2022-04-27 12-39-02.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\129
+INFO:root:File '2022-04-27 12-39-02.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\129
+INFO:root:Looking for 2022-04-26 14-27-27.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\125
+INFO:root:File '2022-04-26 14-27-27.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\125
+INFO:root:Looking for 2022-04-26 14-27-06.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\125
+INFO:root:File '2022-04-26 14-27-06.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\125
+INFO:root:Looking for 2022-04-26 13-26-55.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\37
+INFO:root:File '2022-04-26 13-26-55.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\37
+INFO:root:Looking for 2022-04-25 16-46-58.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\37
+INFO:root:File '2022-04-25 16-46-58.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\37
+INFO:root:Looking for 2022-04-25 17-16-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\37
+INFO:root:File '2022-04-25 17-16-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\37
+INFO:root:Looking for 2022-04-25 17-16-13.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\37
+INFO:root:File '2022-04-25 17-16-13.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\37
+INFO:root:Looking for 2022-04-26 13-56-32.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\70
+INFO:root:File '2022-04-26 13-56-32.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\70
+INFO:root:Looking for 2022-04-19 15-19-50.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:File '2022-04-19 15-19-50.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:Looking for 2022-04-23 12-02-13.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:File '2022-04-23 12-02-13.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:Looking for 2022-04-26 13-06-51.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:File '2022-04-26 13-06-51.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:Looking for 2022-04-19 15-54-27.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:File '2022-04-19 15-54-27.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:Looking for 2022-04-22 12-24-03.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:File '2022-04-22 12-24-03.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:Looking for 2022-04-25 14-03-03.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:File '2022-04-25 14-03-03.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:Looking for 2022-04-25 13-45-34.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:File '2022-04-25 13-45-34.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:Looking for 2022-04-25 13-27-31.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:File '2022-04-25 13-27-31.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:Looking for 2022-04-25 13-45-01.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:File '2022-04-25 13-45-01.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:Looking for 2022-04-21 17-31-00.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:File '2022-04-21 17-31-00.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\10
+INFO:root:Looking for 2022-04-27 12-58-35.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\150
+INFO:root:File '2022-04-27 12-58-35.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\150
+INFO:root:Looking for 2022-04-21 17-23-55.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:File '2022-04-21 17-23-55.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:Looking for 2022-04-23 11-55-58.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:File '2022-04-23 11-55-58.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:Looking for 2022-04-19 15-16-59.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:File '2022-04-19 15-16-59.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:Looking for 2022-04-25 13-29-56.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:File '2022-04-25 13-29-56.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:Looking for 2022-04-25 13-03-17.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:File '2022-04-25 13-03-17.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:Looking for 2022-04-19 15-44-38.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:File '2022-04-19 15-44-38.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:Looking for 2022-04-26 12-57-16.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:File '2022-04-26 12-57-16.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:Looking for 2022-04-22 11-15-55.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:File '2022-04-22 11-15-55.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\1
+INFO:root:Looking for 2022-04-27 13-07-17.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\157
+INFO:root:File '2022-04-27 13-07-17.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\157
+INFO:root:Looking for 2022-04-26 14-04-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\88
+INFO:root:File '2022-04-26 14-04-33.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\88
+INFO:root:Looking for 2022-04-26 14-12-01.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\103
+INFO:root:File '2022-04-26 14-12-01.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\103
+INFO:root:Looking for 2022-04-27 13-03-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\155
+INFO:root:File '2022-04-27 13-03-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\155
+INFO:root:Looking for 2022-04-27 13-02-10.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\155
+INFO:root:File '2022-04-27 13-02-10.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\155
+INFO:root:Looking for 2022-04-27 13-01-37.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\155
+INFO:root:File '2022-04-27 13-01-37.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\155
+INFO:root:Looking for 2022-04-26 13-55-23.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\68
+INFO:root:File '2022-04-26 13-55-23.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\68
+INFO:root:Looking for 2022-04-27 13-17-07.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\166
+INFO:root:File '2022-04-27 13-17-07.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\166
+INFO:root:Looking for 2022-04-26 14-01-06.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\80
+INFO:root:File '2022-04-26 14-01-06.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\80
+INFO:root:Looking for 2022-04-26 14-11-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\101
+INFO:root:File '2022-04-26 14-11-33.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\101
+INFO:root:Looking for 2022-04-26 14-11-17.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\101
+INFO:root:File '2022-04-26 14-11-17.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\101
+INFO:root:Looking for 2022-04-26 13-54-00.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\64
+INFO:root:File '2022-04-26 13-54-00.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\64
+INFO:root:Looking for 2022-04-26 13-59-10.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\77
+INFO:root:File '2022-04-26 13-59-10.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\77
+INFO:root:Looking for 2022-04-26 13-08-48.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:File '2022-04-26 13-08-48.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:Looking for 2022-04-25 14-08-41.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:File '2022-04-25 14-08-41.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:Looking for 2022-04-21 17-37-16.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:File '2022-04-21 17-37-16.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:Looking for 2022-04-23 12-15-39.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:File '2022-04-23 12-15-39.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:Looking for 2022-04-22 12-32-21.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:File '2022-04-22 12-32-21.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:Looking for 2022-04-25 13-59-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:File '2022-04-25 13-59-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:Looking for 2022-04-25 14-00-38.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:File '2022-04-25 14-00-38.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\15
+INFO:root:Looking for 2022-04-26 13-59-32.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\79
+INFO:root:File '2022-04-26 13-59-32.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\79
+INFO:root:Looking for 2022-04-26 14-19-51.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\117
+INFO:root:File '2022-04-26 14-19-51.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\117
+INFO:root:Looking for 2022-04-26 13-59-21.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\78
+INFO:root:File '2022-04-26 13-59-21.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\78
+INFO:root:Looking for 2022-04-26 14-25-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\124
+INFO:root:File '2022-04-26 14-25-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\124
+INFO:root:Looking for 2022-04-27 12-43-53.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\136
+INFO:root:File '2022-04-27 12-43-53.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\136
+INFO:root:Looking for 2022-04-27 12-44-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\136
+INFO:root:File '2022-04-27 12-44-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\136
+INFO:root:Looking for 2022-04-25 13-09-21.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:File '2022-04-25 13-09-21.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:Looking for 2022-04-22 12-14-17.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:File '2022-04-22 12-14-17.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:Looking for 2022-04-23 11-53-45.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:File '2022-04-23 11-53-45.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:Looking for 2022-04-25 13-30-26.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:File '2022-04-25 13-30-26.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:Looking for 2022-04-26 13-00-07.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:File '2022-04-26 13-00-07.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:Looking for 2022-04-19 15-17-29.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:File '2022-04-19 15-17-29.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:Looking for 2022-04-21 17-26-32.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:File '2022-04-21 17-26-32.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:Looking for 2022-04-26 12-58-32.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:File '2022-04-26 12-58-32.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:Looking for 2022-04-19 15-46-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:File '2022-04-19 15-46-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\3
+INFO:root:Looking for 2022-04-25 16-59-37.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\48
+INFO:root:File '2022-04-25 16-59-37.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\48
+INFO:root:Looking for 2022-04-26 13-43-29.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\48
+INFO:root:File '2022-04-26 13-43-29.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\48
+INFO:root:Looking for 2022-04-26 13-42-20.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\48
+INFO:root:File '2022-04-26 13-42-20.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\48
+INFO:root:Looking for 2022-04-25 13-42-43.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:File '2022-04-25 13-42-43.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:Looking for 2022-04-25 13-25-38.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:File '2022-04-25 13-25-38.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:Looking for 2022-04-23 12-01-19.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:File '2022-04-23 12-01-19.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:Looking for 2022-04-19 15-53-47.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:File '2022-04-19 15-53-47.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:Looking for 2022-04-25 13-43-35.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:File '2022-04-25 13-43-35.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:Looking for 2022-04-26 13-06-09.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:File '2022-04-26 13-06-09.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:Looking for 2022-04-21 17-29-45.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:File '2022-04-21 17-29-45.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:Looking for 2022-04-19 15-19-37.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:File '2022-04-19 15-19-37.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:Looking for 2022-04-22 12-22-01.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:File '2022-04-22 12-22-01.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\9
+INFO:root:Looking for 2022-04-26 14-02-22.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\84
+INFO:root:File '2022-04-26 14-02-22.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\84
+INFO:root:Looking for 2022-04-27 13-05-17.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\156
+INFO:root:File '2022-04-27 13-05-17.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\156
+INFO:root:Looking for 2022-04-27 13-04-59.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\156
+INFO:root:File '2022-04-27 13-04-59.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\156
+INFO:root:Looking for 2022-04-27 13-05-08.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\156
+INFO:root:File '2022-04-27 13-05-08.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\156
+INFO:root:Looking for 2022-04-26 14-01-20.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\81
+INFO:root:File '2022-04-26 14-01-20.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\81
+INFO:root:Looking for 2022-04-26 14-15-09.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\110
+INFO:root:File '2022-04-26 14-15-09.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\110
+INFO:root:Looking for 2022-04-25 16-51-21.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\42
+INFO:root:File '2022-04-25 16-51-21.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\42
+INFO:root:Looking for 2022-04-26 13-30-10.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\42
+INFO:root:File '2022-04-26 13-30-10.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\42
+INFO:root:Looking for 2022-04-25 17-27-46.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\42
+INFO:root:File '2022-04-25 17-27-46.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\42
+INFO:root:Looking for 2022-04-26 13-51-27.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\60
+INFO:root:File '2022-04-26 13-51-27.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\60
+INFO:root:Looking for 2022-04-26 13-51-17.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\60
+INFO:root:File '2022-04-26 13-51-17.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\60
+INFO:root:Looking for 2022-04-27 12-50-21.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\141
+INFO:root:File '2022-04-27 12-50-21.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\141
+INFO:root:Looking for 2022-04-27 12-48-29.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\141
+INFO:root:File '2022-04-27 12-48-29.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\141
+INFO:root:Looking for 2022-04-27 12-48-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\141
+INFO:root:File '2022-04-27 12-48-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\141
+INFO:root:Looking for 2022-04-27 12-40-51.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\132
+INFO:root:File '2022-04-27 12-40-51.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\132
+INFO:root:Looking for 2022-04-27 12-39-54.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\130
+INFO:root:File '2022-04-27 12-39-54.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\130
+INFO:root:Looking for 2022-04-27 12-46-50.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\139
+INFO:root:File '2022-04-27 12-46-50.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\139
+INFO:root:Looking for 2022-04-27 12-47-18.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\139
+INFO:root:File '2022-04-27 12-47-18.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\139
+INFO:root:Looking for 2022-04-26 14-14-55.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\109
+INFO:root:File '2022-04-26 14-14-55.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\109
+INFO:root:Looking for 2022-04-26 14-23-47.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\120
+INFO:root:File '2022-04-26 14-23-47.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\120
+INFO:root:Looking for 2022-04-26 13-58-28.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\75
+INFO:root:File '2022-04-26 13-58-28.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\75
+INFO:root:Looking for 2022-04-26 14-18-29.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\113
+INFO:root:File '2022-04-26 14-18-29.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\113
+INFO:root:Looking for 2022-04-26 14-05-02.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\89
+INFO:root:File '2022-04-26 14-05-02.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\89
+INFO:root:Looking for 2022-04-26 14-14-38.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\108
+INFO:root:File '2022-04-26 14-14-38.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\108
+INFO:root:Looking for 2022-04-26 13-37-27.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\45
+INFO:root:File '2022-04-26 13-37-27.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\45
+INFO:root:Looking for 2022-04-25 16-58-09.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\45
+INFO:root:File '2022-04-25 16-58-09.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\45
+INFO:root:Looking for 2022-04-25 17-34-12.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\45
+INFO:root:File '2022-04-25 17-34-12.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\45
+INFO:root:Looking for 2022-04-26 13-37-35.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\45
+INFO:root:File '2022-04-26 13-37-35.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\45
+INFO:root:Looking for 2022-04-26 12-58-07.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:File '2022-04-26 12-58-07.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:Looking for 2022-04-21 17-25-09.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:File '2022-04-21 17-25-09.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:Looking for 2022-04-23 11-56-14.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:File '2022-04-23 11-56-14.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:Looking for 2022-04-19 15-17-13.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:File '2022-04-19 15-17-13.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:Looking for 2022-04-19 15-45-12.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:File '2022-04-19 15-45-12.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:Looking for 2022-04-22 12-11-21.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:File '2022-04-22 12-11-21.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:Looking for 2022-04-25 13-04-30.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:File '2022-04-25 13-04-30.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:Looking for 2022-04-25 13-30-11.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:File '2022-04-25 13-30-11.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\2
+INFO:root:Looking for 2022-04-26 13-26-30.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\36
+INFO:root:File '2022-04-26 13-26-30.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\36
+INFO:root:Looking for 2022-04-25 16-46-28.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\36
+INFO:root:File '2022-04-25 16-46-28.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\36
+INFO:root:Looking for 2022-04-25 17-15-26.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\36
+INFO:root:File '2022-04-25 17-15-26.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\36
+INFO:root:Looking for 2022-04-26 13-54-39.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\65
+INFO:root:File '2022-04-26 13-54-39.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\65
+INFO:root:Looking for 2022-04-26 13-11-37.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:File '2022-04-26 13-11-37.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:Looking for 2022-04-23 12-19-49.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:File '2022-04-23 12-19-49.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:Looking for 2022-04-22 12-41-47.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:File '2022-04-22 12-41-47.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:Looking for 2022-04-26 13-11-21.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:File '2022-04-26 13-11-21.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:Looking for 2022-04-25 14-13-16.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:File '2022-04-25 14-13-16.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:Looking for 2022-04-25 15-23-08.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:File '2022-04-25 15-23-08.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:Looking for 2022-04-21 17-56-31.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:File '2022-04-21 17-56-31.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:Looking for 2022-04-25 14-13-27.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:File '2022-04-25 14-13-27.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\18
+INFO:root:Looking for 2022-04-26 14-17-40.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\112
+INFO:root:File '2022-04-26 14-17-40.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\112
+INFO:root:Looking for 2022-04-26 13-19-29.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\27
+INFO:root:File '2022-04-26 13-19-29.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\27
+INFO:root:Looking for 2022-04-25 14-55-38.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\27
+INFO:root:File '2022-04-25 14-55-38.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\27
+INFO:root:Looking for 2022-04-25 16-02-18.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\27
+INFO:root:File '2022-04-25 16-02-18.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\27
+INFO:root:Looking for 2022-04-25 13-54-11.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\13
+INFO:root:File '2022-04-25 13-54-11.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\13
+INFO:root:Looking for 2022-04-21 17-34-00.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\13
+INFO:root:File '2022-04-21 17-34-00.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\13
+INFO:root:Looking for 2022-04-26 13-08-11.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\13
+INFO:root:File '2022-04-26 13-08-11.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\13
+INFO:root:Looking for 2022-04-22 12-30-23.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\13
+INFO:root:File '2022-04-22 12-30-23.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\13
+INFO:root:Looking for 2022-04-23 12-05-30.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\13
+INFO:root:File '2022-04-23 12-05-30.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\13
+INFO:root:Looking for 2022-04-25 14-07-54.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\13
+INFO:root:File '2022-04-25 14-07-54.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\13
+INFO:root:Looking for 2022-04-26 13-51-50.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\61
+INFO:root:File '2022-04-26 13-51-50.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\61
+INFO:root:Looking for 2022-04-26 13-51-59.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\61
+INFO:root:File '2022-04-26 13-51-59.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\61
+INFO:root:Looking for 2022-04-26 13-39-55.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\47
+INFO:root:File '2022-04-26 13-39-55.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\47
+INFO:root:Looking for 2022-04-25 16-59-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\47
+INFO:root:File '2022-04-25 16-59-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\47
+INFO:root:Looking for 2022-04-26 14-23-20.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\118
+INFO:root:File '2022-04-26 14-23-20.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\118
+INFO:root:Looking for 2022-04-26 14-04-17.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\87
+INFO:root:File '2022-04-26 14-04-17.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\87
+INFO:root:Looking for 2022-04-26 14-04-05.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\87
+INFO:root:File '2022-04-26 14-04-05.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\87
+INFO:root:Looking for 2022-04-26 13-57-28.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\73
+INFO:root:File '2022-04-26 13-57-28.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\73
+INFO:root:Looking for 2022-04-25 17-09-56.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\57
+INFO:root:File '2022-04-25 17-09-56.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\57
+INFO:root:Looking for 2022-04-26 13-50-00.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\57
+INFO:root:File '2022-04-26 13-50-00.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\57
+INFO:root:Looking for 2022-04-26 13-20-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\28
+INFO:root:File '2022-04-26 13-20-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\28
+INFO:root:Looking for 2022-04-23 13-03-27.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\28
+INFO:root:File '2022-04-23 13-03-27.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\28
+INFO:root:Looking for 2022-04-26 13-19-57.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\28
+INFO:root:File '2022-04-26 13-19-57.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\28
+INFO:root:Looking for 2022-04-25 14-58-44.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\28
+INFO:root:File '2022-04-25 14-58-44.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\28
+INFO:root:Looking for 2022-04-25 16-22-19.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\28
+INFO:root:File '2022-04-25 16-22-19.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\28
+INFO:root:Looking for 2022-04-25 17-06-49.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\53
+INFO:root:File '2022-04-25 17-06-49.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\53
+INFO:root:Looking for 2022-04-26 13-47-53.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\53
+INFO:root:File '2022-04-26 13-47-53.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\53
+INFO:root:Looking for 2022-04-19 15-57-04.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:File '2022-04-19 15-57-04.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:Looking for 2022-04-26 13-07-38.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:File '2022-04-26 13-07-38.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:Looking for 2022-04-23 12-04-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:File '2022-04-23 12-04-33.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:Looking for 2022-04-26 13-07-14.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:File '2022-04-26 13-07-14.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:Looking for 2022-04-19 15-20-03.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:File '2022-04-19 15-20-03.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:Looking for 2022-04-22 12-25-05.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:File '2022-04-22 12-25-05.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:Looking for 2022-04-21 17-32-16.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:File '2022-04-21 17-32-16.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:Looking for 2022-04-25 14-06-04.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:File '2022-04-25 14-06-04.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:Looking for 2022-04-25 13-48-42.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:File '2022-04-25 13-48-42.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\11
+INFO:root:Looking for 2022-04-27 12-50-43.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\140
+INFO:root:File '2022-04-27 12-50-43.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\140
+INFO:root:Looking for 2022-04-27 12-47-53.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\140
+INFO:root:File '2022-04-27 12-47-53.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\140
+INFO:root:Looking for 2022-04-27 12-48-02.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\140
+INFO:root:File '2022-04-27 12-48-02.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\140
+INFO:root:Looking for 2022-04-27 12-58-13.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\149
+INFO:root:File '2022-04-27 12-58-13.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\149
+INFO:root:Looking for 2022-04-26 14-12-12.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\104
+INFO:root:File '2022-04-26 14-12-12.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\104
+INFO:root:Looking for 2022-04-26 14-19-29.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\115
+INFO:root:File '2022-04-26 14-19-29.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\115
+INFO:root:Looking for 2022-04-26 13-14-12.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\22
+INFO:root:File '2022-04-26 13-14-12.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\22
+INFO:root:Looking for 2022-04-21 18-05-02.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\22
+INFO:root:File '2022-04-21 18-05-02.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\22
+INFO:root:Looking for 2022-04-26 13-14-01.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\22
+INFO:root:File '2022-04-26 13-14-01.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\22
+INFO:root:Looking for 2022-04-23 12-38-59.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\22
+INFO:root:File '2022-04-23 12-38-59.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\22
+INFO:root:Looking for 2022-04-25 14-24-59.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\22
+INFO:root:File '2022-04-25 14-24-59.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\22
+INFO:root:Looking for 2022-04-25 16-20-50.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\22
+INFO:root:File '2022-04-25 16-20-50.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\22
+INFO:root:Looking for 2022-04-26 13-56-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\69
+INFO:root:File '2022-04-26 13-56-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\69
+INFO:root:Looking for 2022-04-26 14-19-41.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\116
+INFO:root:File '2022-04-26 14-19-41.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\116
+INFO:root:Looking for 2022-04-25 17-17-04.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\38
+INFO:root:File '2022-04-25 17-17-04.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\38
+INFO:root:Looking for 2022-04-25 16-47-27.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\38
+INFO:root:File '2022-04-25 16-47-27.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\38
+INFO:root:Looking for 2022-04-26 13-27-13.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\38
+INFO:root:File '2022-04-26 13-27-13.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\38
+INFO:root:Looking for 2022-04-26 13-55-12.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\67
+INFO:root:File '2022-04-26 13-55-12.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\67
+INFO:root:Looking for 2022-04-27 12-41-37.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\134
+INFO:root:File '2022-04-27 12-41-37.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\134
+INFO:root:Looking for 2022-04-26 14-08-55.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\100
+INFO:root:File '2022-04-26 14-08-55.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\100
+INFO:root:Looking for 2022-04-26 14-09-22.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\100
+INFO:root:File '2022-04-26 14-09-22.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\100
+INFO:root:Looking for 2022-04-26 14-24-08.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\121
+INFO:root:File '2022-04-26 14-24-08.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\121
+INFO:root:Looking for 2022-04-25 14-49-08.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\25
+INFO:root:File '2022-04-25 14-49-08.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\25
+INFO:root:Looking for 2022-04-23 12-52-13.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\25
+INFO:root:File '2022-04-23 12-52-13.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\25
+INFO:root:Looking for 2022-04-25 16-13-34.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\25
+INFO:root:File '2022-04-25 16-13-34.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\25
+INFO:root:Looking for 2022-04-26 13-15-41.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\25
+INFO:root:File '2022-04-26 13-15-41.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\25
+INFO:root:Looking for 2022-04-27 12-50-59.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\142
+INFO:root:File '2022-04-27 12-50-59.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\142
+INFO:root:Looking for 2022-04-26 14-14-07.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\106
+INFO:root:File '2022-04-26 14-14-07.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\106
+INFO:root:Looking for 2022-04-26 14-25-02.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\123
+INFO:root:File '2022-04-26 14-25-02.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\123
+INFO:root:Looking for 2022-04-26 14-24-44.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\123
+INFO:root:File '2022-04-26 14-24-44.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\123
+INFO:root:Looking for 2022-04-25 17-05-08.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\52
+INFO:root:File '2022-04-25 17-05-08.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\52
+INFO:root:Looking for 2022-04-26 13-47-11.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\52
+INFO:root:File '2022-04-26 13-47-11.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\52
+INFO:root:Looking for 2022-04-26 14-08-08.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\96
+INFO:root:File '2022-04-26 14-08-08.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\96
+INFO:root:Looking for 2022-04-27 13-11-09.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\162
+INFO:root:File '2022-04-27 13-11-09.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\162
+INFO:root:Looking for 2022-04-25 17-00-52.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\50
+INFO:root:File '2022-04-25 17-00-52.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\50
+INFO:root:Looking for 2022-04-26 13-46-10.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\50
+INFO:root:File '2022-04-26 13-46-10.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\50
+INFO:root:Looking for 2022-04-26 14-23-34.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\119
+INFO:root:File '2022-04-26 14-23-34.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\119
+INFO:root:Looking for 2022-04-27 13-55-41.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\165
+INFO:root:File '2022-04-27 13-55-41.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\165
+INFO:root:Looking for 2022-04-27 13-16-21.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\165
+INFO:root:File '2022-04-27 13-16-21.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\165
+INFO:root:Looking for 2022-04-27 13-14-45.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\165
+INFO:root:File '2022-04-27 13-14-45.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\165
+INFO:root:Looking for 2022-04-27 13-56-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\165
+INFO:root:File '2022-04-27 13-56-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\165
+INFO:root:Looking for 2022-04-27 13-09-20.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\160
+INFO:root:File '2022-04-27 13-09-20.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\160
+INFO:root:Looking for 2022-04-27 13-09-47.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\160
+INFO:root:File '2022-04-27 13-09-47.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\160
+INFO:root:Looking for 2022-04-26 14-05-39.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\91
+INFO:root:File '2022-04-26 14-05-39.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\91
+INFO:root:Looking for 2022-04-26 14-19-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\114
+INFO:root:File '2022-04-26 14-19-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\114
+INFO:root:Looking for 2022-04-27 12-45-29.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\137
+INFO:root:File '2022-04-27 12-45-29.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\137
+INFO:root:Looking for 2022-04-27 12-45-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\137
+INFO:root:File '2022-04-27 12-45-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\137
+INFO:root:Looking for 2022-04-26 14-11-50.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\102
+INFO:root:File '2022-04-26 14-11-50.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\102
+INFO:root:Looking for 2022-04-26 14-08-25.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\98
+INFO:root:File '2022-04-26 14-08-25.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\98
+INFO:root:Looking for 2022-04-26 13-50-54.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\59
+INFO:root:File '2022-04-26 13-50-54.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\59
+INFO:root:Looking for 2022-04-26 13-44-58.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\49
+INFO:root:File '2022-04-26 13-44-58.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\49
+INFO:root:Looking for 2022-04-25 16-59-59.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\49
+INFO:root:File '2022-04-25 16-59-59.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\49
+INFO:root:Looking for 2022-04-26 13-45-39.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\49
+INFO:root:File '2022-04-26 13-45-39.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\49
+INFO:root:Looking for 2022-04-27 12-40-28.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\131
+INFO:root:File '2022-04-27 12-40-28.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\131
+INFO:root:Looking for 2022-04-27 12-40-08.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\131
+INFO:root:File '2022-04-27 12-40-08.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\131
+INFO:root:Looking for 2022-04-27 12-58-53.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\151
+INFO:root:File '2022-04-27 12-58-53.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\151
+INFO:root:Looking for 2022-04-27 12-59-04.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\151
+INFO:root:File '2022-04-27 12-59-04.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\151
+INFO:root:Looking for 2022-04-26 13-57-09.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\72
+INFO:root:File '2022-04-26 13-57-09.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\72
+INFO:root:Looking for 2022-04-26 13-56-59.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\72
+INFO:root:File '2022-04-26 13-56-59.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\72
+INFO:root:Looking for 2022-04-26 13-31-23.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\43
+INFO:root:File '2022-04-26 13-31-23.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\43
+INFO:root:Looking for 2022-04-25 16-51-46.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\43
+INFO:root:File '2022-04-25 16-51-46.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\43
+INFO:root:Looking for 2022-04-25 17-28-13.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\43
+INFO:root:File '2022-04-25 17-28-13.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\43
+INFO:root:Looking for 2022-04-25 14-15-19.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:File '2022-04-25 14-15-19.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:Looking for 2022-04-26 13-12-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:File '2022-04-26 13-12-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:Looking for 2022-04-23 12-20-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:File '2022-04-23 12-20-33.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:Looking for 2022-04-21 17-57-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:File '2022-04-21 17-57-33.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:Looking for 2022-04-22 12-42-35.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:File '2022-04-22 12-42-35.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:Looking for 2022-04-25 14-17-03.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:File '2022-04-25 14-17-03.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:Looking for 2022-04-26 13-12-39.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:File '2022-04-26 13-12-39.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:Looking for 2022-04-25 15-26-02.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:File '2022-04-25 15-26-02.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\19
+INFO:root:Looking for 2022-04-23 11-57-44.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:File '2022-04-23 11-57-44.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:Looking for 2022-04-25 13-13-45.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:File '2022-04-25 13-13-45.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:Looking for 2022-04-19 15-48-43.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:File '2022-04-19 15-48-43.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:Looking for 2022-04-22 12-15-38.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:File '2022-04-22 12-15-38.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:Looking for 2022-04-19 15-17-57.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:File '2022-04-19 15-17-57.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:Looking for 2022-04-26 13-01-23.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:File '2022-04-26 13-01-23.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:Looking for 2022-04-21 17-27-34.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:File '2022-04-21 17-27-34.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:Looking for 2022-04-25 13-31-54.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:File '2022-04-25 13-31-54.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\5
+INFO:root:Looking for 2022-04-27 12-59-23.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\152
+INFO:root:File '2022-04-27 12-59-23.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\152
+INFO:root:Looking for 2022-04-27 12-59-32.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\152
+INFO:root:File '2022-04-27 12-59-32.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\152
+INFO:root:Looking for 2022-04-26 14-01-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\82
+INFO:root:File '2022-04-26 14-01-33.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\82
+INFO:root:Looking for 2022-04-25 15-11-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\33
+INFO:root:File '2022-04-25 15-11-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\33
+INFO:root:Looking for 2022-04-25 16-41-55.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\33
+INFO:root:File '2022-04-25 16-41-55.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\33
+INFO:root:Looking for 2022-04-26 13-23-43.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\33
+INFO:root:File '2022-04-26 13-23-43.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\33
+INFO:root:Looking for 2022-04-26 14-07-26.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\95
+INFO:root:File '2022-04-26 14-07-26.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\95
+INFO:root:Looking for 2022-04-26 14-07-10.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\95
+INFO:root:File '2022-04-26 14-07-10.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\95
+INFO:root:Looking for 2022-04-25 17-08-18.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\55
+INFO:root:File '2022-04-25 17-08-18.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\55
+INFO:root:Looking for 2022-04-26 13-49-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\55
+INFO:root:File '2022-04-26 13-49-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\55
+INFO:root:Looking for 2022-04-27 12-51-50.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\143
+INFO:root:File '2022-04-27 12-51-50.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\143
+INFO:root:Looking for 2022-04-27 12-51-17.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\143
+INFO:root:File '2022-04-27 12-51-17.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\143
+INFO:root:Looking for 2022-04-26 14-12-30.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\105
+INFO:root:File '2022-04-26 14-12-30.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\105
+INFO:root:Looking for 2022-04-26 14-07-51.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\97
+INFO:root:File '2022-04-26 14-07-51.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\97
+INFO:root:Looking for 2022-04-26 13-22-50.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\31
+INFO:root:File '2022-04-26 13-22-50.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\31
+INFO:root:Looking for 2022-04-23 13-11-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\31
+INFO:root:File '2022-04-23 13-11-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\31
+INFO:root:Looking for 2022-04-25 15-05-15.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\31
+INFO:root:File '2022-04-25 15-05-15.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\31
+INFO:root:Looking for 2022-04-25 16-35-16.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\31
+INFO:root:File '2022-04-25 16-35-16.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\31
+INFO:root:Looking for 2022-04-25 14-43-51.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\24
+INFO:root:File '2022-04-25 14-43-51.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\24
+INFO:root:Looking for 2022-04-26 13-15-20.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\24
+INFO:root:File '2022-04-26 13-15-20.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\24
+INFO:root:Looking for 2022-04-23 12-51-45.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\24
+INFO:root:File '2022-04-23 12-51-45.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\24
+INFO:root:Looking for 2022-04-25 15-46-35.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\24
+INFO:root:File '2022-04-25 15-46-35.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\24
+INFO:root:Looking for 2022-04-25 14-43-41.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\24
+INFO:root:File '2022-04-25 14-43-41.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\24
+INFO:root:Looking for 2022-04-26 14-05-24.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\temp\90
+INFO:root:File '2022-04-26 14-05-24.mp4' removed from path: C:\Users\togru\ml-playground\SLR\Data\Video\temp\90
+INFO:root:Logging Session Ended at 2022-05-08 00-50-23

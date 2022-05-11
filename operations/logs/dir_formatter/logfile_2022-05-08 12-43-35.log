@@ -1,0 +1,26 @@
+INFO:root:Logging Session Started at 2022-05-08 12-43-35
+INFO:root:Looking for 2022-04-26 13-58-53.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\76
+INFO:root:Destination Path 'C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\76' created
+INFO:root:File '2022-04-26 13-58-53.mp4' copied to path: C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\76
+INFO:root:Looking for 2022-04-25 16-48-09.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\39
+INFO:root:Destination Path 'C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\39' created
+INFO:root:File '2022-04-25 16-48-09.mp4' copied to path: C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\39
+INFO:root:Looking for 2022-04-26 13-27-43.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\39
+INFO:root:File '2022-04-26 13-27-43.mp4' copied to path: C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\39
+INFO:root:Looking for 2022-04-26 13-27-26.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\39
+INFO:root:File '2022-04-26 13-27-26.mp4' copied to path: C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\39
+INFO:root:Looking for 2022-04-25 17-21-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\39
+INFO:root:File '2022-04-25 17-21-33.mp4' copied to path: C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\39
+INFO:root:Looking for 2022-04-25 16-45-57.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\35
+INFO:root:Destination Path 'C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\35' created
+INFO:root:File '2022-04-25 16-45-57.mp4' copied to path: C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\35
+INFO:root:Looking for 2022-04-26 13-25-33.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\35
+INFO:root:File '2022-04-26 13-25-33.mp4' copied to path: C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\35
+INFO:root:Looking for 2022-04-25 17-15-00.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\35
+INFO:root:File '2022-04-25 17-15-00.mp4' copied to path: C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\35
+INFO:root:Looking for 2022-04-22 12-31-40.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\14
+INFO:root:Destination Path 'C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\14' created
+INFO:root:File '2022-04-22 12-31-40.mp4' copied to path: C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\14
+INFO:root:Looking for 2022-04-26 13-08-26.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\14
+INFO:root:File '2022-04-26 13-08-26.mp4' copied to path: C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\14
+INFO:root:Looking for 2022-04-21 17-36-47.mp4 in C:\Users\togru\ml-playground\SLR\Data\Video\Cam1\14
