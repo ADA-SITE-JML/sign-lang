@@ -3,7 +3,7 @@ import json
 import os
 
 cwd = os.path.dirname(os.path.abspath("tags_to_sign_language.py"))
-cwd
+
 parent_dir = cwd + "\\Data\\annotations\\"
 
 # df = pd.read_json(json_path)

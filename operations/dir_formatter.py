@@ -7,10 +7,11 @@ import pandas as pd
 import numpy as np
 
 py_parent_dir = os.path.dirname(os.path.abspath('dir_formatter.py'))
+print(py_parent_dir)
 # py_parent_dir = 'H:\Other computers\My Computer\SLR'
 d = datetime.datetime.now()
 print(py_parent_dir)
-log_file_path = f"{py_parent_dir}\\logs\\dir_formatter"
+log_file_path = f"{py_parent_dir}\\operations\\logs\\dir_formatter"
 if not os.path.exists(log_file_path):
     os.mkdir(log_file_path)
 
@@ -23,8 +24,8 @@ logging.getLogger().addHandler(logging.StreamHandler(sys.stdout))
 
 logging.info(f"Logging Session Started at {datetime.datetime.now().strftime('%Y-%m-%d %H-%M-%S')}")
 
-src_parent = f"{py_parent_dir}\\..\\Data\\Video\\Cam2"
-dest_parent = f"D:\\SLR_test\\Cam1"
+src_parent = f"{py_parent_dir}\\Data\\Video\\Cam2"
+dest_parent = f"{py_parent_dir}\\Data\\Video\\Cam1"
 
 
 if not os.path.exists(dest_parent):
