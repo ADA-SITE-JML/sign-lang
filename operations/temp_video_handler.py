@@ -7,11 +7,11 @@ import sys
 
 # py_parent_dir = os.path.dirname(os.path.abspath('temp_video_handler.py'))
 # os.startfile(py_parent_dir)
-py_parent_dir = 'H:\Other computers\My Computer\SLR'
+py_parent_dir = 'D:\\SLR'
 
 d = datetime.datetime.now()
 
-log_filename = f"C:\\Users\\togru\\ml-playground\\SLR\\operations\\logs\\video_handler\\logfile_{d.strftime('%Y-%m-%d %H-%M-%S')}.log"
+log_filename = f"D:\\SLR\\operations\\logs\\video_handler\\logfile_{d.strftime('%Y-%m-%d %H-%M-%S')}.log"
 
 logging.basicConfig(filename = log_filename,
                     filemode = "w+",
@@ -21,7 +21,7 @@ logging.getLogger().addHandler(logging.StreamHandler(sys.stdout))
 logging.info(f"Logging Session Started at {datetime.datetime.now().strftime('%Y-%m-%d %H-%M-%S')}")
 
 src_parent = f"{py_parent_dir}\\Data\\Video\\Cam2"
-dest_parent = f"C:\\Users\\togru\\ml-playground\\SLR\\Data\\Video\\temp"
+dest_parent = f""{py_parent_dir}\\Data\\Video\\temp"
 
 if not os.path.exists(dest_parent):
     os.mkdir(dest_parent)
