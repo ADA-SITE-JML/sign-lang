@@ -1,7 +1,10 @@
+# For hand detection used this: https://www.analyticsvidhya.com/blog/2021/07/building-a-hand-tracking-system-using-opencv/
+
 import math
 import cv2
 import mediapipe as mp
 from matplotlib import pyplot as plt
+
 
 video_dir = '../../video/1/'
 fname = '2022-04-19 15-44-38.mp4'
@@ -13,7 +16,7 @@ if (sample.isOpened() == False):
 	print("Error opening video stream or file")
 
 # plays a video file
-def play_video(video_data):
+def play_video_format(video_data):
 	# Read until video is completed
 	while(video_data.isOpened()):
 		# Capture frame-by-frame
@@ -28,6 +31,13 @@ def play_video(video_data):
 		# Break the loop
 		else:
 			break
+
+def play_video_arr(video_arr):
+	# Read until video is completed
+	for frame in video_arr:
+		cv2.imshow('Frame',frame)
+		if cv2.waitKey(25) & 0xFF == ord('q'):
+				break
 
 # shows frames as images
 def show_frames(video_data,start_frame, frame_count):
@@ -57,8 +67,38 @@ def show_frames(video_data,start_frame, frame_count):
 				plt.title('No hands')
 	plt.show()
 
-#play_video(sample)
-show_frames(sample,0,22)
+# keeps only informative frames
+def keep_frames_with_hands(video_data):
+	video_arr = []
+
+	mpHands = mp.solutions.hands
+	hands = mpHands.Hands(static_image_mode=False,
+	                      max_num_hands=2,
+	                      min_detection_confidence=0.5,
+	                      min_tracking_confidence=0.5)
+
+	while(video_data.isOpened()):
+		ret, frame = video_data.read()
+
+		if ret == True:
+			hand_results = hands.process(frame)
+			if hand_results.multi_hand_landmarks:
+				video_arr.append(frame)
+		# Break the loop
+		else:
+			break
+
+	return video_arr
+
+# Show the whole video
+#play_video_format(sample)
+
+# Demonstrate some frames with hand detection
+#show_frames(sample,0,22)
+
+# Show video with hands only
+hands_only = keep_frames_with_hands(sample)
+play_video_arr(hands_only)
 
 # When everything done, release the video capture object
 sample.release()
