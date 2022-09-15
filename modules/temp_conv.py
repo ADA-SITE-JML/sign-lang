@@ -57,7 +57,7 @@ class TemporalConv(nn.Module):
         visual_ft = self.temporal_conv(frame_feat)
         lgt = self.update_lgt(lgt)
 
-        logits = None if self.num_classes == -1 else self.fc(visual_feat.transpose(1, 2)).transpose(1, 2)
+        logits = None if self.num_classes == -1 else self.fc(visual_ft.transpose(1, 2)).transpose(1, 2)
 
         return {
             "visual_feat": visual_ft.permute(2, 0, 1),
