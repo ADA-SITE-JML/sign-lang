@@ -6,15 +6,6 @@ import mediapipe as mp
 from matplotlib import pyplot as plt
 
 
-video_dir = '../../video/1/'
-fname = '2022-04-19 15-44-38.mp4'
-
-sample = cv2.VideoCapture(video_dir+fname)
-
-# Check if camera opened successfully
-if (sample.isOpened() == False):
-	print("Error opening video stream or file")
-
 # plays a video file
 def play_video_format(video_data):
 	# Read until video is completed
@@ -90,17 +81,27 @@ def keep_frames_with_hands(video_data):
 
 	return video_arr
 
-# Show the whole video
-#play_video_format(sample)
+if __name__ == '__main__':
+	video_dir = '../../video/1/'
+	fname = '2022-04-19 15-44-38.mp4'
 
-# Demonstrate some frames with hand detection
-#show_frames(sample,0,22)
+	sample = cv2.VideoCapture(video_dir+fname)
 
-# Show video with hands only
-hands_only = keep_frames_with_hands(sample)
-play_video_arr(hands_only)
+	# Check if camera opened successfully
+	if (sample.isOpened() == False):
+		print("Error opening video stream or file")
 
-# When everything done, release the video capture object
-sample.release()
-# Closes all the frames
-cv2.destroyAllWindows()
+	# Show the whole video
+	#play_video_format(sample)
+
+	# Demonstrate some frames with hand detection
+	#show_frames(sample,0,22)
+
+	# Show video with hands only
+	hands_only = keep_frames_with_hands(sample)
+	play_video_arr(hands_only)
+
+	# When everything done, release the video capture object
+	sample.release()
+	# Closes all the frames
+	cv2.destroyAllWindows()
