@@ -1,0 +1,35 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "91deae08783048a09e06f30b8d54c472",
+    "tags": [
+        {
+            "name": "BO\u015eDUR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-06T13:34:25.767Z",
+            "createdAt": "2022-09-06T13:34:25.767Z",
+            "frameRange": [
+                72,
+                106
+            ],
+            "key": "9e0925525d9346138fe1ee45aafdf51e"
+        },
+        {
+            "name": "EV",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-06T13:32:23.559Z",
+            "createdAt": "2022-09-06T13:32:23.559Z",
+            "frameRange": [
+                37,
+                53
+            ],
+            "key": "06352712082c4129b9ed63f7fe2cdf2a"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 156
+}

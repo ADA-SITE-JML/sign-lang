@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "3cdc3c99c8824c8dae5deb5526ccc7e7",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:24:24.214Z",
+            "createdAt": "2022-08-31T12:24:24.214Z",
+            "frameRange": [
+                91,
+                102
+            ],
+            "key": "f78676d838f3440391a98269cec3f8b7"
+        },
+        {
+            "name": "QAB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:25:11.619Z",
+            "createdAt": "2022-08-31T12:25:11.619Z",
+            "frameRange": [
+                145,
+                159
+            ],
+            "key": "d318325f8e4248fda24dcafbb6c2ee2a"
+        },
+        {
+            "name": "\u00dc\u00c7\u00dcN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:24:57.975Z",
+            "createdAt": "2022-08-31T12:24:57.975Z",
+            "frameRange": [
+                127,
+                142
+            ],
+            "key": "b8f69a6bf1434a7eb23cda3e8670a0fd"
+        },
+        {
+            "name": "M\u018fTB\u018fX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:24:42.205Z",
+            "createdAt": "2022-08-31T12:24:42.205Z",
+            "frameRange": [
+                106,
+                123
+            ],
+            "key": "f76482940b5b423d87e6ce1f2a53012e"
+        },
+        {
+            "name": "ALMALIYAM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:25:59.565Z",
+            "createdAt": "2022-08-31T12:25:59.565Z",
+            "frameRange": [
+                161,
+                190
+            ],
+            "key": "e4dfcc23d75443df91489c8bf1279d7d"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 277
+}

@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "6053f5f55cdd44c8a4a5f1bff56313cf",
+    "tags": [
+        {
+            "name": "QAB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:05:16.906Z",
+            "createdAt": "2022-08-31T12:05:16.906Z",
+            "frameRange": [
+                71,
+                87
+            ],
+            "key": "3f192327787645fab5af8c9b7a4be18f"
+        },
+        {
+            "name": "ALMALIYAM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:05:45.784Z",
+            "createdAt": "2022-08-31T12:05:45.784Z",
+            "frameRange": [
+                91,
+                128
+            ],
+            "key": "4eef2696fe3d4ca08a5f2fcf8eb7beec"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:04:25.367Z",
+            "createdAt": "2022-08-31T12:04:25.367Z",
+            "frameRange": [
+                0,
+                25
+            ],
+            "key": "9ec563820c1e406ab827c70ac409501e"
+        },
+        {
+            "name": "\u00dc\u00c7\u00dcN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:04:54.055Z",
+            "createdAt": "2022-08-31T12:04:54.055Z",
+            "frameRange": [
+                51,
+                67
+            ],
+            "key": "f19058ce9fbc410da98b2123a57bbac7"
+        },
+        {
+            "name": "M\u018fTB\u018fX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:04:38.391Z",
+            "createdAt": "2022-08-31T12:04:38.391Z",
+            "frameRange": [
+                34,
+                48
+            ],
+            "key": "095db74c8e4149bcaeb65d55adeeb03c"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 171
+}

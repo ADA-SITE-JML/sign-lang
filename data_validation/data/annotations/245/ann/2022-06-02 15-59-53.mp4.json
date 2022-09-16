@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "991d95d6e4ee41fbb6261d879db7d766",
+    "tags": [
+        {
+            "name": "ALMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T11:27:08.737Z",
+            "createdAt": "2022-08-31T11:27:08.737Z",
+            "frameRange": [
+                129,
+                157
+            ],
+            "key": "c880883d644f4ff895b6530a99b0a65f"
+        },
+        {
+            "name": "QAB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T11:26:37.755Z",
+            "createdAt": "2022-08-31T11:26:37.755Z",
+            "frameRange": [
+                107,
+                124
+            ],
+            "key": "924b18dc434f484899d6eeff46380e22"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T11:25:01.965Z",
+            "createdAt": "2022-08-31T11:25:01.965Z",
+            "frameRange": [
+                22,
+                42
+            ],
+            "key": "126164e6a9a9431d9abbed2c614ddf87"
+        },
+        {
+            "name": "\u00dc\u00c7\u00dcN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T11:26:23.818Z",
+            "createdAt": "2022-08-31T11:26:23.818Z",
+            "frameRange": [
+                74,
+                103
+            ],
+            "key": "d5cd910362f447bdb3eb75c713c1e651"
+        },
+        {
+            "name": "M\u018fTB\u018fX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T11:25:59.164Z",
+            "createdAt": "2022-08-31T11:25:59.164Z",
+            "frameRange": [
+                46,
+                71
+            ],
+            "key": "0d4d43cef0584e1cbe6c22b3b7c49b79"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 204
+}

@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "9102be3cf91a47a69645127b1c2a1329",
+    "tags": [
+        {
+            "name": "SUR\u018fT",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T09:59:55.043Z",
+            "createdAt": "2022-09-11T09:59:55.043Z",
+            "frameRange": [
+                66,
+                80
+            ],
+            "key": "fa8de8ace8fe43e9a6699a2c9df96b0f"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T10:00:27.618Z",
+            "createdAt": "2022-09-11T10:00:27.618Z",
+            "frameRange": [
+                129,
+                150
+            ],
+            "key": "3aa958f0159f4b969073df72e33e894a"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T09:59:21.173Z",
+            "createdAt": "2022-09-11T09:59:21.173Z",
+            "frameRange": [
+                19,
+                34
+            ],
+            "key": "6e63be8d78d94f31936658787318fd06"
+        },
+        {
+            "name": "S\u018fN\u018fD",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T09:59:39.222Z",
+            "createdAt": "2022-09-11T09:59:39.222Z",
+            "frameRange": [
+                40,
+                63
+            ],
+            "key": "14010937f20144099a713bddce4d13ff"
+        },
+        {
+            "name": "HARDA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T10:00:11.646Z",
+            "createdAt": "2022-09-11T10:00:11.646Z",
+            "frameRange": [
+                84,
+                103
+            ],
+            "key": "3516eba66c5b4e808e0d67839e835803"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 186
+}

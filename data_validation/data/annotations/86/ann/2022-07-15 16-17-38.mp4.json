@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "7b4db6848a6a45e89bfe28939aae6efd",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:06:46.836Z",
+            "createdAt": "2022-09-10T13:06:46.836Z",
+            "frameRange": [
+                15,
+                40
+            ],
+            "key": "8ec37533dd7d4392ba9035d76524e8cc"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:07:41.629Z",
+            "createdAt": "2022-09-10T13:07:41.629Z",
+            "frameRange": [
+                77,
+                97
+            ],
+            "key": "c72035f49c0049a1920246f07c1e7fb5"
+        },
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:08:23.775Z",
+            "createdAt": "2022-09-10T13:08:23.775Z",
+            "frameRange": [
+                116,
+                145
+            ],
+            "key": "caf783e2223e4abf84230f236d24ddeb"
+        },
+        {
+            "name": "IL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:08:08.757Z",
+            "createdAt": "2022-09-10T13:08:08.757Z",
+            "frameRange": [
+                101,
+                114
+            ],
+            "key": "abadcea748ad478089cb424b89c3a447"
+        },
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:07:11.264Z",
+            "createdAt": "2022-09-10T13:07:11.264Z",
+            "frameRange": [
+                51,
+                73
+            ],
+            "key": "9e54c146dc48419596e4d2fd22e33f21"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 188
+}

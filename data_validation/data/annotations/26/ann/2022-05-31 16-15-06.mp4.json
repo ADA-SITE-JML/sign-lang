@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "a56d967e339840aa87e6cd3ebec98ec2",
+    "tags": [
+        {
+            "name": "METRO",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T11:58:23.993Z",
+            "createdAt": "2022-09-13T11:58:23.993Z",
+            "frameRange": [
+                90,
+                111
+            ],
+            "key": "94483ecedc2041fa9ffe045100043e52"
+        },
+        {
+            "name": "YAXIN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T11:58:02.171Z",
+            "createdAt": "2022-09-13T11:58:02.171Z",
+            "frameRange": [
+                86,
+                86
+            ],
+            "key": "40e7637c32cc4116b488179454ed649e"
+        },
+        {
+            "name": "STANS\u0130YA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T11:58:55.964Z",
+            "createdAt": "2022-09-13T11:58:55.964Z",
+            "frameRange": [
+                119,
+                143
+            ],
+            "key": "0b4db24d5af44998a25e46dc18b5fa43"
+        },
+        {
+            "name": "BU G\u00dcN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T11:57:37.194Z",
+            "createdAt": "2022-09-13T11:57:37.194Z",
+            "frameRange": [
+                23,
+                41
+            ],
+            "key": "6ba93701ccdc485d8adba2d02c5bf6c2"
+        },
+        {
+            "name": "VAR",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T12:00:14.688Z",
+            "createdAt": "2022-09-13T12:00:14.688Z",
+            "frameRange": [
+                146,
+                175
+            ],
+            "key": "4e927f75b2b34b9db819ff3a87901e4e"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 245
+}

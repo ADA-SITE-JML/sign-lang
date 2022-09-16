@@ -1,0 +1,35 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "44c412f485794c34bb3c73ddcea7510f",
+    "tags": [
+        {
+            "name": "AYAQYOLU",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T10:43:41.333Z",
+            "createdAt": "2022-09-15T10:43:41.333Z",
+            "frameRange": [
+                35,
+                70
+            ],
+            "key": "9450ebb8e27c4899912d26b4f235fa7e"
+        },
+        {
+            "name": "HARA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T10:43:59.785Z",
+            "createdAt": "2022-09-15T10:43:59.785Z",
+            "frameRange": [
+                80,
+                110
+            ],
+            "key": "f62d94bc6eac4008b7dcccecf2b3da26"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 125
+}

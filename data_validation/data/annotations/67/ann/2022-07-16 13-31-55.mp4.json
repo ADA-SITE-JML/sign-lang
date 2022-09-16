@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "30315954878c47e4aed13de0f25f8d20",
+    "tags": [
+        {
+            "name": "TUTULMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T11:11:15.291Z",
+            "createdAt": "2022-09-05T11:11:15.291Z",
+            "frameRange": [
+                66,
+                91
+            ],
+            "key": "91d692a6a8484056a910d5b267ee3d75"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T11:09:35.811Z",
+            "createdAt": "2022-09-05T11:09:35.811Z",
+            "frameRange": [
+                20,
+                34
+            ],
+            "key": "ec7d3dd4220c4276aa99b84f8b5f58ae"
+        },
+        {
+            "name": "COV\u0130D",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T11:10:57.997Z",
+            "createdAt": "2022-09-05T11:10:57.997Z",
+            "frameRange": [
+                38,
+                61
+            ],
+            "key": "b4309adf748847898787464564d85d44"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 140
+}

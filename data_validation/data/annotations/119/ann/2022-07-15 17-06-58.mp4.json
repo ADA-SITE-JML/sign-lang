@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "57a7e39ecac542bda30236557cf4d0ad",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:10:12.233Z",
+            "createdAt": "2022-09-14T21:10:12.233Z",
+            "frameRange": [
+                32,
+                53
+            ],
+            "key": "550408260e8e4ed9b186c74ef3a8f11e"
+        },
+        {
+            "name": "P\u0130YADA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:10:29.202Z",
+            "createdAt": "2022-09-14T21:10:29.202Z",
+            "frameRange": [
+                60,
+                72
+            ],
+            "key": "a42bbf854402430597083ab6bba93308"
+        },
+        {
+            "name": "G\u018fZM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:10:43.810Z",
+            "createdAt": "2022-09-14T21:10:43.810Z",
+            "frameRange": [
+                76,
+                87
+            ],
+            "key": "a83b62cbfff6466d8b8d3ebf71f479cf"
+        },
+        {
+            "name": "\u00c7OX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:11:18.021Z",
+            "createdAt": "2022-09-14T21:11:18.021Z",
+            "frameRange": [
+                90,
+                106
+            ],
+            "key": "9f7668bbb5c844549938406c31fe6a35"
+        },
+        {
+            "name": "SEV\u0130R\u018fM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:11:48.884Z",
+            "createdAt": "2022-09-14T21:11:48.884Z",
+            "frameRange": [
+                109,
+                137
+            ],
+            "key": "67ce38d8cd814667b392c3605aa178fa"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 170
+}

@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "a237cd0f84754b9590df0cd812073d1a",
+    "tags": [
+        {
+            "name": "METRO",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T12:14:08.080Z",
+            "createdAt": "2022-09-13T12:14:08.080Z",
+            "frameRange": [
+                70,
+                90
+            ],
+            "key": "7604a7c52f9e482a8f70e2c89d91b1d3"
+        },
+        {
+            "name": "VAR",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T12:15:32.256Z",
+            "createdAt": "2022-09-13T12:15:32.256Z",
+            "frameRange": [
+                120,
+                149
+            ],
+            "key": "e0e9b9180eb5417598ce8b693ea6f67d"
+        },
+        {
+            "name": "YAXIN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T12:13:49.260Z",
+            "createdAt": "2022-09-13T12:13:49.260Z",
+            "frameRange": [
+                44,
+                66
+            ],
+            "key": "57a7376cb5fa4b7d97e9b6a14ada3fe5"
+        },
+        {
+            "name": "BURDA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T12:13:26.477Z",
+            "createdAt": "2022-09-13T12:13:26.477Z",
+            "frameRange": [
+                25,
+                40
+            ],
+            "key": "2dbc658cd02e4af08de09f1f4a785d06"
+        },
+        {
+            "name": "STANS\u0130YA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T12:14:28.494Z",
+            "createdAt": "2022-09-13T12:14:28.494Z",
+            "frameRange": [
+                93,
+                116
+            ],
+            "key": "9da24a48a7a84ca1b4cb7a57013826d7"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 194
+}

@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "4dc7479b21c14c4aa48e49beb1ff0625",
+    "tags": [
+        {
+            "name": "IL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:56:46.000Z",
+            "createdAt": "2022-09-10T12:56:46.000Z",
+            "frameRange": [
+                101,
+                124
+            ],
+            "key": "7310c3e2e1f249b1bfc278e032c03fa4"
+        },
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:57:36.600Z",
+            "createdAt": "2022-09-10T12:57:36.600Z",
+            "frameRange": [
+                128,
+                162
+            ],
+            "key": "10f0fa94832d4fd18ade6f7a91b54417"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:56:32.319Z",
+            "createdAt": "2022-09-10T12:56:32.319Z",
+            "frameRange": [
+                51,
+                98
+            ],
+            "key": "07c9102a42194faea2bc91734df4fe6f"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:55:20.246Z",
+            "createdAt": "2022-09-10T12:55:20.246Z",
+            "frameRange": [
+                15,
+                28
+            ],
+            "key": "76cffec4c11e44ba936fc00e144e71ec"
+        },
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:56:08.103Z",
+            "createdAt": "2022-09-10T12:56:08.103Z",
+            "frameRange": [
+                31,
+                48
+            ],
+            "key": "b60e157df973459da6eecc1c04617f41"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 233
+}

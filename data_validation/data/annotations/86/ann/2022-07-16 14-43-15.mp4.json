@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "f0bca8e52b714fdf974e99a4d8e4f765",
+    "tags": [
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:16:46.702Z",
+            "createdAt": "2022-09-10T13:16:46.702Z",
+            "frameRange": [
+                149,
+                173
+            ],
+            "key": "aa1e7b09d9ee48a8a5d7b4c5e28cf89e"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:12:24.467Z",
+            "createdAt": "2022-09-10T13:12:24.467Z",
+            "frameRange": [
+                18,
+                34
+            ],
+            "key": "62e5567536364bd593474e8aa9f2adfe"
+        },
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:14:07.089Z",
+            "createdAt": "2022-09-10T13:14:07.089Z",
+            "frameRange": [
+                37,
+                66
+            ],
+            "key": "f3234c6e19be49a5b540351057c7600d"
+        },
+        {
+            "name": "IL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:15:50.282Z",
+            "createdAt": "2022-09-10T13:15:50.282Z",
+            "frameRange": [
+                122,
+                142
+            ],
+            "key": "21885daf0ae14c8c81c0c3f6f15d3084"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:15:28.971Z",
+            "createdAt": "2022-09-10T13:15:28.971Z",
+            "frameRange": [
+                70,
+                112
+            ],
+            "key": "252adbf97bef4e0e975a25da190ffed0"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 210
+}

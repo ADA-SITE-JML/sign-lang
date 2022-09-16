@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "dcce302511224a11b2d09beecb500e80",
+    "tags": [
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T09:01:22.998Z",
+            "createdAt": "2022-09-13T09:01:22.998Z",
+            "frameRange": [
+                121,
+                154
+            ],
+            "key": "f71c3db7625b4cc88fa051cb829d485d"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T08:59:36.944Z",
+            "createdAt": "2022-09-13T08:59:36.944Z",
+            "frameRange": [
+                19,
+                44
+            ],
+            "key": "c8f0603acdf64e529ca5ebf840069f3a"
+        },
+        {
+            "name": "N\u018fR\u0130MANOV",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T08:59:49.458Z",
+            "createdAt": "2022-09-13T08:59:49.458Z",
+            "frameRange": [
+                50,
+                71
+            ],
+            "key": "74f7672305ea48e19ded6c84bd747715"
+        },
+        {
+            "name": "METRO",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T09:00:02.538Z",
+            "createdAt": "2022-09-13T09:00:02.538Z",
+            "frameRange": [
+                75,
+                93
+            ],
+            "key": "88c4d825e4f145a29de26c4d4c978a10"
+        },
+        {
+            "name": "YANINDA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T09:01:08.926Z",
+            "createdAt": "2022-09-13T09:01:08.926Z",
+            "frameRange": [
+                100,
+                115
+            ],
+            "key": "a1ce48dac677428a933746fe0452a6f0"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 193
+}

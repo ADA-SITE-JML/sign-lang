@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "0337c45a2f02460883df9ed1dda2fa66",
+    "tags": [
+        {
+            "name": "IL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:27:33.972Z",
+            "createdAt": "2022-09-10T13:27:33.972Z",
+            "frameRange": [
+                132,
+                154
+            ],
+            "key": "87f35cecf61241b180fe47fd3d96335d"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:25:42.653Z",
+            "createdAt": "2022-09-10T13:25:42.653Z",
+            "frameRange": [
+                53,
+                69
+            ],
+            "key": "f6d61f4263ff439b94ed23c7bf3c4799"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:27:20.535Z",
+            "createdAt": "2022-09-10T13:27:20.535Z",
+            "frameRange": [
+                100,
+                129
+            ],
+            "key": "871b243cb0e547e481e45240cdb2df99"
+        },
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:27:04.793Z",
+            "createdAt": "2022-09-10T13:27:04.793Z",
+            "frameRange": [
+                72,
+                92
+            ],
+            "key": "2ee733249e9c44c1bd0f4b52203aa2db"
+        },
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:28:10.727Z",
+            "createdAt": "2022-09-10T13:28:10.727Z",
+            "frameRange": [
+                156,
+                195
+            ],
+            "key": "5b45117d49514b699d83b5dbde182975"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 247
+}

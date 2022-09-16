@@ -1,0 +1,57 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "345de8719c8d47c7b78b0f0c3c06a11f",
+    "tags": [
+        {
+            "name": "ORDA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T07:49:02.582Z",
+            "createdAt": "2022-09-13T07:49:02.582Z",
+            "frameRange": [
+                45,
+                70
+            ],
+            "key": "68f5438335344b20864fd92e563417bf"
+        },
+        {
+            "name": "OLMUSAM",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T07:50:18.038Z",
+            "createdAt": "2022-09-13T07:50:18.038Z",
+            "frameRange": [
+                116,
+                139
+            ],
+            "key": "5536eb5d4c604250966b0aa094862fe9"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T07:48:37.096Z",
+            "createdAt": "2022-09-13T07:48:37.096Z",
+            "frameRange": [
+                0,
+                28
+            ],
+            "key": "d3b6284262fb4011b32a248d46f530df"
+        },
+        {
+            "name": "D\u00dcN\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T07:49:50.427Z",
+            "createdAt": "2022-09-13T07:49:50.427Z",
+            "frameRange": [
+                76,
+                107
+            ],
+            "key": "ed93375fad344aac81d52417cc8f21f5"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 189
+}

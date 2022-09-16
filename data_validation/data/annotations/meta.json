@@ -1,0 +1,3786 @@
+{
+    "classes": [
+        {
+            "title": "blah",
+            "shape": "bitmap",
+            "color": "#C656DC",
+            "geometry_config": {},
+            "id": 10328855,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "sizin",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30422467,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "i\u015fsizdir",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30422788,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u018fN\u0130M",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30422481,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "HE\u00c7 K\u0130M",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30422612,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BO\u015eDUR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30422657,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BU G\u00dcN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30422719,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "23",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30423484,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "KEC\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30423497,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "GED\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30423530,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "67",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30423658,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130\u015eL\u018fM\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30423766,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "2018",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30423659,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00c7IXARMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30423767,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "B\u0130L\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30423790,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BA\u011eLAMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30423768,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "GED\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30423303,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AL\u0130 T\u018fHS\u0130L",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30423686,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "LCHERI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30423965,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "OLMUSUZ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30423966,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "MAYA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30424250,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YAZA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30424251,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u0130Z",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407284,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u018fF\u0130N\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407285,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u018fLI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407286,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "9",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30407287,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AX\u015eAM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407288,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AYAQYOLU",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407289,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AZ\u018fRBAYCAN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407290,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "B\u0130Z",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407291,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "HAMI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407292,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "KOMP\u00dcTER",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407293,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "P\u018fNC\u018fR\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407294,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QAPI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407295,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SABAH",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407296,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SALAM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407297,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u015e\u018fH\u018fR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407298,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AC",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407299,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AVTOMOB\u0130L",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407300,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u00dcN\u018fN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407301,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "DURMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407302,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u018fN\u0130Z",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407303,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u018fLM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407304,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u00d6RM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407305,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u00d6Z",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407306,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QOXU",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407307,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "KE\u00c7M\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407308,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "METRO",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407309,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "NEC\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407310,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "WIFI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407311,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ALINMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407312,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "A\u015eA\u011eI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407313,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BALIQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407314,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BA\u015e",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407315,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "B\u0130TM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407316,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u0130L",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407317,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u00dc\u015eM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407318,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ETM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407319,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "GETM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407320,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "H\u018fFT\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407321,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130L",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407322,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130NTERNET",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407323,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130\u015eS\u0130Z",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407324,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u018fKT\u018fB",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407325,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "OLMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407326,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "DAMMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407327,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u018fVV\u018fL",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407328,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "EYN\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407329,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u00d6ZL\u018fM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407330,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u00dcNORTA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407331,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "HE\u00c7",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407332,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "H\u018fR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407333,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130DMAN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407334,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130ND\u0130",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407335,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130ST\u018fM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407336,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "K\u00d6M\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407337,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "LAZIM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407338,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u0130KRO",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407339,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "O\u011eUL",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407340,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u00d6Z\u018fL",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407341,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u018fL\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407342,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "HARA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407343,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "HAVA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407344,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130\u015e",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407345,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130ST\u0130",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407346,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "K\u0130TAB",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407347,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "K\u00dc\u00c7\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407348,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "K\u018fNAR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407349,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "K\u018fSM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407350,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u018f\u015e\u011eUL",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407351,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "N\u018fF\u018fR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407352,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "P\u0130\u015e\u0130K",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407353,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ORA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407354,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QAZ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407355,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "OXUMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407356,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "PAROL",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407357,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "PAYTAXT",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407358,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "P\u0130S",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407359,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QA\u00c7MAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407360,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Q\u018fL\u018fM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407361,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QIZ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407362,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QEYD\u0130YYAT",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407363,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QON\u015eU",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407364,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "RAYON",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407365,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "RUS",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407366,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SAAT",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407367,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SALAMLAMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407368,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SAXLAMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407369,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SAY",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407370,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SAYLI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407371,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u015e\u018fNB\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407372,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u0130FAR\u0130\u015e",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407373,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SONRA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407374,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SON",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407375,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SOYUQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407376,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "STANS\u0130YA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407377,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SU",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407378,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SUAL",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407379,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SUBAY",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407380,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SUR\u018fT",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407381,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u018fH\u018fR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407382,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u018fT\u018fLC\u018fM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407383,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "TAKS\u0130",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407384,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "TELEFON",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407385,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "TUTMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407386,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "TUTULMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407387,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "T\u018fHS\u0130L",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407388,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "UCA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407389,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "UN\u0130VERS\u0130TET",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407390,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "VAKS\u0130N",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407391,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "VAR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407392,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "VAXT",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407393,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "V\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407394,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "VURMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407395,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "VURDURMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407396,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "XEY\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407397,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "XO\u015eLAMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407398,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "X\u018fB\u018fR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407399,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YANA\u015eI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407400,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YANMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407401,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YA\u015eAMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407402,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YA\u015e",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407403,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YATMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407404,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YAXIN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407405,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YAZI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407406,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YEM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407407,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YOX",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407408,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "VAR OLMAMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407409,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Z\u00d6K\u018fM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407410,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Z\u018fNG",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407411,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00c7OX",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407412,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00dcST",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407413,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AG\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407414,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AYAG",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407415,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "INTERNET",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407416,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "H",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407417,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Q",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407418,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "U",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407419,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "B\u0130LM\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407420,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BAKI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407421,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "F",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407422,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BEL",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407423,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BAGLIDIR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407424,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "E",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407425,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "X",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407426,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "N",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407427,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00d6",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407428,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "T",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407429,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407430,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "I",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407431,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407432,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Z",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407433,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "14",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30407434,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "INDI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407435,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "TAKSI",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407436,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "46",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407437,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "43",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407438,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1979",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407439,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "IL",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407440,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "20",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407441,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "65",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407442,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SAHIL",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407443,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SEHER",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407444,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SHENBE",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407445,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "GUN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407446,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130CH\u018fR\u0130",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407447,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AMMA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407448,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ASHAG",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407449,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "C\u0130X\u0130B",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407450,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "28",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407451,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "B\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407452,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "DEYE",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407453,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "OLACAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407454,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u0130N",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407455,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "DOQQUZ Y\u00dcZ",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407456,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YETM\u0130\u015e",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407457,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BIR",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407458,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "IKI",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407459,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00dc\u00c7",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407460,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u00d6RD",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407461,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BE\u015e",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407462,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ALTI",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407463,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YEDD\u0130",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407464,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u018fKK\u0130Z",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407465,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "DOQQUZ",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407466,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ON",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407467,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ON B\u0130R",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407468,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ON \u0130K\u0130",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407469,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ON \u00dc\u00c7",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407470,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ON D\u00d6RD",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407471,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ON BE\u015e",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407472,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ON ALTI",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407473,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ON YEDD\u0130",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407474,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ON S\u018fKK\u0130Z",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407475,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ON DOQQUZ",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407476,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130Y\u0130RM\u0130",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407477,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BA\u015eA D\u00dc\u015eM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407478,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u00dc\u015eM\u018fM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407479,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "OTUZ",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407480,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QIRX",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407481,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u018fLL\u0130",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407482,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ALTMI\u015e",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407483,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u018fKS\u018fN",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407484,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "DOXSAN",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407485,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Y\u00dcZ",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407486,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130K\u0130 Y\u00dcZ",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407487,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00dcZ Y\u00dcZ",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407488,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u00d6RD Y\u00dcZ",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407489,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BE\u015e Y\u00dcZ",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407490,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ALTI Y\u00dcZ",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407491,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YEDD\u0130 Y\u00dcZ",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407492,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u018fKK\u0130Z Y\u00dcZ",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407493,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130K\u0130 M\u0130N",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407494,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00dc\u00c7 M\u0130N",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407495,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u00d6RD M\u0130N",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407496,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BE\u015e M\u0130N",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407497,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ALTI M\u0130N",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407498,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YEDD\u0130 M\u0130N",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407499,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u018fKK\u0130Z M\u0130N",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407500,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u0130LYON",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407501,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u018f",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407502,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "O",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407503,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "DOQQUZ M\u0130N",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407504,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u018fZ\u0130S\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407505,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AYAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407506,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ACAM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407507,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ON M\u0130N",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407508,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "J",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407509,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "K",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407510,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "R",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407511,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "V",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407512,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BACARMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407513,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u015e",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407515,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00dc",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407516,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Y",
+            "value_type": "none",
+            "color": "#4A90E2",
+            "id": 30407517,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130K\u0130",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407518,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "K\u00dcR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407519,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "COX",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407520,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ED\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407521,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "OLURSUNUZ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407522,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ali",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407523,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ED\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407524,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "OLMUSAM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407525,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "COV\u0130D",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407526,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "N\u00d6MRE",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407527,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407528,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "N\u018fR\u0130MANOV",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407529,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YANINDA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407530,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BA\u015eQA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407531,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "FUTBOL",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407532,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "OYNAMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407533,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BAZAR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407534,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "KOND\u0130SONER",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407535,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u00d6NDUR\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407536,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130\u015e\u0130G\u0130",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407537,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YAND\u0130RMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407538,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "OLARMI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407539,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "P\u0130YADA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407540,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u018fZM\u018fY\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407541,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SEV\u0130R\u018fM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407542,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "DOST",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407543,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "TOYA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407544,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00c7A\u011eIRIBLAR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407545,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u018fD\u0130R\u018fM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407546,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00d6YR\u018fNM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407547,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130ST\u018fY\u0130R\u018fM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407548,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130\u015eL\u018fM\u018fY\u0130",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407549,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u018fNC\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407550,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YEN\u0130",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407551,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QATARLA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407552,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u0130ZYNAR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407553,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SUMQAY\u0130T",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407554,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "F\u0130K\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407555,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "L\u018fNK\u018fRAN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407556,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BANK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407557,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "DEY\u0130L",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407558,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "E\u015e\u0130TM\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407559,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "A\u0130L\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407560,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ELML\u018fR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407561,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AKADEM\u0130YA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407562,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "T\u018fR\u018fFD\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407563,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "F\u0130L\u0130AL",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407564,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "OF\u0130S",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407565,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "NEC\u018fY\u018fD\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407566,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "V\u0130DEO",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407567,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QALSTUK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407568,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QARDA\u015e",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407569,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u00dcHAR\u0130B\u018fS\u0130ND\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407570,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QAZ\u0130S\u0130D\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407571,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "PUL",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407572,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "X\u0130RDA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407573,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "KOSTYUM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407574,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AYAQQABI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407575,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "XO\u015eU G\u018fLM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407576,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "K\u00d6YN\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407577,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u018fRSD\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407578,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ED\u018f B\u0130LM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407579,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130K\u0130NC\u0130",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407580,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D\u00d6RDC\u00dc",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407581,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "YARISI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407582,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BO\u015eALIRAM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407583,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130\u015fsiz",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407584,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QIRX \u00dcC",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407585,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ANADAN OLMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407586,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "VACIB",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407587,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AL\u0130NM\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407588,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "IT",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407589,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u018fS\u018fL\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407590,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u018fYAH\u018fT",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407591,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "UCUZDUR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407592,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "N\u018fD\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407593,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "HARDA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407594,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ORDA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407595,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BA\u015eA D\u00dc\u015eM\u018fM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407596,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130\u00c7\u018fR\u0130 \u015e\u018fH\u018fR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407597,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u0130KRORAYON",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407598,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AY",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407967,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407514,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130Y\u0130",
+            "value_type": "none",
+            "color": "#E8A126",
+            "id": 30418472,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "QAB",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415724,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AD",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407236,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ATA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407237,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ANA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407238,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00c7",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407239,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "N\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407240,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BU",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407241,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "1",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30407242,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "4",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30407243,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "2",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30407244,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "3",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30407245,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "7",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30407246,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "8",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30407247,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "EV",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407248,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "5",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30407249,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "0",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30407250,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "P",
+            "value_type": "none",
+            "color": "#A9CD60",
+            "id": 30407251,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "T\u018f\u015e\u018fKK\u00dcR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407252,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AVTOBUS",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407253,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "A\u00c7MAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407254,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BAXMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407255,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BULVAR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407256,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u00dcN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407257,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "A",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407258,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "D",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407259,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "B",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407260,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "C",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407261,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407262,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "L",
+            "value_type": "none",
+            "color": "#2E7F7A",
+            "id": 30407263,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BURDA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407264,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u018fN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407265,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "6",
+            "value_type": "none",
+            "color": "#29D0D1",
+            "id": 30407266,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ADA",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407267,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AXTARMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407268,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AZ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407269,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "A\u011eRIMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407270,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "B\u0130LM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407271,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "BO\u011eAZ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407272,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00c7IXMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407273,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "H\u018fL\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407274,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130T",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407275,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "MAY",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407276,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130\u015eL\u018fM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407277,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u018fN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407278,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u018fKAN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407279,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u018fRK\u018fZ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407280,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "HANSI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407281,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u018fN\u018fD",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407282,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "VERM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407283,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "MESSI",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407904,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "FANATIYAM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407905,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "H\u018fD\u0130YY\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407906,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ALMAQ",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407907,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u00dc\u00c7\u00dcN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407908,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ALMI\u015eAM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407909,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "AD G\u00dcN\u00dc",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407966,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "APREL",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30407969,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u00d6Y",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30409897,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "R\u018fNG",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30409898,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "OLAN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30409904,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ONUN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415806,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u018fND\u018fD\u0130R",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415807,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130T\u0130B",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415811,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u018fTB\u018fX",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30411843,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "GEN\u0130\u015e",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30411844,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u0130NSAN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415830,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "TANI\u015e",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415831,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ALMALIYAM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415725,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "ST\u018fKAN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415728,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "\u018fS\u018fR",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415768,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "SURDOT\u018fRC\u00dcM\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415769,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Q\u018fD\u0130M",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415931,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "T\u018fRC\u00dcM\u018f",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415770,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "UN\u0130VERS\u0130TET\u0130ND\u018fY\u018fM",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30415957,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "POL\u0130S",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30417917,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "M\u00dcRAC\u0130\u018fT",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30417918,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "S\u00d6HB\u018fT",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30417926,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u018fZM\u018fK",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30418104,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "H\u018fR G\u00dcN",
+            "value_type": "none",
+            "color": "#F5A623",
+            "id": 30418115,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "G\u00d6RM\u018fM\u018fK",
+            "value_type": "none",
+            "color": "#E8A126",
+            "id": 30418131,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "OLMAMAQ",
+            "value_type": "none",
+            "color": "#E8A126",
+            "id": 30418454,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "videos"
+}

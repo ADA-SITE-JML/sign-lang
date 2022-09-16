@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "85ec0e7dddc343b79efeea2762e884dd",
+    "tags": [
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:01:14.463Z",
+            "createdAt": "2022-09-10T13:01:14.463Z",
+            "frameRange": [
+                104,
+                122
+            ],
+            "key": "59a424de351741059cd13cac1268c9ad"
+        },
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:59:48.459Z",
+            "createdAt": "2022-09-10T12:59:48.459Z",
+            "frameRange": [
+                31,
+                48
+            ],
+            "key": "c8cc7c6bbfee47ae8dfde08afe5194f2"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:59:30.889Z",
+            "createdAt": "2022-09-10T12:59:30.889Z",
+            "frameRange": [
+                13,
+                27
+            ],
+            "key": "a4826d318875456d8f0ae6b6f10744d8"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:00:38.619Z",
+            "createdAt": "2022-09-10T13:00:38.619Z",
+            "frameRange": [
+                81,
+                81
+            ],
+            "key": "c8ce96e5996b47d79819c32816790951"
+        },
+        {
+            "name": "IL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:00:56.349Z",
+            "createdAt": "2022-09-10T13:00:56.349Z",
+            "frameRange": [
+                84,
+                95
+            ],
+            "key": "edd1329278bf466ca1703235420fab51"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 170
+}

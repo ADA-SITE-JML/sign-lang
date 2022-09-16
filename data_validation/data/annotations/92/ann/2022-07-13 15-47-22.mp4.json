@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "c61629c896b140ea984d7da6422e2392",
+    "tags": [
+        {
+            "name": "N\u00d6MRE",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:15:21.760Z",
+            "createdAt": "2022-09-11T08:15:21.760Z",
+            "frameRange": [
+                58,
+                70
+            ],
+            "key": "535ad24436b1477687d320beff64b03e"
+        },
+        {
+            "name": "VERM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:15:35.392Z",
+            "createdAt": "2022-09-11T08:15:35.392Z",
+            "frameRange": [
+                74,
+                94
+            ],
+            "key": "71f1d2439f334002a40584e4bb79af84"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:15:48.000Z",
+            "createdAt": "2022-09-11T08:15:48.000Z",
+            "frameRange": [
+                98,
+                121
+            ],
+            "key": "7598d806add24b6284bd43ce324b843f"
+        },
+        {
+            "name": "TELEFON",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:15:12.173Z",
+            "createdAt": "2022-09-11T08:15:12.173Z",
+            "frameRange": [
+                41,
+                54
+            ],
+            "key": "548dc1dfd347486ba71340fbbe7c2340"
+        },
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:15:01.601Z",
+            "createdAt": "2022-09-11T08:15:01.601Z",
+            "frameRange": [
+                19,
+                37
+            ],
+            "key": "99f3457875144ec799e6ce9942db46b0"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 166
+}

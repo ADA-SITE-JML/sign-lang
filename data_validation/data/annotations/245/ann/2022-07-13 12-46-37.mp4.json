@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "88273a3435e5415bb0785d316b16de8f",
+    "tags": [
+        {
+            "name": "ALMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:07:39.354Z",
+            "createdAt": "2022-08-31T12:07:39.354Z",
+            "frameRange": [
+                96,
+                126
+            ],
+            "key": "1f313c175e8849e689262fc13fb9f6e3"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:06:21.656Z",
+            "createdAt": "2022-08-31T12:06:21.656Z",
+            "frameRange": [
+                29,
+                42
+            ],
+            "key": "3a293be18086497197d7a4f895c4a089"
+        },
+        {
+            "name": "\u00dc\u00c7\u00dcN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:06:51.720Z",
+            "createdAt": "2022-08-31T12:06:51.720Z",
+            "frameRange": [
+                65,
+                74
+            ],
+            "key": "a44e5196656a4803a6becb1af8da83dd"
+        },
+        {
+            "name": "M\u018fTB\u018fX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:06:37.905Z",
+            "createdAt": "2022-08-31T12:06:37.905Z",
+            "frameRange": [
+                51,
+                60
+            ],
+            "key": "919753abda76482c86055512dfc6fc13"
+        },
+        {
+            "name": "QAB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:07:07.290Z",
+            "createdAt": "2022-08-31T12:07:07.290Z",
+            "frameRange": [
+                79,
+                93
+            ],
+            "key": "a2c8080720e14e4786b4a8f6a127159c"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 169
+}

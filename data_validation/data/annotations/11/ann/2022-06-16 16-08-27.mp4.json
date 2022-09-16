@@ -1,0 +1,79 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "85581f4ee8944ad08b04c33333748fc0",
+    "tags": [
+        {
+            "name": "UN\u0130VERS\u0130TET",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:26:44.358Z",
+            "createdAt": "2022-09-01T08:26:44.358Z",
+            "frameRange": [
+                127,
+                154
+            ],
+            "key": "b8414281e9f24766bc70d36d9cf6bbf6"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:26:00.880Z",
+            "createdAt": "2022-09-01T08:26:00.880Z",
+            "frameRange": [
+                86,
+                89
+            ],
+            "key": "79840047be294c69bc60b79f62c5c232"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:25:24.010Z",
+            "createdAt": "2022-09-01T08:25:24.010Z",
+            "frameRange": [
+                25,
+                36
+            ],
+            "key": "6ec083a963ba4d1aa5fc2638ef16d24b"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:26:15.270Z",
+            "createdAt": "2022-09-01T08:26:15.270Z",
+            "frameRange": [
+                102,
+                120
+            ],
+            "key": "9b24a5ef4240478891152b6b599d875e"
+        },
+        {
+            "name": "D",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:26:26.525Z",
+            "createdAt": "2022-09-01T08:26:26.525Z",
+            "frameRange": [
+                91,
+                100
+            ],
+            "key": "9d6b93dfa48948fca7ad566cd0c34ba7"
+        },
+        {
+            "name": "\u0130ND\u0130",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:25:50.086Z",
+            "createdAt": "2022-09-01T08:25:50.086Z",
+            "frameRange": [
+                44,
+                79
+            ],
+            "key": "0d6cdec3a33241da83e7705767a99696"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 205
+}

@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "6467f5a3decb4fccaab57d9abe3befc3",
+    "tags": [
+        {
+            "name": "M\u018fTB\u018fX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:33:55.567Z",
+            "createdAt": "2022-08-31T12:33:55.567Z",
+            "frameRange": [
+                56,
+                77
+            ],
+            "key": "adfcb86ecfa04f83890f4902dc25c9e7"
+        },
+        {
+            "name": "QAB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:34:30.917Z",
+            "createdAt": "2022-08-31T12:34:30.917Z",
+            "frameRange": [
+                125,
+                153
+            ],
+            "key": "ebefefcecc09494ba0d6de660a97f965"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:33:31.573Z",
+            "createdAt": "2022-08-31T12:33:31.573Z",
+            "frameRange": [
+                22,
+                45
+            ],
+            "key": "3f8038cac441418fac23e875f5eff1b8"
+        },
+        {
+            "name": "ALMALIYAM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:34:57.275Z",
+            "createdAt": "2022-08-31T12:34:57.275Z",
+            "frameRange": [
+                159,
+                195
+            ],
+            "key": "a3214a7aeeb44ba09cab74a614a87c1f"
+        },
+        {
+            "name": "\u00dc\u00c7\u00dcN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:34:16.097Z",
+            "createdAt": "2022-08-31T12:34:16.097Z",
+            "frameRange": [
+                79,
+                123
+            ],
+            "key": "92f82710ad2141f595c9131571f687a7"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 261
+}

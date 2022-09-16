@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "91fe866ac56c4ddc92fbfcbb6266a216",
+    "tags": [
+        {
+            "name": "ANA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-07T10:50:26.307Z",
+            "createdAt": "2022-09-07T10:50:26.307Z",
+            "frameRange": [
+                38,
+                54
+            ],
+            "key": "e4ef036dc26241aeb1cb8d507e6a5f6e"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T12:39:52.812Z",
+            "createdAt": "2022-09-12T12:39:52.812Z",
+            "frameRange": [
+                16,
+                34
+            ],
+            "key": "1bfe1816817e4a10bfd9b991f1700526"
+        },
+        {
+            "name": "i\u015fsizdir",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T12:40:21.832Z",
+            "createdAt": "2022-09-12T12:40:21.832Z",
+            "frameRange": [
+                57,
+                88
+            ],
+            "key": "87babdf770c7478e94a4eb3f6101a782"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 136
+}

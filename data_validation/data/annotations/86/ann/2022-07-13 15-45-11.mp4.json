@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "c8a2b35485114d1bad15af8c3f22a0ac",
+    "tags": [
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:03:55.056Z",
+            "createdAt": "2022-09-10T13:03:55.056Z",
+            "frameRange": [
+                35,
+                45
+            ],
+            "key": "5d96e569fb6149d498b43f29d11e3286"
+        },
+        {
+            "name": "IL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:04:35.308Z",
+            "createdAt": "2022-09-10T13:04:35.308Z",
+            "frameRange": [
+                85,
+                110
+            ],
+            "key": "6c1887824e4746639433d2da37fbbd53"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:02:11.718Z",
+            "createdAt": "2022-09-10T13:02:11.718Z",
+            "frameRange": [
+                11,
+                28
+            ],
+            "key": "4038910b125648cb961addb7330add67"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:04:16.794Z",
+            "createdAt": "2022-09-10T13:04:16.794Z",
+            "frameRange": [
+                52,
+                82
+            ],
+            "key": "c9d5ea732e264f21aabc78fa0177bcd8"
+        },
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:04:55.156Z",
+            "createdAt": "2022-09-10T13:04:55.156Z",
+            "frameRange": [
+                117,
+                138
+            ],
+            "key": "5c9c881875d44cbf9f0a8901e4781376"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 177
+}

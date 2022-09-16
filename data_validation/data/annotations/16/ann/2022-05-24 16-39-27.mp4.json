@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "5b1ca544aef340c9a2a111ff2433aa5e",
+    "tags": [
+        {
+            "name": "AVTOMOB\u0130L",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T12:58:29.668Z",
+            "createdAt": "2022-09-01T12:58:29.668Z",
+            "frameRange": [
+                48,
+                65
+            ],
+            "key": "6690beedc55044a8805c484c426bfc35"
+        },
+        {
+            "name": "YOX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T12:58:38.895Z",
+            "createdAt": "2022-09-01T12:58:38.895Z",
+            "frameRange": [
+                69,
+                83
+            ],
+            "key": "f3ec871d07df419ba4aeafc65168fa3b"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T12:58:14.693Z",
+            "createdAt": "2022-09-01T12:58:14.693Z",
+            "frameRange": [
+                34,
+                44
+            ],
+            "key": "e2187ab0267c467cb7ba7ae47eb112d9"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 141
+}

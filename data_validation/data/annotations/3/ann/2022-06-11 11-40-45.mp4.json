@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "76234fa6f2ed46f5acf33c561154347a",
+    "tags": [
+        {
+            "name": "AZ\u018fRBAYCAN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-06T11:35:11.092Z",
+            "createdAt": "2022-09-06T11:35:11.092Z",
+            "frameRange": [
+                53,
+                82
+            ],
+            "key": "cfcf97a4c3d14f78881caa0ff9bf461a"
+        },
+        {
+            "name": "PAYTAXT",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-06T11:35:45.501Z",
+            "createdAt": "2022-09-06T11:35:45.501Z",
+            "frameRange": [
+                84,
+                149
+            ],
+            "key": "222856469f6c424d9cd951d3549692a1"
+        },
+        {
+            "name": "BAKI",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-06T11:34:49.881Z",
+            "createdAt": "2022-09-06T11:34:49.881Z",
+            "frameRange": [
+                20,
+                51
+            ],
+            "key": "3a3c94c0a8db464ab11420bcadd2bcb2"
+        },
+        {
+            "name": "PAYTAXT",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T08:25:36.912Z",
+            "createdAt": "2022-09-12T08:25:36.912Z",
+            "frameRange": [
+                84,
+                146
+            ],
+            "key": "1a028d6734404df594bf57b0f97c97cb"
+        },
+        {
+            "name": "BAKI",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T08:25:15.735Z",
+            "createdAt": "2022-09-12T08:25:15.735Z",
+            "frameRange": [
+                27,
+                51
+            ],
+            "key": "f07b4c65d41744b2a55b7f6a44bd24b8"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 151
+}

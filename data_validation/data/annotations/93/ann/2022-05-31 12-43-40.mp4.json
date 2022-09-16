@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "2c03705d60084c86b0424e5ff15f4860",
+    "tags": [
+        {
+            "name": "HARDA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T10:59:03.155Z",
+            "createdAt": "2022-09-11T10:59:03.155Z",
+            "frameRange": [
+                139,
+                166
+            ],
+            "key": "59e107a9b3f34aaa9edf08141cfcdd8e"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T10:53:50.723Z",
+            "createdAt": "2022-09-11T10:53:50.723Z",
+            "frameRange": [
+                12,
+                30
+            ],
+            "key": "94af485114414c9ab11721714164a71a"
+        },
+        {
+            "name": "S\u018fN\u018fD",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T10:54:32.225Z",
+            "createdAt": "2022-09-11T10:54:32.225Z",
+            "frameRange": [
+                34,
+                91
+            ],
+            "key": "41e20b6021ac430f984a54bd22694328"
+        },
+        {
+            "name": "SUR\u018fT",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T10:55:26.607Z",
+            "createdAt": "2022-09-11T10:55:26.607Z",
+            "frameRange": [
+                98,
+                130
+            ],
+            "key": "89b1a53542b6415db01968a42a0f2b54"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T10:59:48.822Z",
+            "createdAt": "2022-09-11T10:59:48.822Z",
+            "frameRange": [
+                194,
+                223
+            ],
+            "key": "2a4d918264ab4d8ab866103b990ffa1d"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 268
+}

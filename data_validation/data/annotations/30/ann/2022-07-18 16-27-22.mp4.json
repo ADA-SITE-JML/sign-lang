@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "b03dd22b15684a9aa67014493f7f3b10",
+    "tags": [
+        {
+            "name": "HARDA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T06:44:05.545Z",
+            "createdAt": "2022-09-09T06:44:05.545Z",
+            "frameRange": [
+                39,
+                74
+            ],
+            "key": "7a9893f7172342bc989564b26efab869"
+        },
+        {
+            "name": "HARDA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T10:38:34.805Z",
+            "createdAt": "2022-09-15T10:38:34.805Z",
+            "frameRange": [
+                44,
+                69
+            ],
+            "key": "951ee420e0b945348d1554e103833c48"
+        },
+        {
+            "name": "AYAQYOLU",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T10:38:18.480Z",
+            "createdAt": "2022-09-15T10:38:18.480Z",
+            "frameRange": [
+                7,
+                33
+            ],
+            "key": "d428df9d6a874438a39d5a45ef2c5c55"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 110
+}

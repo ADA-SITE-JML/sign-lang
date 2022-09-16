@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "ab8512ae959942f8a4e02d8484417137",
+    "tags": [
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:36:25.152Z",
+            "createdAt": "2022-09-10T13:36:25.152Z",
+            "frameRange": [
+                180,
+                212
+            ],
+            "key": "7ce91ecce1384c489e066df9dd71846a"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:34:48.579Z",
+            "createdAt": "2022-09-10T13:34:48.579Z",
+            "frameRange": [
+                18,
+                52
+            ],
+            "key": "9ce04a9622994bf4a7e7e2e565a5da56"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:35:52.087Z",
+            "createdAt": "2022-09-10T13:35:52.087Z",
+            "frameRange": [
+                86,
+                140
+            ],
+            "key": "b85b959037ab42d4b2acb7c90086792e"
+        },
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:35:32.380Z",
+            "createdAt": "2022-09-10T13:35:32.380Z",
+            "frameRange": [
+                55,
+                82
+            ],
+            "key": "cb21229ecb6c41f4a92b48970d0d5c21"
+        },
+        {
+            "name": "\u0130L",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:36:11.734Z",
+            "createdAt": "2022-09-10T13:36:11.734Z",
+            "frameRange": [
+                145,
+                179
+            ],
+            "key": "ce416d1798d9446690b99b91c0c93e8f"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 274
+}

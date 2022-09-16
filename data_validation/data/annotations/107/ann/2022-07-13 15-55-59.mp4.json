@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "ae6b05e750734a989c345d62d85b4d69",
+    "tags": [
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T16:53:01.923Z",
+            "createdAt": "2022-09-12T16:53:01.923Z",
+            "frameRange": [
+                114,
+                137
+            ],
+            "key": "66e027d6fc6e40e6a8943a7221f838ea"
+        },
+        {
+            "name": "METRO",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T16:52:36.171Z",
+            "createdAt": "2022-09-12T16:52:36.171Z",
+            "frameRange": [
+                52,
+                77
+            ],
+            "key": "95e932bf88b1490399eaaf1c0ec14ce7"
+        },
+        {
+            "name": "N\u018fR\u0130MANOV",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T16:52:23.145Z",
+            "createdAt": "2022-09-12T16:52:23.145Z",
+            "frameRange": [
+                36,
+                48
+            ],
+            "key": "2894c6a1266249088f5aae54f5d35f13"
+        },
+        {
+            "name": "YANINDA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T16:52:48.804Z",
+            "createdAt": "2022-09-12T16:52:48.804Z",
+            "frameRange": [
+                82,
+                104
+            ],
+            "key": "5749e6db86a846f08e2dcee3d4bb07f5"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T16:52:09.146Z",
+            "createdAt": "2022-09-12T16:52:09.146Z",
+            "frameRange": [
+                14,
+                29
+            ],
+            "key": "540b77c1099d4ef6b4ddd07dd6ac01dc"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 186
+}

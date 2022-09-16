@@ -1,0 +1,79 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "1d99bab35212498baaf705ddec25a6ce",
+    "tags": [
+        {
+            "name": "GUN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:36:37.088Z",
+            "createdAt": "2022-09-14T10:36:37.088Z",
+            "frameRange": [
+                89,
+                117
+            ],
+            "key": "12aadaf34a8e4186b2d97b697ba1c860"
+        },
+        {
+            "name": "G\u00dcN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:35:56.110Z",
+            "createdAt": "2022-09-14T10:35:56.110Z",
+            "frameRange": [
+                36,
+                53
+            ],
+            "key": "c32b25c38080440dae56532264686a1c"
+        },
+        {
+            "name": "BAZAR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:36:07.449Z",
+            "createdAt": "2022-09-14T10:36:07.449Z",
+            "frameRange": [
+                58,
+                78
+            ],
+            "key": "c1ea681a6ed242eb9eed3e9f527885a9"
+        },
+        {
+            "name": "FUTBOL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:36:49.651Z",
+            "createdAt": "2022-09-14T10:36:49.651Z",
+            "frameRange": [
+                131,
+                150
+            ],
+            "key": "29bdeea58036441186c77405ed29aca5"
+        },
+        {
+            "name": "B\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:35:36.602Z",
+            "createdAt": "2022-09-14T10:35:36.602Z",
+            "frameRange": [
+                13,
+                29
+            ],
+            "key": "463c7ce634bf4b3a81daf6fb7a83af4f"
+        },
+        {
+            "name": "OYNAMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:37:01.955Z",
+            "createdAt": "2022-09-14T10:37:01.955Z",
+            "frameRange": [
+                156,
+                188
+            ],
+            "key": "b4fa9ff47eba4d6a99c53e2b4d71bbb8"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 234
+}

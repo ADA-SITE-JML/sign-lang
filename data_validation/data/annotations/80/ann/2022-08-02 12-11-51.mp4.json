@@ -1,0 +1,57 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "a952388994ac4edaab563937191a400d",
+    "tags": [
+        {
+            "name": "BAXMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-07T15:16:49.535Z",
+            "createdAt": "2022-09-07T15:16:49.535Z",
+            "frameRange": [
+                72,
+                84
+            ],
+            "key": "1393fa7ee31e4395b87c866f067a590c"
+        },
+        {
+            "name": "X\u018fB\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-07T15:16:37.455Z",
+            "createdAt": "2022-09-07T15:16:37.455Z",
+            "frameRange": [
+                51,
+                67
+            ],
+            "key": "ec7b9a8a38d44c1ca2ab5a05b652fdeb"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-07T15:16:24.032Z",
+            "createdAt": "2022-09-07T15:16:24.032Z",
+            "frameRange": [
+                26,
+                45
+            ],
+            "key": "9c97ec5fd95f4a1493a4f7db0a35b3db"
+        },
+        {
+            "name": "\u0130ST\u018fM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-07T15:16:59.540Z",
+            "createdAt": "2022-09-07T15:16:59.540Z",
+            "frameRange": [
+                87,
+                110
+            ],
+            "key": "302b014a5c71485aa37fea414f9f80c2"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 146
+}

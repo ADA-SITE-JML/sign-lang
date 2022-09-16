@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "68c2a6e58465434e8a2e2aae2efe4d5f",
+    "tags": [
+        {
+            "name": "B\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:59:01.370Z",
+            "createdAt": "2022-09-14T09:59:01.370Z",
+            "frameRange": [
+                21,
+                36
+            ],
+            "key": "83d3375ceeae457782dacb5f8daa31eb"
+        },
+        {
+            "name": "H\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:59:12.658Z",
+            "createdAt": "2022-09-14T09:59:12.658Z",
+            "frameRange": [
+                40,
+                55
+            ],
+            "key": "4a210bf5e8904bd1ba940302320718bc"
+        },
+        {
+            "name": "OYNAMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:00:00.815Z",
+            "createdAt": "2022-09-14T10:00:00.815Z",
+            "frameRange": [
+                93,
+                112
+            ],
+            "key": "2a9612e9f09c4c39b827df9f1b8a6fbd"
+        },
+        {
+            "name": "FUTBOL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:59:49.400Z",
+            "createdAt": "2022-09-14T09:59:49.400Z",
+            "frameRange": [
+                79,
+                89
+            ],
+            "key": "b8b9aaa228164ab5b953c340a96f776f"
+        },
+        {
+            "name": "BAZAR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:59:22.054Z",
+            "createdAt": "2022-09-14T09:59:22.054Z",
+            "frameRange": [
+                60,
+                73
+            ],
+            "key": "d6ecc6edc0ac49cf9be97c8e42814657"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 141
+}

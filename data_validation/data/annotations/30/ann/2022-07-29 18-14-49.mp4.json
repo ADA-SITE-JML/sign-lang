@@ -1,0 +1,35 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "c800204dd42c44d0a7b10ebc785521a2",
+    "tags": [
+        {
+            "name": "AYAQYOLU",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T10:45:43.851Z",
+            "createdAt": "2022-09-15T10:45:43.851Z",
+            "frameRange": [
+                60,
+                91
+            ],
+            "key": "b4ef35246c8a47e8b607447ad964c690"
+        },
+        {
+            "name": "AYAQYOLU",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T10:46:42.063Z",
+            "createdAt": "2022-09-15T10:46:42.063Z",
+            "frameRange": [
+                30,
+                53
+            ],
+            "key": "4d59716569454b179d3d7c4fabc2f8de"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 138
+}

@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "e333819c9b87470e84abf63899c2a089",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T08:50:49.454Z",
+            "createdAt": "2022-09-13T08:50:49.454Z",
+            "frameRange": [
+                16,
+                29
+            ],
+            "key": "3d1aca42a63f4231b8fdbc9225718188"
+        },
+        {
+            "name": "YANINDA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T08:51:28.767Z",
+            "createdAt": "2022-09-13T08:51:28.767Z",
+            "frameRange": [
+                78,
+                95
+            ],
+            "key": "23b7993de80e4dbb9ec5144518d42b71"
+        },
+        {
+            "name": "METRO",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T08:51:14.438Z",
+            "createdAt": "2022-09-13T08:51:14.438Z",
+            "frameRange": [
+                54,
+                74
+            ],
+            "key": "ed3afde47cf44e4695d62566655f9921"
+        },
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T08:51:42.310Z",
+            "createdAt": "2022-09-13T08:51:42.310Z",
+            "frameRange": [
+                100,
+                131
+            ],
+            "key": "59c690d74b3142f7bfeb98ec686d93d5"
+        },
+        {
+            "name": "N\u018fR\u0130MANOV",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T08:51:01.519Z",
+            "createdAt": "2022-09-13T08:51:01.519Z",
+            "frameRange": [
+                36,
+                50
+            ],
+            "key": "6619604f86954aea9f81a7016c7a5a82"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 161
+}

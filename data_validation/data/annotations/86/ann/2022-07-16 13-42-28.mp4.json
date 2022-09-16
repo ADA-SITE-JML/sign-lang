@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "9a6e0954ee4e4a5e965a0a1c61560e8f",
+    "tags": [
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:09:25.605Z",
+            "createdAt": "2022-09-10T13:09:25.605Z",
+            "frameRange": [
+                29,
+                46
+            ],
+            "key": "8b07de1889c84d39bc50d1adf0a20e3a"
+        },
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:11:23.547Z",
+            "createdAt": "2022-09-10T13:11:23.547Z",
+            "frameRange": [
+                124,
+                151
+            ],
+            "key": "75e1d95eed994e0ca11f3cd94352bbaa"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:09:12.940Z",
+            "createdAt": "2022-09-10T13:09:12.940Z",
+            "frameRange": [
+                11,
+                23
+            ],
+            "key": "d6219bc13ffe48c6896d4abbd91bc6e5"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:09:56.909Z",
+            "createdAt": "2022-09-10T13:09:56.909Z",
+            "frameRange": [
+                50,
+                96
+            ],
+            "key": "0bd3e55cbbd747ffa9cbb263f328f789"
+        },
+        {
+            "name": "IL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:10:59.564Z",
+            "createdAt": "2022-09-10T13:10:59.564Z",
+            "frameRange": [
+                100,
+                120
+            ],
+            "key": "71f19afdb57f42f385cafef9b0be1760"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 190
+}

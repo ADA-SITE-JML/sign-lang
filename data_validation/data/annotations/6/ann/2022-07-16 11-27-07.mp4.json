@@ -1,0 +1,35 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "08864cec4f83472ca5b94f07749fcbeb",
+    "tags": [
+        {
+            "name": "i\u015fsizdir",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-07T10:56:22.581Z",
+            "createdAt": "2022-09-07T10:56:22.581Z",
+            "frameRange": [
+                111,
+                140
+            ],
+            "key": "d951f2f0bf63433ca79e14d18c6a4a80"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-07T10:55:11.851Z",
+            "createdAt": "2022-09-07T10:55:11.851Z",
+            "frameRange": [
+                66,
+                80
+            ],
+            "key": "420ac10e934346c8bd8660973ccd7560"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 186
+}

@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "0d3f084bbb114b108c1288089bf27062",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-02T19:16:14.145Z",
+            "createdAt": "2022-09-02T19:16:14.145Z",
+            "frameRange": [
+                14,
+                33
+            ],
+            "key": "598df8dd957f46b9befd651a50720b22"
+        },
+        {
+            "name": "SEHER",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-02T19:16:36.279Z",
+            "createdAt": "2022-09-02T19:16:36.279Z",
+            "frameRange": [
+                37,
+                55
+            ],
+            "key": "04d66c548a79438cb270c9228edfd18a"
+        },
+        {
+            "name": "D\u018fN\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-02T19:18:34.755Z",
+            "createdAt": "2022-09-02T19:18:34.755Z",
+            "frameRange": [
+                63,
+                81
+            ],
+            "key": "c548b0907c734d6781e657ea8411260f"
+        },
+        {
+            "name": "K\u018fNAR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-02T19:20:40.177Z",
+            "createdAt": "2022-09-02T19:20:40.177Z",
+            "frameRange": [
+                89,
+                113
+            ],
+            "key": "a4e5836845384b6f982180703ec0111f"
+        },
+        {
+            "name": "G\u018fZM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-02T19:21:06.320Z",
+            "createdAt": "2022-09-02T19:21:06.320Z",
+            "frameRange": [
+                116,
+                166
+            ],
+            "key": "b98c829000c84b27a27371ebb5643c03"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 222
+}

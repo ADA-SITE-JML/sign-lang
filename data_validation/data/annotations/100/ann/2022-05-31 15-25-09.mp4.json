@@ -1,0 +1,57 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "3ed87fc300ea46de9d629c11159637bf",
+    "tags": [
+        {
+            "name": "HAVA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T08:18:08.150Z",
+            "createdAt": "2022-09-12T08:18:08.150Z",
+            "frameRange": [
+                48,
+                60
+            ],
+            "key": "aa4ca0babba54ed7b8e511e4e163bb70"
+        },
+        {
+            "name": "BU G\u00dcN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T08:16:51.815Z",
+            "createdAt": "2022-09-12T08:16:51.815Z",
+            "frameRange": [
+                27,
+                43
+            ],
+            "key": "125352eda9864d2196e7320c7eef00d5"
+        },
+        {
+            "name": "G\u00d6Z\u018fL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T09:39:44.297Z",
+            "createdAt": "2022-09-12T09:39:44.297Z",
+            "frameRange": [
+                121,
+                121
+            ],
+            "key": "648a0de226c743f4ab9fa5c2ed6f9922"
+        },
+        {
+            "name": "\u00c7OX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T09:39:29.376Z",
+            "createdAt": "2022-09-12T09:39:29.376Z",
+            "frameRange": [
+                63,
+                83
+            ],
+            "key": "26130543266f4a6a83bf83cb7ea81e3e"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 157
+}

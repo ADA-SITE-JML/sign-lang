@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "bf7ec9be910c4a44914c86d4b0bbc8ef",
+    "tags": [
+        {
+            "name": "COV\u0130D",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T11:21:11.694Z",
+            "createdAt": "2022-09-05T11:21:11.694Z",
+            "frameRange": [
+                35,
+                54
+            ],
+            "key": "515a3a89c9bc435199eee7bb50c593a1"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T11:20:59.859Z",
+            "createdAt": "2022-09-05T11:20:59.859Z",
+            "frameRange": [
+                8,
+                31
+            ],
+            "key": "67d0e52ae7c74d57b2ef9e3b1b30eb0d"
+        },
+        {
+            "name": "TUTULMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T11:23:56.053Z",
+            "createdAt": "2022-09-05T11:23:56.053Z",
+            "frameRange": [
+                60,
+                107
+            ],
+            "key": "6deed67439c3477b811c981047accd23"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 137
+}

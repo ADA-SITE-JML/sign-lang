@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "ca6447ed30184371a74d989d7406bf13",
+    "tags": [
+        {
+            "name": "VERM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:07:01.119Z",
+            "createdAt": "2022-09-11T08:07:01.119Z",
+            "frameRange": [
+                102,
+                128
+            ],
+            "key": "3d2a4556620e4a8584f66970ae60b7d9"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:07:16.838Z",
+            "createdAt": "2022-09-11T08:07:16.838Z",
+            "frameRange": [
+                133,
+                166
+            ],
+            "key": "74482caa994f47f3857ddeee5c1c930a"
+        },
+        {
+            "name": "N\u00d6MRE",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:06:46.240Z",
+            "createdAt": "2022-09-11T08:06:46.240Z",
+            "frameRange": [
+                79,
+                98
+            ],
+            "key": "011c9bbf4fd4415090b892d986596b4b"
+        },
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:06:10.583Z",
+            "createdAt": "2022-09-11T08:06:10.583Z",
+            "frameRange": [
+                11,
+                44
+            ],
+            "key": "b4e5ea94b6c54dedbe42fc0cd1597cfe"
+        },
+        {
+            "name": "TELEFON",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:06:33.600Z",
+            "createdAt": "2022-09-11T08:06:33.600Z",
+            "frameRange": [
+                59,
+                75
+            ],
+            "key": "b63f9de6442945288fd00ff9b33e76c0"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 215
+}

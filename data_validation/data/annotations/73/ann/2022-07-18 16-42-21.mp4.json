@@ -1,0 +1,35 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "b2c07655439e4e92af64d47e64611df9",
+    "tags": [
+        {
+            "name": "ACAM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-06T15:34:50.915Z",
+            "createdAt": "2022-09-06T15:34:50.915Z",
+            "frameRange": [
+                36,
+                68
+            ],
+            "key": "986b614ca11c4ce89b9b11b23e43f3ec"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-06T15:34:39.747Z",
+            "createdAt": "2022-09-06T15:34:39.747Z",
+            "frameRange": [
+                10,
+                30
+            ],
+            "key": "9be592af09354d99b8ba469b49e6b4a9"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 116
+}

@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "ab7824532b644cecb30b3a6eefa42c21",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:28:27.270Z",
+            "createdAt": "2022-09-10T13:28:27.270Z",
+            "frameRange": [
+                15,
+                29
+            ],
+            "key": "869f6d240c594943aadb67417250661e"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:29:04.319Z",
+            "createdAt": "2022-09-10T13:29:04.319Z",
+            "frameRange": [
+                60,
+                96
+            ],
+            "key": "882502ba9caf4d9689078045fde52f54"
+        },
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:29:39.495Z",
+            "createdAt": "2022-09-10T13:29:39.495Z",
+            "frameRange": [
+                136,
+                169
+            ],
+            "key": "65dd18609f064a238cd6f3e2189a287d"
+        },
+        {
+            "name": "IL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:29:24.561Z",
+            "createdAt": "2022-09-10T13:29:24.561Z",
+            "frameRange": [
+                99,
+                129
+            ],
+            "key": "99eb1a5d0a574c609e7221b84cb0ea15"
+        },
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:28:50.633Z",
+            "createdAt": "2022-09-10T13:28:50.633Z",
+            "frameRange": [
+                35,
+                55
+            ],
+            "key": "49a80eda49ca473ca62ef0c3b7e67cb7"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 208
+}

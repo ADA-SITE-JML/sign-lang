@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "6074f4acfeea4d0480ac7db1bc1f6aa4",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T18:50:48.526Z",
+            "createdAt": "2022-09-03T18:50:48.526Z",
+            "frameRange": [
+                31,
+                57
+            ],
+            "key": "08df18fc005647cd939f434960bee3b9"
+        },
+        {
+            "name": "\u00c7OX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T18:52:25.690Z",
+            "createdAt": "2022-09-03T18:52:25.690Z",
+            "frameRange": [
+                87,
+                103
+            ],
+            "key": "54d1c3f033444e90838b63a30ceac101"
+        },
+        {
+            "name": "AYAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T18:52:07.618Z",
+            "createdAt": "2022-09-03T18:52:07.618Z",
+            "frameRange": [
+                61,
+                78
+            ],
+            "key": "da012d42f8094ae5a7bbc61240761eb2"
+        },
+        {
+            "name": "DURMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T18:52:41.667Z",
+            "createdAt": "2022-09-03T18:52:41.667Z",
+            "frameRange": [
+                109,
+                135
+            ],
+            "key": "4f8055ab01774bcc945d4a7d18b91d8e"
+        },
+        {
+            "name": "AL\u0130NM\u0130R",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:28:39.739Z",
+            "createdAt": "2022-09-03T19:28:39.739Z",
+            "frameRange": [
+                139,
+                184
+            ],
+            "key": "aaafac5da1704ee4b954cd97ffe919c1"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 251
+}

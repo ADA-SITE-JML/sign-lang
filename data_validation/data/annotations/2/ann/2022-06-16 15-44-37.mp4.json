@@ -1,0 +1,57 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "c7460962a8aa48039800046b77039346",
+    "tags": [
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-06T09:42:56.259Z",
+            "createdAt": "2022-09-06T09:42:56.259Z",
+            "frameRange": [
+                44,
+                80
+            ],
+            "key": "3975bac3171649cdb04ac1360686f8fa"
+        },
+        {
+            "name": "BAKI",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-06T09:42:34.003Z",
+            "createdAt": "2022-09-06T09:42:34.003Z",
+            "frameRange": [
+                33,
+                42
+            ],
+            "key": "ff3fd0e5ca86457880ce2e09aa4aacac"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T09:16:31.737Z",
+            "createdAt": "2022-09-12T09:16:31.737Z",
+            "frameRange": [
+                16,
+                31
+            ],
+            "key": "e5b6d4d61e924524864e2bb39216fc9e"
+        },
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T09:16:59.415Z",
+            "createdAt": "2022-09-12T09:16:59.415Z",
+            "frameRange": [
+                48,
+                75
+            ],
+            "key": "d12fe7b9c5fc40569f35d1deddcd244d"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 109
+}

@@ -1,0 +1,79 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "687d7d1c3aaa4c66850557da163d6ecd",
+    "tags": [
+        {
+            "name": "65",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T11:29:02.406Z",
+            "createdAt": "2022-09-09T11:29:02.406Z",
+            "frameRange": [
+                17,
+                44
+            ],
+            "key": "9c3aefee85f7419c8d654dedd026e8c8"
+        },
+        {
+            "name": "SAYLI",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T11:31:02.014Z",
+            "createdAt": "2022-09-09T11:31:02.014Z",
+            "frameRange": [
+                47,
+                61
+            ],
+            "key": "fe0c1ad0a811421ca88405b2db7a7131"
+        },
+        {
+            "name": "EV",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T11:33:04.854Z",
+            "createdAt": "2022-09-09T11:33:04.854Z",
+            "frameRange": [
+                107,
+                117
+            ],
+            "key": "f42c4d061d79443094e47b1c92a10b88"
+        },
+        {
+            "name": "AVTOBUS",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T11:32:27.253Z",
+            "createdAt": "2022-09-09T11:32:27.253Z",
+            "frameRange": [
+                64,
+                87
+            ],
+            "key": "1314f288532840b9b6eb0f59f9754c76"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T11:32:42.729Z",
+            "createdAt": "2022-09-09T11:32:42.729Z",
+            "frameRange": [
+                95,
+                104
+            ],
+            "key": "811d4656846647449bc6a815c3014d4f"
+        },
+        {
+            "name": "GED\u0130R",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T11:33:25.963Z",
+            "createdAt": "2022-09-09T11:33:25.963Z",
+            "frameRange": [
+                120,
+                149
+            ],
+            "key": "4c63ac83271e49bf8114c69364f27f34"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 187
+}

@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "2c54d16c56ee495f93a5499be22851be",
+    "tags": [
+        {
+            "name": "\u0130L",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:09:06.791Z",
+            "createdAt": "2022-09-10T12:09:06.791Z",
+            "frameRange": [
+                167,
+                212
+            ],
+            "key": "75b933730c9d43b7ae3b3706e9c9fd88"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:08:33.377Z",
+            "createdAt": "2022-09-10T12:08:33.377Z",
+            "frameRange": [
+                83,
+                159
+            ],
+            "key": "83f198f638dd437c9791394ab5bf1878"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T10:14:02.102Z",
+            "createdAt": "2022-09-10T10:14:02.102Z",
+            "frameRange": [
+                6,
+                40
+            ],
+            "key": "3c19db84b7c54da98598a0920f52c8ac"
+        },
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T10:14:38.156Z",
+            "createdAt": "2022-09-10T10:14:38.156Z",
+            "frameRange": [
+                48,
+                74
+            ],
+            "key": "07357c6c8426416a8f0b2e8ad2b930c2"
+        },
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:13:22.974Z",
+            "createdAt": "2022-09-10T12:13:22.974Z",
+            "frameRange": [
+                219,
+                258
+            ],
+            "key": "ce222ab365324937bcae9cfa7f003416"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 298
+}

@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "4f6f4e89a6a2447fa90692b5b3cf4e30",
+    "tags": [
+        {
+            "name": "B\u0130LM\u0130R",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:06:59.496Z",
+            "createdAt": "2022-09-03T19:06:59.496Z",
+            "frameRange": [
+                80,
+                102
+            ],
+            "key": "669342964aa4454ca7ba3d5ea26e388e"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:05:51.856Z",
+            "createdAt": "2022-09-03T19:05:51.856Z",
+            "frameRange": [
+                8,
+                17
+            ],
+            "key": "aee24242a97c45628ca84892873f8724"
+        },
+        {
+            "name": "AYAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:06:03.916Z",
+            "createdAt": "2022-09-03T19:06:03.916Z",
+            "frameRange": [
+                21,
+                41
+            ],
+            "key": "efb54e1cc4024d91a50d095d16de74fd"
+        },
+        {
+            "name": "\u00c7OX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:06:15.760Z",
+            "createdAt": "2022-09-03T19:06:15.760Z",
+            "frameRange": [
+                46,
+                60
+            ],
+            "key": "ec3048648e604824a88f80673e58ce33"
+        },
+        {
+            "name": "DURMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:06:49.694Z",
+            "createdAt": "2022-09-03T19:06:49.694Z",
+            "frameRange": [
+                63,
+                76
+            ],
+            "key": "055b2f80434b47dcb42c7f00917680cc"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 148
+}

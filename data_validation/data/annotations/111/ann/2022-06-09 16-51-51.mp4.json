@@ -1,0 +1,79 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "c0b0af4aa9104c778dbebef8e9fb7c52",
+    "tags": [
+        {
+            "name": "B\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:51:03.542Z",
+            "createdAt": "2022-09-14T09:51:03.542Z",
+            "frameRange": [
+                22,
+                43
+            ],
+            "key": "d7ec036615a1446a9947eba9416bb242"
+        },
+        {
+            "name": "H\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:51:16.076Z",
+            "createdAt": "2022-09-14T09:51:16.076Z",
+            "frameRange": [
+                51,
+                70
+            ],
+            "key": "7d5504922f1e48699a6f89d29b761555"
+        },
+        {
+            "name": "BAZAR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:52:50.591Z",
+            "createdAt": "2022-09-14T09:52:50.591Z",
+            "frameRange": [
+                75,
+                101
+            ],
+            "key": "1ac86fc273814ae4a35c34b65c3c8489"
+        },
+        {
+            "name": "FUTBOL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:53:18.960Z",
+            "createdAt": "2022-09-14T09:53:18.960Z",
+            "frameRange": [
+                148,
+                167
+            ],
+            "key": "c5de01a271a1492daadb04c948ff4e47"
+        },
+        {
+            "name": "OYNAMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:53:53.632Z",
+            "createdAt": "2022-09-14T09:53:53.632Z",
+            "frameRange": [
+                171,
+                224
+            ],
+            "key": "5eb4970f93264fcaa7b5f5f75e51b2dc"
+        },
+        {
+            "name": "G\u00dcN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:53:06.238Z",
+            "createdAt": "2022-09-14T09:53:06.238Z",
+            "frameRange": [
+                105,
+                140
+            ],
+            "key": "0ea4c7129986459aa700318b675986e5"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 269
+}

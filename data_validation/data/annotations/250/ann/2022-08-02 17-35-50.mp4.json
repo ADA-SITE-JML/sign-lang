@@ -1,0 +1,134 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "dd5b61a3e0a74711abde756f421731d9",
+    "tags": [
+        {
+            "name": "E",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-30T21:05:45.265Z",
+            "createdAt": "2022-08-30T21:05:45.265Z",
+            "frameRange": [
+                98,
+                106
+            ],
+            "key": "13c47553afb8435e8a0d4a9c6ca800d6"
+        },
+        {
+            "name": "\u0130",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-30T21:06:52.873Z",
+            "createdAt": "2022-08-30T21:06:52.873Z",
+            "frameRange": [
+                158,
+                162
+            ],
+            "key": "1f4a1368ed4c453f819b81a103d60ed9"
+        },
+        {
+            "name": "FANATIYAM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-30T21:09:15.049Z",
+            "createdAt": "2022-08-30T21:09:15.049Z",
+            "frameRange": [
+                199,
+                244
+            ],
+            "key": "62679a0ab9b8433da4d51f0624e3451b"
+        },
+        {
+            "name": "\u0130",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-30T21:07:06.145Z",
+            "createdAt": "2022-08-30T21:07:06.145Z",
+            "frameRange": [
+                173,
+                177
+            ],
+            "key": "8d7ae5648c3b4977bf0117c3b5b5354d"
+        },
+        {
+            "name": "N",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-30T21:07:41.703Z",
+            "createdAt": "2022-08-30T21:07:41.703Z",
+            "frameRange": [
+                153,
+                156
+            ],
+            "key": "d350e3fbc618415685b9e6c5046e332d"
+        },
+        {
+            "name": "N",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-30T21:07:50.307Z",
+            "createdAt": "2022-08-30T21:07:50.307Z",
+            "frameRange": [
+                165,
+                171
+            ],
+            "key": "173201367418469da783fc3872ca7b18"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-30T21:05:04.024Z",
+            "createdAt": "2022-08-30T21:05:04.024Z",
+            "frameRange": [
+                62,
+                82
+            ],
+            "key": "b5ee01f82c64480b8d8b67149d6345bd"
+        },
+        {
+            "name": "M",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-30T21:05:25.490Z",
+            "createdAt": "2022-08-30T21:05:25.490Z",
+            "frameRange": [
+                85,
+                96
+            ],
+            "key": "3203bccdae404dc692eafebd37c0d060"
+        },
+        {
+            "name": "N",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-30T21:08:08.659Z",
+            "createdAt": "2022-08-30T21:08:08.659Z",
+            "frameRange": [
+                178,
+                188
+            ],
+            "key": "93f316c9f1784d52a59242853402456f"
+        },
+        {
+            "name": "S",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T07:09:39.829Z",
+            "createdAt": "2022-09-01T07:09:39.829Z",
+            "frameRange": [
+                119,
+                136
+            ],
+            "key": "d48fa00147f34611a6e152ee508e179e"
+        },
+        {
+            "name": "S",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T07:09:30.693Z",
+            "createdAt": "2022-09-01T07:09:30.693Z",
+            "frameRange": [
+                113,
+                118
+            ],
+            "key": "d39e4f1adc254f74848bd11b5ffbfa48"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 292
+}

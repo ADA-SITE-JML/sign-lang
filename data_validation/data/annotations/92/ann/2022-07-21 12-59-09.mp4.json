@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "d7b1fc71f12c4be7ac463c25c39018ef",
+    "tags": [
+        {
+            "name": "N\u00d6MRE",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:45:03.641Z",
+            "createdAt": "2022-09-11T08:45:03.641Z",
+            "frameRange": [
+                57,
+                68
+            ],
+            "key": "c367242f2e5e48d8adb641530c589bf7"
+        },
+        {
+            "name": "TELEFON",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:44:49.695Z",
+            "createdAt": "2022-09-11T08:44:49.695Z",
+            "frameRange": [
+                40,
+                51
+            ],
+            "key": "c70b4cfa45c34260a5086a874560a319"
+        },
+        {
+            "name": "VERM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:45:13.926Z",
+            "createdAt": "2022-09-11T08:45:13.926Z",
+            "frameRange": [
+                71,
+                86
+            ],
+            "key": "cb8a21d0743641f382e44e6c01622776"
+        },
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:44:39.210Z",
+            "createdAt": "2022-09-11T08:44:39.210Z",
+            "frameRange": [
+                15,
+                35
+            ],
+            "key": "b58bbba8f6714d50ae2d6310df52df48"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:45:30.471Z",
+            "createdAt": "2022-09-11T08:45:30.471Z",
+            "frameRange": [
+                91,
+                130
+            ],
+            "key": "efaadbe3ca1e4d499ee4bcc9b2b15f74"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 174
+}

@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "435c3cf437fc4cfca6ed3a5a4090a327",
+    "tags": [
+        {
+            "name": "OLMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-04T18:48:38.067Z",
+            "createdAt": "2022-09-04T18:48:38.067Z",
+            "frameRange": [
+                70,
+                96
+            ],
+            "key": "e69535acbc6e421aa0bcb854f21a0fa4"
+        },
+        {
+            "name": "VAKS\u0130N",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-04T18:48:25.968Z",
+            "createdAt": "2022-09-04T18:48:25.968Z",
+            "frameRange": [
+                50,
+                67
+            ],
+            "key": "eeda62c3e1894b698783d83abaa267e3"
+        },
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-04T18:48:15.560Z",
+            "createdAt": "2022-09-04T18:48:15.560Z",
+            "frameRange": [
+                30,
+                46
+            ],
+            "key": "2b252eaea8be4ec7871643195ce0398f"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 150
+}

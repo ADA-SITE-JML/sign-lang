@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "3b81a90b134747d6a954067cc9af185b",
+    "tags": [
+        {
+            "name": "BAGLIDIR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-06T12:34:42.330Z",
+            "createdAt": "2022-09-06T12:34:42.330Z",
+            "frameRange": [
+                52,
+                81
+            ],
+            "key": "e37349dd0f1149f1b9d235924708c649"
+        },
+        {
+            "name": "B\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-06T12:34:13.027Z",
+            "createdAt": "2022-09-06T12:34:13.027Z",
+            "frameRange": [
+                12,
+                28
+            ],
+            "key": "8e274f0553b842f88a90a3868500dcc3"
+        },
+        {
+            "name": "QAPI",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-06T12:34:26.254Z",
+            "createdAt": "2022-09-06T12:34:26.254Z",
+            "frameRange": [
+                33,
+                48
+            ],
+            "key": "4ded6f7ffbff49248f5076d0aa643ae6"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 114
+}

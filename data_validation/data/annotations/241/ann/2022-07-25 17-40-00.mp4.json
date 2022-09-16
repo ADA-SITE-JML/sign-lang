@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "abd830b5549b4bcfa46cb79f3530b475",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T19:55:37.540Z",
+            "createdAt": "2022-08-31T19:55:37.540Z",
+            "frameRange": [
+                23,
+                32
+            ],
+            "key": "4387983289bb43c18e68c67636fd6901"
+        },
+        {
+            "name": "ORDA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T19:55:55.341Z",
+            "createdAt": "2022-08-31T19:55:55.341Z",
+            "frameRange": [
+                38,
+                66
+            ],
+            "key": "d20180b2c9c540bdb6001dc83f738730"
+        },
+        {
+            "name": "\u0130NSAN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T19:56:42.812Z",
+            "createdAt": "2022-08-31T19:56:42.812Z",
+            "frameRange": [
+                89,
+                112
+            ],
+            "key": "d6e6dd25381a48b49fca71073a36d655"
+        },
+        {
+            "name": "OLMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T19:57:10.802Z",
+            "createdAt": "2022-08-31T19:57:10.802Z",
+            "frameRange": [
+                142,
+                168
+            ],
+            "key": "ff6c24b01af24df29880d086b2a0cdaf"
+        },
+        {
+            "name": "TANI\u015e",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T19:56:57.050Z",
+            "createdAt": "2022-08-31T19:56:57.050Z",
+            "frameRange": [
+                120,
+                138
+            ],
+            "key": "627536caf24c49088a8dd501e30ad27d"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 201
+}

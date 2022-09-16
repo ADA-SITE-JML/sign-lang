@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "c3b1bf17093b401e94173931dfd7b4f8",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T08:33:11.155Z",
+            "createdAt": "2022-09-12T08:33:11.155Z",
+            "frameRange": [
+                8,
+                19
+            ],
+            "key": "3917e9f5c7ef4cbb8812df7c9b01e284"
+        },
+        {
+            "name": "PAYTAXT",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T08:33:48.244Z",
+            "createdAt": "2022-09-12T08:33:48.244Z",
+            "frameRange": [
+                37,
+                72
+            ],
+            "key": "214638470ec74b1485d844080ff7d7b2"
+        },
+        {
+            "name": "AZ\u018fRBAYCAN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T08:33:29.305Z",
+            "createdAt": "2022-09-12T08:33:29.305Z",
+            "frameRange": [
+                23,
+                34
+            ],
+            "key": "1629c7ae998c42b4914e311c91b76a25"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 111
+}

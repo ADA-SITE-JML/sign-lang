@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "741de78b61c742439e86184b92f6675a",
+    "tags": [
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:04:43.212Z",
+            "createdAt": "2022-09-11T08:04:43.212Z",
+            "frameRange": [
+                33,
+                52
+            ],
+            "key": "0819ab01838348d199116830e1f838c9"
+        },
+        {
+            "name": "VERM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:05:31.974Z",
+            "createdAt": "2022-09-11T08:05:31.974Z",
+            "frameRange": [
+                107,
+                131
+            ],
+            "key": "0cc75dc286e847b0baa0cf0855a79234"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:05:44.835Z",
+            "createdAt": "2022-09-11T08:05:44.835Z",
+            "frameRange": [
+                134,
+                162
+            ],
+            "key": "65441078d1b34591bbcdeb7ef18ba13a"
+        },
+        {
+            "name": "N\u00d6MRE",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:05:17.453Z",
+            "createdAt": "2022-09-11T08:05:17.453Z",
+            "frameRange": [
+                90,
+                104
+            ],
+            "key": "1c54a9c8b35a404d8cba9545f1c1fa01"
+        },
+        {
+            "name": "TELEFON",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:05:01.546Z",
+            "createdAt": "2022-09-11T08:05:01.546Z",
+            "frameRange": [
+                54,
+                85
+            ],
+            "key": "f4e46965d9c142f896672e58a0c94235"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 232
+}

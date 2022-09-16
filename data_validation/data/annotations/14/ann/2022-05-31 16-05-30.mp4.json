@@ -1,0 +1,57 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "d681d01401ee4c788defb8197f28c4f5",
+    "tags": [
+        {
+            "name": "IL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T10:45:35.021Z",
+            "createdAt": "2022-09-01T10:45:35.021Z",
+            "frameRange": [
+                162,
+                185
+            ],
+            "key": "bc7c889638c040e694089767a270af46"
+        },
+        {
+            "name": "1979",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T10:45:19.429Z",
+            "createdAt": "2022-09-01T10:45:19.429Z",
+            "frameRange": [
+                51,
+                159
+            ],
+            "key": "283e40df010e463caa046fa409cea9ba"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T10:44:44.464Z",
+            "createdAt": "2022-09-01T10:44:44.464Z",
+            "frameRange": [
+                24,
+                45
+            ],
+            "key": "5c39652401ba446290f0db7b11b6b702"
+        },
+        {
+            "name": "ANADAN OLMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T10:47:40.966Z",
+            "createdAt": "2022-09-01T10:47:40.966Z",
+            "frameRange": [
+                189,
+                229
+            ],
+            "key": "8a4563c6ea78467ea1051ebad64c570a"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 288
+}

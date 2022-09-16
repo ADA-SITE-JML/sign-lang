@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "237d99c5ef044e7d96942a0fa78f801f",
+    "tags": [
+        {
+            "name": "R\u018fNG",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T09:55:53.733Z",
+            "createdAt": "2022-08-31T09:55:53.733Z",
+            "frameRange": [
+                61,
+                77
+            ],
+            "key": "cedc1c33981b46cca02686b469c4aa57"
+        },
+        {
+            "name": "G\u00d6Y",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T09:55:40.335Z",
+            "createdAt": "2022-08-31T09:55:40.335Z",
+            "frameRange": [
+                43,
+                58
+            ],
+            "key": "adf6cd49c8414c0a8ace07297bfd2acf"
+        },
+        {
+            "name": "\u0130ST\u018fY\u0130R\u018fM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T09:56:08.246Z",
+            "createdAt": "2022-08-31T09:56:08.246Z",
+            "frameRange": [
+                79,
+                103
+            ],
+            "key": "5e7be35e2f004a07b361451ca8f7e876"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T09:55:13.365Z",
+            "createdAt": "2022-08-31T09:55:13.365Z",
+            "frameRange": [
+                14,
+                21
+            ],
+            "key": "115259ed5184466e94a3af33da2fb615"
+        },
+        {
+            "name": "BU",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T09:55:28.674Z",
+            "createdAt": "2022-08-31T09:55:28.674Z",
+            "frameRange": [
+                24,
+                40
+            ],
+            "key": "e64651dcba2b48a99e15d92c1d55c29d"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 161
+}

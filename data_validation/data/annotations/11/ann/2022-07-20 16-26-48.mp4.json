@@ -1,0 +1,79 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "388b01954fc847a6aa9b0b0ea519dbc7",
+    "tags": [
+        {
+            "name": "D",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T07:41:32.806Z",
+            "createdAt": "2022-09-01T07:41:32.806Z",
+            "frameRange": [
+                67,
+                76
+            ],
+            "key": "400acc0f0ea1469a99ef7f12fb29abf6"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T07:40:55.573Z",
+            "createdAt": "2022-09-01T07:40:55.573Z",
+            "frameRange": [
+                56,
+                64
+            ],
+            "key": "21ae0334fb414a599ba77b4010b79c21"
+        },
+        {
+            "name": "INDI",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T07:40:43.891Z",
+            "createdAt": "2022-09-01T07:40:43.891Z",
+            "frameRange": [
+                43,
+                50
+            ],
+            "key": "3ad167a34b394d8dbffe9ebf43004b12"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T07:40:33.487Z",
+            "createdAt": "2022-09-01T07:40:33.487Z",
+            "frameRange": [
+                21,
+                38
+            ],
+            "key": "724063070a884689a710dc2a4d2d339e"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T07:41:13.041Z",
+            "createdAt": "2022-09-01T07:41:13.041Z",
+            "frameRange": [
+                79,
+                90
+            ],
+            "key": "242bbb0b95c943f9961a79f92ded9620"
+        },
+        {
+            "name": "UN\u0130VERS\u0130TET",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T07:41:53.639Z",
+            "createdAt": "2022-09-01T07:41:53.639Z",
+            "frameRange": [
+                94,
+                139
+            ],
+            "key": "97f8bb38035c4b20ac8a23744ff55c8f"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 183
+}

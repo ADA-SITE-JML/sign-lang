@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "26f1e3560b414c1abeb241c1c8302126",
+    "tags": [
+        {
+            "name": "ONUN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T15:29:29.151Z",
+            "createdAt": "2022-08-31T15:29:29.151Z",
+            "frameRange": [
+                18,
+                33
+            ],
+            "key": "25d6e312195e4b50bf2d05caa226ed15"
+        },
+        {
+            "name": "S\u018fN\u018fD",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T15:29:44.413Z",
+            "createdAt": "2022-08-31T15:29:44.413Z",
+            "frameRange": [
+                38,
+                59
+            ],
+            "key": "3cf066ad16484476932928c752bdba78"
+        },
+        {
+            "name": "M\u018fND\u018fD\u0130R",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T15:29:58.904Z",
+            "createdAt": "2022-08-31T15:29:58.904Z",
+            "frameRange": [
+                61,
+                84
+            ],
+            "key": "501c673144bb4d22a3463a9f312d974b"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 127
+}

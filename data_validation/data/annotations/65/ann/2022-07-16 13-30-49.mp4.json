@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "1543c9cb2e744eaaa6b0ff2f506da089",
+    "tags": [
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-04T19:13:54.699Z",
+            "createdAt": "2022-09-04T19:13:54.699Z",
+            "frameRange": [
+                40,
+                57
+            ],
+            "key": "8227667637c9420c9511c10ccec0774f"
+        },
+        {
+            "name": "VAKS\u0130N",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-04T19:14:05.049Z",
+            "createdAt": "2022-09-04T19:14:05.049Z",
+            "frameRange": [
+                60,
+                77
+            ],
+            "key": "7178c4653f204412b0ed1813a48f4dd3"
+        },
+        {
+            "name": "VURMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-04T19:14:16.789Z",
+            "createdAt": "2022-09-04T19:14:16.789Z",
+            "frameRange": [
+                80,
+                105
+            ],
+            "key": "583a5f8be0cd45f7809d505c47fd6dd9"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 147
+}

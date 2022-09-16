@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "ee36861ac41443b19f1a74845d9eb3f3",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:49:13.934Z",
+            "createdAt": "2022-08-31T12:49:13.934Z",
+            "frameRange": [
+                16,
+                28
+            ],
+            "key": "3d7bdf7fea0249758ac18abcdf3ec31a"
+        },
+        {
+            "name": "BU",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:49:36.710Z",
+            "createdAt": "2022-08-31T12:49:36.710Z",
+            "frameRange": [
+                31,
+                67
+            ],
+            "key": "c8c92083f41b4678bad96e6f5fa915df"
+        },
+        {
+            "name": "T\u018fRC\u00dcM\u018f",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T07:28:43.857Z",
+            "createdAt": "2022-09-01T07:28:43.857Z",
+            "frameRange": [
+                102,
+                132
+            ],
+            "key": "04f8df6229384efca304fc9c661fee31"
+        },
+        {
+            "name": "\u0130ST\u018fY\u0130R\u018fM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T07:28:58.637Z",
+            "createdAt": "2022-09-01T07:28:58.637Z",
+            "frameRange": [
+                137,
+                174
+            ],
+            "key": "cb77dbbb21dc4844a3f05b14bb9251a7"
+        },
+        {
+            "name": "Q\u018fD\u0130M",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T07:28:18.087Z",
+            "createdAt": "2022-09-01T07:28:18.087Z",
+            "frameRange": [
+                73,
+                97
+            ],
+            "key": "1dd9d4e690134d7c9f1207e76466b260"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 214
+}

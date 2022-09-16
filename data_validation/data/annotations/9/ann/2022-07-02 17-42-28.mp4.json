@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "5aa0d45d99bd4a96a48b0bb32a019676",
+    "tags": [
+        {
+            "name": "NEC\u018f",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-08T09:39:15.673Z",
+            "createdAt": "2022-09-08T09:39:15.673Z",
+            "frameRange": [
+                91,
+                114
+            ],
+            "key": "ebfba7d4b04a45d59764203587f2d380"
+        },
+        {
+            "name": "ORA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-08T09:38:54.783Z",
+            "createdAt": "2022-09-08T09:38:54.783Z",
+            "frameRange": [
+                49,
+                80
+            ],
+            "key": "f4d2da86fee649e1bfd75694b13a6eb1"
+        },
+        {
+            "name": "GED\u018f",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-08T09:39:37.790Z",
+            "createdAt": "2022-09-08T09:39:37.790Z",
+            "frameRange": [
+                121,
+                141
+            ],
+            "key": "a730b8ac28f2484cbfec84df37b17862"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T14:18:22.853Z",
+            "createdAt": "2022-09-12T14:18:22.853Z",
+            "frameRange": [
+                20,
+                43
+            ],
+            "key": "94ed3372f9ad4306a99e1b27feb0a610"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T14:18:56.429Z",
+            "createdAt": "2022-09-12T14:18:56.429Z",
+            "frameRange": [
+                146,
+                170
+            ],
+            "key": "5f22634dffc947268aff9316000c5f13"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 216
+}

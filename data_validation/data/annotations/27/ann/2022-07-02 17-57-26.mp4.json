@@ -1,0 +1,134 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "84da7828645849aeab4458474354aa32",
+    "tags": [
+        {
+            "name": "M",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:56:05.365Z",
+            "createdAt": "2022-09-15T08:56:05.365Z",
+            "frameRange": [
+                183,
+                186
+            ],
+            "key": "0536a2d43b48420eb8127072ad89d6bc"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:53:40.174Z",
+            "createdAt": "2022-09-15T08:53:40.174Z",
+            "frameRange": [
+                32,
+                47
+            ],
+            "key": "6a4a14917e1249a3afadcb2a251f58e2"
+        },
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:54:56.403Z",
+            "createdAt": "2022-09-15T08:54:56.403Z",
+            "frameRange": [
+                112,
+                123
+            ],
+            "key": "9c9fa8f8e9c94285ab6801086764f075"
+        },
+        {
+            "name": "INDI",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:57:08.152Z",
+            "createdAt": "2022-09-15T08:57:08.152Z",
+            "frameRange": [
+                207,
+                222
+            ],
+            "key": "7b4804c4813c4def953853957244d543"
+        },
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:58:25.191Z",
+            "createdAt": "2022-09-15T08:58:25.191Z",
+            "frameRange": [
+                277,
+                300
+            ],
+            "key": "5513f1b4851d4eb9b52b558ebe2b469a"
+        },
+        {
+            "name": "M\u0130KRO",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:57:55.542Z",
+            "createdAt": "2022-09-15T08:57:55.542Z",
+            "frameRange": [
+                249,
+                274
+            ],
+            "key": "1deea0779cd44a479c4fe967ba15746c"
+        },
+        {
+            "name": "\u018fVV\u018fL",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:54:08.101Z",
+            "createdAt": "2022-09-15T08:54:08.101Z",
+            "frameRange": [
+                52,
+                78
+            ],
+            "key": "ac18c2eddb4b42e99c311f870f49e4e8"
+        },
+        {
+            "name": "M\u018fRK\u018fZ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:54:26.925Z",
+            "createdAt": "2022-09-15T08:54:26.925Z",
+            "frameRange": [
+                85,
+                101
+            ],
+            "key": "eb9a1013855849f3a01f2a556d50b0b2"
+        },
+        {
+            "name": "M",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:56:24.918Z",
+            "createdAt": "2022-09-15T08:56:24.918Z",
+            "frameRange": [
+                187,
+                191
+            ],
+            "key": "30c3af83f8b54122b7f2e853f0e648f8"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:56:37.527Z",
+            "createdAt": "2022-09-15T08:56:37.527Z",
+            "frameRange": [
+                192,
+                195
+            ],
+            "key": "33cbebf6f0bc4b989ef4b1c72786bbea"
+        },
+        {
+            "name": "3",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:57:28.586Z",
+            "createdAt": "2022-09-15T08:57:28.586Z",
+            "frameRange": [
+                227,
+                244
+            ],
+            "key": "86acb2c9f67d4374801f8f002f2dd9af"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 353
+}

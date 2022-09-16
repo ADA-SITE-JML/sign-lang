@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "61eb5cfae74743678ebe323e54293b78",
+    "tags": [
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:24:52.943Z",
+            "createdAt": "2022-09-10T12:24:52.943Z",
+            "frameRange": [
+                51,
+                68
+            ],
+            "key": "21118cc82d154d89b30a12ad5c00e645"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:24:16.723Z",
+            "createdAt": "2022-09-10T12:24:16.723Z",
+            "frameRange": [
+                25,
+                42
+            ],
+            "key": "c755109cd3eb42019b40ea5d84934ab7"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:25:23.665Z",
+            "createdAt": "2022-09-10T12:25:23.665Z",
+            "frameRange": [
+                80,
+                132
+            ],
+            "key": "fd7b9f10700546b297246e8f892dbd6b"
+        },
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:26:11.109Z",
+            "createdAt": "2022-09-10T12:26:11.109Z",
+            "frameRange": [
+                158,
+                184
+            ],
+            "key": "6884ccab48894df78773fac08df0a97a"
+        },
+        {
+            "name": "\u0130L",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:25:53.282Z",
+            "createdAt": "2022-09-10T12:25:53.282Z",
+            "frameRange": [
+                135,
+                154
+            ],
+            "key": "611dcb775ed84b609e3a761ca9b9fa06"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 248
+}

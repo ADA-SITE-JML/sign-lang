@@ -1,0 +1,79 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "216c43c56080423b8996d21b6ce301ec",
+    "tags": [
+        {
+            "name": "B\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:09:52.096Z",
+            "createdAt": "2022-09-14T10:09:52.096Z",
+            "frameRange": [
+                21,
+                29
+            ],
+            "key": "63c7be46f7d14684bfad30402c4ce253"
+        },
+        {
+            "name": "BAZAR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:10:50.642Z",
+            "createdAt": "2022-09-14T10:10:50.642Z",
+            "frameRange": [
+                59,
+                66
+            ],
+            "key": "9b0890a0fedd4eb8bde7619ee54b310a"
+        },
+        {
+            "name": "FUTBOL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:11:19.950Z",
+            "createdAt": "2022-09-14T10:11:19.950Z",
+            "frameRange": [
+                82,
+                93
+            ],
+            "key": "48bf8859462143ab8a7940374fc10a51"
+        },
+        {
+            "name": "OYNAMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:11:35.629Z",
+            "createdAt": "2022-09-14T10:11:35.629Z",
+            "frameRange": [
+                95,
+                126
+            ],
+            "key": "1b184a04e78346078a593b87a337a498"
+        },
+        {
+            "name": "H\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:10:41.218Z",
+            "createdAt": "2022-09-14T10:10:41.218Z",
+            "frameRange": [
+                36,
+                55
+            ],
+            "key": "e1c71c7baa97490fb831d62876cf4296"
+        },
+        {
+            "name": "G\u00dcN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T10:11:00.623Z",
+            "createdAt": "2022-09-14T10:11:00.623Z",
+            "frameRange": [
+                69,
+                79
+            ],
+            "key": "d81995eeca8e4edf98bc3bb404bd5fac"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 182
+}

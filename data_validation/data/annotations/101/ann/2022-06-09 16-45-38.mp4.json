@@ -1,0 +1,35 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "64c500cb69184e79a51fb499850c2cbb",
+    "tags": [
+        {
+            "name": "HAMI",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T11:37:24.613Z",
+            "createdAt": "2022-09-12T11:37:24.613Z",
+            "frameRange": [
+                61,
+                84
+            ],
+            "key": "f16ffb6af50744b89f17fa8c130fd6ef"
+        },
+        {
+            "name": "SALAM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T11:37:41.539Z",
+            "createdAt": "2022-09-12T11:37:41.539Z",
+            "frameRange": [
+                89,
+                127
+            ],
+            "key": "5e6a3a0d1e3a479599e3057bf9cbf75a"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 190
+}

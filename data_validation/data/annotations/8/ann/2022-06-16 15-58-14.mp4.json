@@ -1,0 +1,35 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "0a54a812eb3c46808e7cb5952d91cf0b",
+    "tags": [
+        {
+            "name": "SUBAY",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T13:48:06.035Z",
+            "createdAt": "2022-09-12T13:48:06.035Z",
+            "frameRange": [
+                60,
+                88
+            ],
+            "key": "47253119061d498b9e7502a12b02747a"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T13:47:41.597Z",
+            "createdAt": "2022-09-12T13:47:41.597Z",
+            "frameRange": [
+                42,
+                54
+            ],
+            "key": "705b744600f2444e8e36216d429b9608"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 132
+}

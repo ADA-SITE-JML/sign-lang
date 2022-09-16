@@ -1,0 +1,112 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "d96c281356024c1ab98f632bcfe1f82c",
+    "tags": [
+        {
+            "name": "NEC\u018f",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T14:34:04.424Z",
+            "createdAt": "2022-09-13T14:34:04.424Z",
+            "frameRange": [
+                116,
+                126
+            ],
+            "key": "e7ca026f76684108821829e1f940ec53"
+        },
+        {
+            "name": "S",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T14:32:06.079Z",
+            "createdAt": "2022-09-13T14:32:06.079Z",
+            "frameRange": [
+                24,
+                42
+            ],
+            "key": "76171e40a1774bfe9c692ab7838e3f23"
+        },
+        {
+            "name": "H",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T14:32:36.446Z",
+            "createdAt": "2022-09-13T14:32:36.446Z",
+            "frameRange": [
+                53,
+                63
+            ],
+            "key": "0a17f0d93fbc4b2b883d3492995c9bc7"
+        },
+        {
+            "name": "\u0130",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T14:32:52.136Z",
+            "createdAt": "2022-09-13T14:32:52.136Z",
+            "frameRange": [
+                68,
+                74
+            ],
+            "key": "645731318d7f4077a2c6b5ea7d42ce53"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T14:32:22.054Z",
+            "createdAt": "2022-09-13T14:32:22.054Z",
+            "frameRange": [
+                44,
+                50
+            ],
+            "key": "1f3a27c198504d51bb4d80f93df8664a"
+        },
+        {
+            "name": "L",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T14:33:06.035Z",
+            "createdAt": "2022-09-13T14:33:06.035Z",
+            "frameRange": [
+                77,
+                85
+            ],
+            "key": "c951b325d78f40c3bd7fa989844a3384"
+        },
+        {
+            "name": "GED\u018f",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T14:34:44.453Z",
+            "createdAt": "2022-09-13T14:34:44.453Z",
+            "frameRange": [
+                158,
+                179
+            ],
+            "key": "814f6c8a8b0c418db20dc595f7e5a41c"
+        },
+        {
+            "name": "GED\u018f",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T14:34:27.129Z",
+            "createdAt": "2022-09-13T14:34:27.129Z",
+            "frameRange": [
+                133,
+                147
+            ],
+            "key": "f50d8d306d084792b875cc52c6fcbbb4"
+        },
+        {
+            "name": "METRO",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T14:33:42.830Z",
+            "createdAt": "2022-09-13T14:33:42.830Z",
+            "frameRange": [
+                91,
+                105
+            ],
+            "key": "9fe813e3b166465fbd164a5575ff3b1b"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 229
+}

@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "8c49dbbd324543be920559a70b5a1263",
+    "tags": [
+        {
+            "name": "WIFI",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T07:09:47.296Z",
+            "createdAt": "2022-09-10T07:09:47.296Z",
+            "frameRange": [
+                16,
+                48
+            ],
+            "key": "61a07c49894b4d00bb8546803e3221fb"
+        },
+        {
+            "name": "PAROL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T07:10:13.944Z",
+            "createdAt": "2022-09-10T07:10:13.944Z",
+            "frameRange": [
+                53,
+                68
+            ],
+            "key": "c5f0e1f74a824c13a115770bbdb877a1"
+        },
+        {
+            "name": "N\u018fD\u0130R",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T07:10:25.540Z",
+            "createdAt": "2022-09-10T07:10:25.540Z",
+            "frameRange": [
+                73,
+                99
+            ],
+            "key": "5c59ec634db642e88ef73d2246de0f2b"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 132
+}

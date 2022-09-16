@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "84a561f9cd20472fa7219847a2a851d3",
+    "tags": [
+        {
+            "name": "OXUMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T11:44:02.610Z",
+            "createdAt": "2022-09-14T11:44:02.610Z",
+            "frameRange": [
+                21,
+                34
+            ],
+            "key": "e712b2b451674e2b9839552fe5786442"
+        },
+        {
+            "name": "B\u0130LM\u0130R",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T11:44:11.231Z",
+            "createdAt": "2022-09-14T11:44:11.231Z",
+            "frameRange": [
+                37,
+                57
+            ],
+            "key": "9be278ccfe6c401f8c966aa9665f71a6"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T11:43:48.282Z",
+            "createdAt": "2022-09-14T11:43:48.282Z",
+            "frameRange": [
+                12,
+                19
+            ],
+            "key": "f79d0b87d0174aabb9356531419f84d0"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 106
+}

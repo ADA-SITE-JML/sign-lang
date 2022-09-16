@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "1e01313f3a8a42f9a80f7e41f7a7c53f",
+    "tags": [
+        {
+            "name": "N\u00d6MRE",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:44:03.356Z",
+            "createdAt": "2022-09-11T08:44:03.356Z",
+            "frameRange": [
+                39,
+                49
+            ],
+            "key": "5865c14ed85c4eb198bc857edd7ca250"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:44:24.694Z",
+            "createdAt": "2022-09-11T08:44:24.694Z",
+            "frameRange": [
+                65,
+                87
+            ],
+            "key": "6d14a455ff80494b86b86a2c707e7b98"
+        },
+        {
+            "name": "TELEFON",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:43:50.495Z",
+            "createdAt": "2022-09-11T08:43:50.495Z",
+            "frameRange": [
+                29,
+                33
+            ],
+            "key": "359101727721470f95aff5b2797dbcd9"
+        },
+        {
+            "name": "VERM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:44:12.249Z",
+            "createdAt": "2022-09-11T08:44:12.249Z",
+            "frameRange": [
+                53,
+                61
+            ],
+            "key": "4a462cbf9ade439caf9ab251fb217c62"
+        },
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:43:42.317Z",
+            "createdAt": "2022-09-11T08:43:42.317Z",
+            "frameRange": [
+                11,
+                25
+            ],
+            "key": "f2cd009a801a4fb78d879ac34ca48901"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 118
+}
