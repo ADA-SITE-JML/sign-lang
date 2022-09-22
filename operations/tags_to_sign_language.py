@@ -21,8 +21,8 @@ for (dirpath, dirnames, filenames) in os.walk(parent_dir):
                 tags = json_dict['tags']
                 for i in range(len(tags)):
                     try:
-                        tags[i]['glossStart'] = tags[i]['frameRange'][0]
-                        tags[i]['glossEnd'] = tags[i]['frameRange'][1]
+                        tags[i]['glossStart'] = int(tags[i]['frameRange'][0])
+                        tags[i]['glossEnd'] = int(tags[i]['frameRange'][1])
                         # print(type(tags[i]['frameRange']))
                     except KeyError as err:
                         print(f">>> Empty label error: {err}")
