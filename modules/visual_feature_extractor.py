@@ -3,6 +3,7 @@ import torch
 import torch.nn as nn
 from torchvision.models import efficientnet_b6, EfficientNet_B6_Weights
 import PIL
+import cv2
 
 weights = EfficientNet_B6_Weights.IMAGENET1K_V1
 model = efficientnet_b6(weights=weights)
@@ -27,19 +28,30 @@ class VisualFeatures():
 
         return img
 
-    def flattened_model_vf(self, img_arr):
+    def flattened_model_vf(self, file_path):
         """
         In:
         - img (numpy.ndarray or list of numpy.ndarray): input image batch of shape [batch_size, height, width, num_channels]
         Out:
         - (torch.Tensor): output Tensor of shape [batch_size, num_channels, height, width]
         """
-        batch_size = len(img_arr)
 
-        for img in img_arr:
-            img = self.preprocess(img)
-            dims = 
-            
+        cap = cv2.VideoCapture(file_path)
+        batch = []
+        ret = True
+
+        batch = []
+        while cap.isOpened() and ret:
+            ret, frame = cap.read()
+            batch.append(self.preprocess(frame))
+
+        batch = torch.stack(batch)
+
+        flat_vf = self.model(batch)
+
+        return flat_vf
+    
+
 
 
 
