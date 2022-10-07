@@ -37,7 +37,7 @@ def convert_frames_to_video(frames, path_out, size, fps=25):
     writer.release()
 
 
-def create_word_level_data(gloss_df, read_src, write_src):
+def create_word_level_data(gloss_df, read_src, write_src, fps=25):
     for gloss, df in gloss_df.groupby(by='gloss'):
         for i in range(len(df)):
             
@@ -59,7 +59,7 @@ def create_word_level_data(gloss_df, read_src, write_src):
                 )
 
                 size = frames[0].shape[:2][::-1]
-                convert_frames_to_video(frames, path_out, size, fps=25)
+                convert_frames_to_video(frames, path_out, size, fps)
                 
                 if os.path.exists(path_out):
                     print(f">>> Created: {path_out}")
