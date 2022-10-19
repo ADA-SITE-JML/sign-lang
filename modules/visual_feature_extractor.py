@@ -1,12 +1,28 @@
-from sklearn import preprocessing
-import torch
-import torch.nn as nn
-from torchvision.models import efficientnet_b6, EfficientNet_B6_Weights
-import PIL
+import imp
+import os
 import cv2
+import pdb
+import glob
+import pandas as pd
+import numpy as np
+from tqdm import tqdm
+from multiprocessing import Pool
+import torch
+from torch import Tensor
+import torch.nn as nn
+import torch.nn.functional as F
+# from torch.nn.functional import InterpolationMode
+import torchvision.models as models
+import logging
+import datetime
+import sys
+from torchvision.models import squeezenet1_1, SqueezeNet1_1_Weights
+import cv2
+import PIL
 
-weights = EfficientNet_B6_Weights.IMAGENET1K_V1
-model = efficientnet_b6(weights=weights)
+weights = SqueezeNet1_1_Weights.IMAGENET1K_V1
+model = squeezenet1_1(weights=weights)
+my_model = nn.Sequential(*list(model.children())[:])
 
 class VisualFeatures():
     def __init__(self, weights, model):
