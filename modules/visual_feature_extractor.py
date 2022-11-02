@@ -22,15 +22,31 @@ import PIL
 
 weights = SqueezeNet1_1_Weights.IMAGENET1K_V1
 model = squeezenet1_1(weights=weights)
-my_model = nn.Sequential(*list(model.children())[:])
+# my_model = nn.Sequential(*list(model.children())[:])
+
+my_model = model
+
+# arch = list(model.children())[:-1][0]
+# classifier_2d = list(model.children())[-1][:-2]
+# classifier_2d
+
+# modules = [layer for layer in arch]
+# # modules += [layer for layer in classifier_2d]
+# # modules.append(nn.AdaptiveAvgPool2d(output_size=(13, 1)))
+# my_model = nn.Sequential(*modules)
+# my_model
+
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+my_model.to(device)
 
 class VisualFeatures():
-    def __init__(self, weights, model):
+    def __init__(self, weights, model, device):
         self.weights = weights
         # remove the classification head
-        self.model = nn.Sequential(*list(model.children())[:-1])
+        self.model = model
+        self.device = device
 
-    def preprocess(self, img):
+    def frame_preprocess(self, img):
         """
         In:
         - img (numpy.ndarray): input image of shape [height, width, num_channels]
@@ -44,28 +60,47 @@ class VisualFeatures():
 
         return img
 
-    def flattened_model_vf(self, file_path):
-        """
-        In:
-        - img (numpy.ndarray or list of numpy.ndarray): input image batch of shape [batch_size, height, width, num_channels]
-        Out:
-        - (torch.Tensor): output Tensor of shape [batch_size, num_channels, height, width]
-        """
 
+    def extract_video_features(file_path, self.model, self.device, flat_ft_size=25, pad_dims = [3, 224, 224]):
         cap = cv2.VideoCapture(file_path)
         batch = []
-        ret = True
 
-        batch = []
-        while cap.isOpened() and ret:
+        video_vf = torch.Tensor().to(device)
+
+
+        while cap.isOpened():
             ret, frame = cap.read()
-            batch.append(self.preprocess(frame))
+            
+            if ret:
+                batch.append(self.frame_preprocess(frame))
+        
+            if len(batch) == flat_ft_size:
+                batch = torch.stack(batch)
+                batch = batch.to(device)
+                flat_vf = model(batch)
+                # flat_vf, _ = torch.max(flat_vf, dim=0)
+                flat_vf = flat_vf.reshape([1]+list(flat_vf.shape))
+                video_vf = torch.cat((video_vf, flat_vf))
 
-        batch = torch.stack(batch)
+                batch = []
+                
+            if not ret:
 
-        flat_vf = self.model(batch)
+                if len(batch) != flat_ft_size and batch:
+                    batch = torch.stack(batch)
+                    padding = torch.zeros([flat_ft_size - len(batch)] + pad_dims)            
+                    
+                    batch = torch.vstack((batch, padding))
+                    batch = batch.to(device)
+                    flat_vf = model(batch)
+                    # flat_vf, _ = torch.max(flat_vf, dim=0)
+                    flat_vf = flat_vf.reshape([1]+list(flat_vf.shape))
+        
+                    video_vf = torch.cat((video_vf, flat_vf))
 
-        return flat_vf
+                break
+
+        return video_vf
     
 
 
