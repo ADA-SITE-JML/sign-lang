@@ -1,7 +1,7 @@
 import json
 import os
 import argparse
-
+import shutil
 
 
 def get_annotated_video_list(annotations_src: str) -> list:
@@ -26,12 +26,43 @@ def get_annotated_video_list(annotations_src: str) -> list:
             f.write(f"{item}\n")
     
     return uploaded_list
+    
+def get_unannotated_video_copies(video_src: str, annotations_src: str, video_copy_dest: str, verbose: bool = False) -> None:
+    
+    uploaded_list = get_annotated_video_list(annotations_src)
+    
+    if not video_copy_dest:
+        video_copy_dest = os.path.join(video_src, 'upload_copies')
+        
+    for directory in os.listdir(video_src):
+        
+        video_dir = os.path.join(video_src, directory)
+        
+        if os.path.isdir(video_dir):
             
-# command line argument parser for the get_annotated_video_list method
+            for filename in os.listdir(video_dir):
+                
+            # copy video from one directory to another
+                if filename not in uploaded_list:
+                    src = os.path.join(video_dir, filename)
+                    dst = os.path.join(video_copy_dest, directory, filename)
+                    shutil.copy(src, dst)
+                    
+                    if verbose:
+                        print("Copied {} to {}".format(src, dst))
+        
+            
+# command line argument parser for the get_unannotated_video_copies method
     
     
-parser = argparse.ArgumentParser()
-parser.add_argument("-a", "--annotations_src", required=True, help="path to the annotations directory")
-args = vars(parser.parse_args())
+parser = argparse.ArgumentParser(description='Get unannotated video copies')
+parser.add_argument('-vs', '--video_src', type=str, required=True,
+                    help='path to the directory containing the videos')
+parser.add_argument('-as', '--annotations_src', type=str, required=True,
+                    help='path to the uploaded list file')
+parser.add_argument('--video_copy_dest', type=str, default=None,
+                    help='path to the directory where the video copies will be stored')
+parser.add_argument('--verbose', default=False, help='verbose mode')
+args = parser.parse_args()
 
-get_annotated_video_list(args["annotations_src"])
+get_unannotated_video_copies(args.video_src, args.annotations_src, args.video_copy_dest, args.verbose)
