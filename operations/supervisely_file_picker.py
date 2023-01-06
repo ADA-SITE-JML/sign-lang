@@ -1,13 +1,13 @@
 import json
 import os
+import argparse
 
-annotations_src = "../SLR_sync/Data/annotations"
-uploaded_list = []
+
 
 def get_annotated_video_list(annotations_src: str) -> list:
+    uploaded_list = []
 
     for directory in os.listdir(annotations_src):
-        print(directory)
         
         ann_path = os.path.join(annotations_src, directory, "ann")
         
@@ -21,13 +21,17 @@ def get_annotated_video_list(annotations_src: str) -> list:
     
     # write contents of the uploaded_list to a txt file
     
-    with open('uploaded_list.txt', 'w') as f:
+    with open('uploaded_list.txt', 'w+') as f:
         for item in uploaded_list:
-            f.write("%s" % item)
+            f.write(f"{item}\n")
     
     return uploaded_list
             
-print(uploaded_list)
+# command line argument parser for the get_annotated_video_list method
+    
+    
+parser = argparse.ArgumentParser()
+parser.add_argument("-a", "--annotations_src", required=True, help="path to the annotations directory")
+args = vars(parser.parse_args())
 
-    
-    
+get_annotated_video_list(args["annotations_src"])
