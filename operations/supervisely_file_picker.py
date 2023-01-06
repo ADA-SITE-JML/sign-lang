@@ -21,7 +21,7 @@ def get_annotated_video_list(annotations_src: str) -> list:
     
     # write contents of the uploaded_list to a txt file
     
-    with open('uploaded_list.txt', 'w+') as f:
+    with open(os.path.join(annotations_src, 'uploaded_list.txt'), 'w+') as f:
         for item in uploaded_list:
             f.write(f"{item}\n")
     
