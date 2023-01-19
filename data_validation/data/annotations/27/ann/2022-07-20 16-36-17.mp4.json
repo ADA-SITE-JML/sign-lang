@@ -1,0 +1,112 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "729045c7bfee42c69fd95c16eb4d45e1",
+    "tags": [
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T09:36:43.274Z",
+            "createdAt": "2022-09-15T09:36:43.274Z",
+            "frameRange": [
+                89,
+                108
+            ],
+            "key": "c4b13c6021984604b93393e32df173c8"
+        },
+        {
+            "name": "3",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T09:39:37.643Z",
+            "createdAt": "2022-09-15T09:39:37.643Z",
+            "frameRange": [
+                171,
+                183
+            ],
+            "key": "ffdcdde94bd045f191c44e855eb46ba1"
+        },
+        {
+            "name": "M\u0130KRO",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T09:40:24.222Z",
+            "createdAt": "2022-09-15T09:40:24.222Z",
+            "frameRange": [
+                186,
+                215
+            ],
+            "key": "e781495ad6d6487caf6cb3b85fb7e93d"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T09:31:25.501Z",
+            "createdAt": "2022-09-15T09:31:25.501Z",
+            "frameRange": [
+                18,
+                26
+            ],
+            "key": "733b9a65707a420a9475e7b03fe054f2"
+        },
+        {
+            "name": "M\u018fRK\u018fZ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T09:32:40.821Z",
+            "createdAt": "2022-09-15T09:32:40.821Z",
+            "frameRange": [
+                54,
+                75
+            ],
+            "key": "67a7dcc1011845a6ac95353ab545c43d"
+        },
+        {
+            "name": "AMMA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T09:38:16.400Z",
+            "createdAt": "2022-09-15T09:38:16.400Z",
+            "frameRange": [
+                119,
+                143
+            ],
+            "key": "8563eccaa72b4da6a670d751f33113c3"
+        },
+        {
+            "name": "INDI",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T09:39:22.528Z",
+            "createdAt": "2022-09-15T09:39:22.528Z",
+            "frameRange": [
+                152,
+                163
+            ],
+            "key": "d2fb50b48547465882d269550fde852c"
+        },
+        {
+            "name": "\u018fVV\u018fL",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T09:31:48.512Z",
+            "createdAt": "2022-09-15T09:31:48.512Z",
+            "frameRange": [
+                35,
+                48
+            ],
+            "key": "31fea0d017a140dfaf934374549bebcd"
+        },
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T09:40:49.420Z",
+            "createdAt": "2022-09-15T09:40:49.420Z",
+            "frameRange": [
+                236,
+                261
+            ],
+            "key": "6fa30ce3258c4c469189e9ac7516798d"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 315
+}

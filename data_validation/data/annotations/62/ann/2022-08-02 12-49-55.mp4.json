@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "09804d3d2df04fe8abd6218fc4702104",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:29:02.216Z",
+            "createdAt": "2022-09-03T19:29:02.216Z",
+            "frameRange": [
+                27,
+                53
+            ],
+            "key": "5b1d3a501fa041d6841305d6b89f1ccd"
+        },
+        {
+            "name": "AYAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:29:15.410Z",
+            "createdAt": "2022-09-03T19:29:15.410Z",
+            "frameRange": [
+                57,
+                92
+            ],
+            "key": "1e376ed818dd4151bbed8680c5c9c9bf"
+        },
+        {
+            "name": "DURMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:29:41.505Z",
+            "createdAt": "2022-09-03T19:29:41.505Z",
+            "frameRange": [
+                123,
+                145
+            ],
+            "key": "544094bd58774c9ba86f49c97301c3ee"
+        },
+        {
+            "name": "\u00c7OX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:29:26.997Z",
+            "createdAt": "2022-09-03T19:29:26.997Z",
+            "frameRange": [
+                97,
+                116
+            ],
+            "key": "56d4f87256554531b4080e69e68a842d"
+        },
+        {
+            "name": "B\u0130LM\u0130R",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:29:55.463Z",
+            "createdAt": "2022-09-03T19:29:55.463Z",
+            "frameRange": [
+                146,
+                172
+            ],
+            "key": "2d4b6a4a10714c9da6cc2d22531111ac"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 217
+}

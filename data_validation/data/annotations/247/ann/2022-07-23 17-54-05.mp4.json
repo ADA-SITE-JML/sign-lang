@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "76094fea338445f8b4995ef8bfba1752",
+    "tags": [
+        {
+            "name": "BU",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T10:08:25.360Z",
+            "createdAt": "2022-08-31T10:08:25.360Z",
+            "frameRange": [
+                47,
+                67
+            ],
+            "key": "46403be1bc4945409ef14c6d583cc105"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T10:08:13.004Z",
+            "createdAt": "2022-08-31T10:08:13.004Z",
+            "frameRange": [
+                26,
+                41
+            ],
+            "key": "e35b62f08f0047799e2f4fecbcb8442a"
+        },
+        {
+            "name": "G\u00d6Y",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T10:08:48.169Z",
+            "createdAt": "2022-08-31T10:08:48.169Z",
+            "frameRange": [
+                69,
+                104
+            ],
+            "key": "ac19f077a0da474eb48eb767293033eb"
+        },
+        {
+            "name": "R\u018fNG",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T10:09:07.012Z",
+            "createdAt": "2022-08-31T10:09:07.012Z",
+            "frameRange": [
+                107,
+                138
+            ],
+            "key": "3ede0a11b01b4e019a72d63d4c60c159"
+        },
+        {
+            "name": "\u0130ST\u018fY\u0130R\u018fM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T10:09:24.257Z",
+            "createdAt": "2022-08-31T10:09:24.257Z",
+            "frameRange": [
+                141,
+                170
+            ],
+            "key": "9c939c76b3ce43798f95cb38c0dda31b"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 219
+}

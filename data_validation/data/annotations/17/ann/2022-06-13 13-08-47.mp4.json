@@ -1,0 +1,57 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "19985004ec424551baf6945c4697d937",
+    "tags": [
+        {
+            "name": "AVTOBUS",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-02T12:43:39.528Z",
+            "createdAt": "2022-09-02T12:43:39.528Z",
+            "frameRange": [
+                37,
+                55
+            ],
+            "key": "415a533015944bc5933c216dea68ca3e"
+        },
+        {
+            "name": "VAR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-02T12:44:00.311Z",
+            "createdAt": "2022-09-02T12:44:00.311Z",
+            "frameRange": [
+                58,
+                85
+            ],
+            "key": "1629cee66553477397bb8eb5b4802d2f"
+        },
+        {
+            "name": "BURDA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-02T12:43:12.194Z",
+            "createdAt": "2022-09-02T12:43:12.194Z",
+            "frameRange": [
+                3,
+                16
+            ],
+            "key": "854a6f114294470caddb5ac7fa67e4e5"
+        },
+        {
+            "name": "HARDA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-02T12:43:27.651Z",
+            "createdAt": "2022-09-02T12:43:27.651Z",
+            "frameRange": [
+                19,
+                29
+            ],
+            "key": "43bb892b5ada498a828d2dc330b3e266"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 125
+}

@@ -1,0 +1,79 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "0f39916fb26a43c1abe0349e21a694b1",
+    "tags": [
+        {
+            "name": "Y",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T10:17:09.592Z",
+            "createdAt": "2022-09-03T10:17:09.592Z",
+            "frameRange": [
+                43,
+                48
+            ],
+            "key": "bf935bcbf59b49109206898c1d4e6874"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T10:16:38.738Z",
+            "createdAt": "2022-09-03T10:16:38.738Z",
+            "frameRange": [
+                49,
+                55
+            ],
+            "key": "b713d9e109b94405a2f548136422eb7e"
+        },
+        {
+            "name": "Q",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T10:17:52.093Z",
+            "createdAt": "2022-09-03T10:17:52.093Z",
+            "frameRange": [
+                56,
+                68
+            ],
+            "key": "736ae71bccd8456ab5d4f98b5d03bc37"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T10:16:05.595Z",
+            "createdAt": "2022-09-03T10:16:05.595Z",
+            "frameRange": [
+                13,
+                28
+            ],
+            "key": "01dc3f33a6bc48ca89e8c5aa5bb7e635"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T10:16:29.814Z",
+            "createdAt": "2022-09-03T10:16:29.814Z",
+            "frameRange": [
+                35,
+                41
+            ],
+            "key": "8e45e11db4394606a9558c1ecf6b2f06"
+        },
+        {
+            "name": "A\u011eRIMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T10:18:32.119Z",
+            "createdAt": "2022-09-03T10:18:32.119Z",
+            "frameRange": [
+                73,
+                99
+            ],
+            "key": "74717d494fcd4b5da88c1f25aac505c9"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 125
+}

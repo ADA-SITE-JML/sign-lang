@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "906d205c6a014740b345b0e2ae8f38d6",
+    "tags": [
+        {
+            "name": "VERM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:34:12.258Z",
+            "createdAt": "2022-09-11T08:34:12.258Z",
+            "frameRange": [
+                103,
+                133
+            ],
+            "key": "dbb997c4e35d42519781a2bd7cca3c51"
+        },
+        {
+            "name": "N\u00d6MRE",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:33:57.618Z",
+            "createdAt": "2022-09-11T08:33:57.618Z",
+            "frameRange": [
+                75,
+                101
+            ],
+            "key": "639304e4823c42f695ed2509acbb7984"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:34:26.717Z",
+            "createdAt": "2022-09-11T08:34:26.717Z",
+            "frameRange": [
+                136,
+                167
+            ],
+            "key": "9e6b6c9346664b80bf7f0d9efabe015d"
+        },
+        {
+            "name": "TELEFON",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:33:41.471Z",
+            "createdAt": "2022-09-11T08:33:41.471Z",
+            "frameRange": [
+                52,
+                71
+            ],
+            "key": "3a2cc9b63bc14158805d0a08adde1e45"
+        },
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:33:30.059Z",
+            "createdAt": "2022-09-11T08:33:30.059Z",
+            "frameRange": [
+                17,
+                49
+            ],
+            "key": "e0779f7d5b0346bb9914f262978a8019"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 218
+}

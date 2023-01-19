@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "3b322a6438b34e298c8062dfb9e53246",
+    "tags": [
+        {
+            "name": "G\u00d6Y",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T09:59:01.102Z",
+            "createdAt": "2022-08-31T09:59:01.102Z",
+            "frameRange": [
+                62,
+                79
+            ],
+            "key": "e5ecff4767684c7eae498059c2ee9ad5"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T09:58:29.037Z",
+            "createdAt": "2022-08-31T09:58:29.037Z",
+            "frameRange": [
+                25,
+                41
+            ],
+            "key": "b9dfb2b3d52c4fa290ae9ee30af5e12f"
+        },
+        {
+            "name": "BU",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T09:58:42.282Z",
+            "createdAt": "2022-08-31T09:58:42.282Z",
+            "frameRange": [
+                46,
+                59
+            ],
+            "key": "c11729d8a0aa4eb7adc94874a2b04799"
+        },
+        {
+            "name": "R\u018fNG",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T09:59:18.708Z",
+            "createdAt": "2022-08-31T09:59:18.708Z",
+            "frameRange": [
+                85,
+                104
+            ],
+            "key": "fdbca1f167db46a38fae55488f603c9f"
+        },
+        {
+            "name": "\u0130ST\u018fY\u0130R\u018fM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T09:59:39.517Z",
+            "createdAt": "2022-08-31T09:59:39.517Z",
+            "frameRange": [
+                105,
+                128
+            ],
+            "key": "473fb8db3d564668b27e52117128e7e0"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 183
+}

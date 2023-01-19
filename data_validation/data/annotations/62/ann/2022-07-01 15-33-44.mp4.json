@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "0f2b067a2a194a5993a6f25a0087e028",
+    "tags": [
+        {
+            "name": "AL\u0130NM\u0130R",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:22:25.442Z",
+            "createdAt": "2022-09-03T19:22:25.442Z",
+            "frameRange": [
+                172,
+                201
+            ],
+            "key": "dcb6f270dbc74d7b9b96fb6ae90b3efd"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:21:18.612Z",
+            "createdAt": "2022-09-03T19:21:18.612Z",
+            "frameRange": [
+                43,
+                69
+            ],
+            "key": "d517f586d133492497d9bcfa9a740583"
+        },
+        {
+            "name": "\u00c7OX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:22:14.893Z",
+            "createdAt": "2022-09-03T19:22:14.893Z",
+            "frameRange": [
+                143,
+                168
+            ],
+            "key": "3f288576939d44ae8c25ba22ed83243f"
+        },
+        {
+            "name": "AYAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:21:31.434Z",
+            "createdAt": "2022-09-03T19:21:31.434Z",
+            "frameRange": [
+                75,
+                96
+            ],
+            "key": "5ebf80c50bce4257a9fd787c63e9e915"
+        },
+        {
+            "name": "DURMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:22:01.210Z",
+            "createdAt": "2022-09-03T19:22:01.210Z",
+            "frameRange": [
+                102,
+                138
+            ],
+            "key": "d33dc2a44b1d4fdab251afcf659732aa"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 256
+}

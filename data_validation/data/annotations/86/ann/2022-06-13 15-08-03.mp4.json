@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "663627d29fae4353aab4f51be21cebc0",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:28:54.269Z",
+            "createdAt": "2022-09-10T12:28:54.269Z",
+            "frameRange": [
+                17,
+                39
+            ],
+            "key": "dd32d7447c2b43888b2d41f8af38898c"
+        },
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:49:12.898Z",
+            "createdAt": "2022-09-10T12:49:12.898Z",
+            "frameRange": [
+                122,
+                150
+            ],
+            "key": "76dc8975512a4d4e8e46c5649b1d92e8"
+        },
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:37:54.983Z",
+            "createdAt": "2022-09-10T12:37:54.983Z",
+            "frameRange": [
+                47,
+                64
+            ],
+            "key": "058cbe0e258246a8aee0bb97e19d2c81"
+        },
+        {
+            "name": "IL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:38:42.701Z",
+            "createdAt": "2022-09-10T12:38:42.701Z",
+            "frameRange": [
+                98,
+                121
+            ],
+            "key": "8a18911c3c7c4bf0832f7a3e69b5bb0f"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T12:38:28.185Z",
+            "createdAt": "2022-09-10T12:38:28.185Z",
+            "frameRange": [
+                70,
+                95
+            ],
+            "key": "5a9cb024f2604a82a6d7ed293d281bb3"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 195
+}

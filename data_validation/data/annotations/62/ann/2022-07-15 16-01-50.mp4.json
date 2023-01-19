@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "7917f58dde4342e4a98765e322032398",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:04:10.495Z",
+            "createdAt": "2022-09-03T19:04:10.495Z",
+            "frameRange": [
+                49,
+                68
+            ],
+            "key": "9b8b0801c94341da8fe2820b12842588"
+        },
+        {
+            "name": "DURMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:05:01.091Z",
+            "createdAt": "2022-09-03T19:05:01.091Z",
+            "frameRange": [
+                107,
+                117
+            ],
+            "key": "8b370b45f5894f629b2c7c231be351c3"
+        },
+        {
+            "name": "AYAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:04:43.475Z",
+            "createdAt": "2022-09-03T19:04:43.475Z",
+            "frameRange": [
+                73,
+                100
+            ],
+            "key": "fc4dec04b2954b65b2e0ac125c7d47ce"
+        },
+        {
+            "name": "\u00c7OX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:05:13.053Z",
+            "createdAt": "2022-09-03T19:05:13.053Z",
+            "frameRange": [
+                122,
+                137
+            ],
+            "key": "7dc28ba8acd44bda91e870ca73e4d26a"
+        },
+        {
+            "name": "B\u0130LM\u0130R",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:05:26.432Z",
+            "createdAt": "2022-09-03T19:05:26.432Z",
+            "frameRange": [
+                140,
+                168
+            ],
+            "key": "7fd35679c686427c8f3f58dd20f5c3e2"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 209
+}

@@ -1,0 +1,79 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "e0710ae12a3d460b96e3125801a0c4ae",
+    "tags": [
+        {
+            "name": "C\u0130X\u0130B",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T13:00:08.986Z",
+            "createdAt": "2022-09-14T13:00:08.986Z",
+            "frameRange": [
+                72,
+                85
+            ],
+            "key": "84fe0369e6684f0a9edb4ee6bff3dfec"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T12:59:19.236Z",
+            "createdAt": "2022-09-14T12:59:19.236Z",
+            "frameRange": [
+                16,
+                24
+            ],
+            "key": "7e56f5ef311e438cb66a059b21380d03"
+        },
+        {
+            "name": "BURDA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T12:59:38.015Z",
+            "createdAt": "2022-09-14T12:59:38.015Z",
+            "frameRange": [
+                32,
+                45
+            ],
+            "key": "af66383b07b94c1894f2b003feb71964"
+        },
+        {
+            "name": "28",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T13:00:40.787Z",
+            "createdAt": "2022-09-14T13:00:40.787Z",
+            "frameRange": [
+                92,
+                107
+            ],
+            "key": "ac49ec0666d4476b8e2da1f2db8e2c88"
+        },
+        {
+            "name": "MAY",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T13:03:42.245Z",
+            "createdAt": "2022-09-14T13:03:42.245Z",
+            "frameRange": [
+                111,
+                128
+            ],
+            "key": "ee137545128f4912a0a739ae7d6ab3f4"
+        },
+        {
+            "name": "GED\u018f",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T13:04:08.987Z",
+            "createdAt": "2022-09-14T13:04:08.987Z",
+            "frameRange": [
+                133,
+                159
+            ],
+            "key": "44bcea90271f4a64af6d05936f1d3c54"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 218
+}

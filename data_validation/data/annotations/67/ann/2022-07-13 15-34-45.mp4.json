@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "0f466bf5b4e64e518fefa69b271e47ca",
+    "tags": [
+        {
+            "name": "COV\u0130D",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T11:06:30.599Z",
+            "createdAt": "2022-09-05T11:06:30.599Z",
+            "frameRange": [
+                25,
+                51
+            ],
+            "key": "7de073a80adb4bb0ba81abf4e73e3225"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T11:05:51.162Z",
+            "createdAt": "2022-09-05T11:05:51.162Z",
+            "frameRange": [
+                2,
+                19
+            ],
+            "key": "5c33831a74af4b06b0e2f023f2a9f67f"
+        },
+        {
+            "name": "OLMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T11:07:37.663Z",
+            "createdAt": "2022-09-05T11:07:37.663Z",
+            "frameRange": [
+                54,
+                73
+            ],
+            "key": "7c7c1477e0bb48c5b0b026b6f5f8c419"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 126
+}

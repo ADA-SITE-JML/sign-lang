@@ -1,0 +1,35 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "f66b7909119d47ce9eb0a4ffb4ec54d3",
+    "tags": [
+        {
+            "name": "AYAQYOLU",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T10:36:04.472Z",
+            "createdAt": "2022-09-15T10:36:04.472Z",
+            "frameRange": [
+                20,
+                42
+            ],
+            "key": "4c85164b43c94e3ebac73c01d9015700"
+        },
+        {
+            "name": "HARDA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T10:36:18.469Z",
+            "createdAt": "2022-09-15T10:36:18.469Z",
+            "frameRange": [
+                50,
+                75
+            ],
+            "key": "d71089a8edaf4d388331de3b78d351bc"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 114
+}

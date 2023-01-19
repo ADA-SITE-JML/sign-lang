@@ -1,0 +1,24 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "9b4f661c54df4d6da0dc52770307f9c6",
+    "tags": [
+        {
+            "name": "SALAM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T12:33:37.823Z",
+            "createdAt": "2022-09-12T12:33:37.823Z",
+            "frameRange": [
+                20,
+                56
+            ],
+            "key": "b4e820a2d2444f71bee14a838d09d699"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 100
+}

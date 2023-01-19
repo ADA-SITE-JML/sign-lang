@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "1dde1abd31be49f7a73c441bd800b4f8",
+    "tags": [
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T09:05:35.394Z",
+            "createdAt": "2022-09-11T09:05:35.394Z",
+            "frameRange": [
+                187,
+                222
+            ],
+            "key": "3ce7065c266444fbb52c6d3febdd8211"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T09:03:03.473Z",
+            "createdAt": "2022-09-11T09:03:03.473Z",
+            "frameRange": [
+                28,
+                45
+            ],
+            "key": "01ff7416fcd04d5390969f11cf79822e"
+        },
+        {
+            "name": "SUR\u018fT",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T09:04:27.309Z",
+            "createdAt": "2022-09-11T09:04:27.309Z",
+            "frameRange": [
+                90,
+                118
+            ],
+            "key": "c97024691d7d426e9542e9303f04a32b"
+        },
+        {
+            "name": "HARDA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T09:04:41.963Z",
+            "createdAt": "2022-09-11T09:04:41.963Z",
+            "frameRange": [
+                121,
+                152
+            ],
+            "key": "5b898d9396e243be893c307e6e023a50"
+        },
+        {
+            "name": "S\u018fN\u018fD",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T09:04:10.778Z",
+            "createdAt": "2022-09-11T09:04:10.778Z",
+            "frameRange": [
+                50,
+                88
+            ],
+            "key": "c998d80d965e4af3a0022b8faa5f333f"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 275
+}

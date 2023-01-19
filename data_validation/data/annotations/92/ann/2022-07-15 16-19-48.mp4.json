@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "3d51a89bdebf4124a502e70eb0b8c90a",
+    "tags": [
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:16:07.315Z",
+            "createdAt": "2022-09-11T08:16:07.315Z",
+            "frameRange": [
+                9,
+                30
+            ],
+            "key": "3e0a87b6b939475a93fe7de8126bae43"
+        },
+        {
+            "name": "N\u00d6MRE",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:20:20.952Z",
+            "createdAt": "2022-09-11T08:20:20.952Z",
+            "frameRange": [
+                50,
+                58
+            ],
+            "key": "5a596cd868a94c5a969c610c284712d0"
+        },
+        {
+            "name": "VERM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:20:34.789Z",
+            "createdAt": "2022-09-11T08:20:34.789Z",
+            "frameRange": [
+                63,
+                73
+            ],
+            "key": "2874408a748f4e21a81bebc1f1047e33"
+        },
+        {
+            "name": "TELEFON",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:20:05.348Z",
+            "createdAt": "2022-09-11T08:20:05.348Z",
+            "frameRange": [
+                35,
+                44
+            ],
+            "key": "9c2eda7877bf4b3282d67ab758a5f470"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:20:46.888Z",
+            "createdAt": "2022-09-11T08:20:46.888Z",
+            "frameRange": [
+                76,
+                100
+            ],
+            "key": "20c3c0621b7a426285394358f50185ac"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 142
+}

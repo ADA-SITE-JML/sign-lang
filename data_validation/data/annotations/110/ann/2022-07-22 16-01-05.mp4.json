@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "ae9c7cda28fa44dba4c6be3e59931296",
+    "tags": [
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:38:15.807Z",
+            "createdAt": "2022-09-14T09:38:15.807Z",
+            "frameRange": [
+                13,
+                28
+            ],
+            "key": "fc6dbacc759b476f996493d8acd41cf6"
+        },
+        {
+            "name": "FUTBOL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:38:27.088Z",
+            "createdAt": "2022-09-14T09:38:27.088Z",
+            "frameRange": [
+                31,
+                46
+            ],
+            "key": "d767e3fb32bd44d6a8efd5593ac1c50e"
+        },
+        {
+            "name": "OYNAMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:38:38.379Z",
+            "createdAt": "2022-09-14T09:38:38.379Z",
+            "frameRange": [
+                51,
+                82
+            ],
+            "key": "32064f7ef622446190dcbd92fe1fdc58"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 122
+}

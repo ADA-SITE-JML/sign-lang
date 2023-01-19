@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "4f97dd5de6e14e18a56420457cfa51b0",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T10:53:04.686Z",
+            "createdAt": "2022-09-09T10:53:04.686Z",
+            "frameRange": [
+                142,
+                162
+            ],
+            "key": "e229a2af210d46b9a19dbc136b8e886c"
+        },
+        {
+            "name": "SAYLI",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T10:52:14.508Z",
+            "createdAt": "2022-09-09T10:52:14.508Z",
+            "frameRange": [
+                92,
+                107
+            ],
+            "key": "4a7fa990573244548dfa513af886c48c"
+        },
+        {
+            "name": "EV",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T10:53:35.508Z",
+            "createdAt": "2022-09-09T10:53:35.508Z",
+            "frameRange": [
+                163,
+                218
+            ],
+            "key": "553d24ccff634f9f8aa8684b0b8b7b93"
+        },
+        {
+            "name": "AVTOBUS",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T10:52:42.692Z",
+            "createdAt": "2022-09-09T10:52:42.692Z",
+            "frameRange": [
+                114,
+                138
+            ],
+            "key": "3944de5663a54c14b19e54ca1148faf0"
+        },
+        {
+            "name": "65",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T10:51:50.629Z",
+            "createdAt": "2022-09-09T10:51:50.629Z",
+            "frameRange": [
+                47,
+                85
+            ],
+            "key": "71a165f396ff4b5a8ab0ff583854b58e"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 276
+}

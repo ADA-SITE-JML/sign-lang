@@ -1,0 +1,79 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "59f9b6fd8fb445d89b5b6e3d6e9135a7",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T09:23:43.291Z",
+            "createdAt": "2022-09-10T09:23:43.291Z",
+            "frameRange": [
+                7,
+                24
+            ],
+            "key": "27f8dd69f9914433813df8cf6b22ad7f"
+        },
+        {
+            "name": "OLMAMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T09:30:31.597Z",
+            "createdAt": "2022-09-10T09:30:31.597Z",
+            "frameRange": [
+                121,
+                155
+            ],
+            "key": "d17fb3279be14b578670b4e28642a19c"
+        },
+        {
+            "name": "ATA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T09:24:52.703Z",
+            "createdAt": "2022-09-10T09:24:52.703Z",
+            "frameRange": [
+                31,
+                54
+            ],
+            "key": "666289c692694adbad042656e3cc642e"
+        },
+        {
+            "name": "YA\u015e",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T09:30:16.048Z",
+            "createdAt": "2022-09-10T09:30:16.048Z",
+            "frameRange": [
+                105,
+                117
+            ],
+            "key": "8191f3c2d04c40a5adb6afc8400ec631"
+        },
+        {
+            "name": "H\u018fL\u018f",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T09:29:48.676Z",
+            "createdAt": "2022-09-10T09:29:48.676Z",
+            "frameRange": [
+                59,
+                76
+            ],
+            "key": "2f6329bc6fc345389f262b65a5f1af55"
+        },
+        {
+            "name": "65",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T09:29:59.507Z",
+            "createdAt": "2022-09-10T09:29:59.507Z",
+            "frameRange": [
+                82,
+                99
+            ],
+            "key": "608dfba1bf044d3a80beaaee652d1dec"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 196
+}

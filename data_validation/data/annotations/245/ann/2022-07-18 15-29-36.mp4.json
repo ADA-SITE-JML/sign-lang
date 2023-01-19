@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "b6af26ecdec54ffbbffd92f3093e44db",
+    "tags": [
+        {
+            "name": "\u00dc\u00c7\u00dcN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:12:09.002Z",
+            "createdAt": "2022-08-31T12:12:09.002Z",
+            "frameRange": [
+                48,
+                57
+            ],
+            "key": "e5f311dedf184083a4ecb8ca157f005f"
+        },
+        {
+            "name": "M\u018fTB\u018fX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:11:53.100Z",
+            "createdAt": "2022-08-31T12:11:53.100Z",
+            "frameRange": [
+                32,
+                43
+            ],
+            "key": "6de94a8406b44199b7576256a84a2819"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:11:36.060Z",
+            "createdAt": "2022-08-31T12:11:36.060Z",
+            "frameRange": [
+                12,
+                22
+            ],
+            "key": "922977d8d516474e9151907740b9e71d"
+        },
+        {
+            "name": "QAB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:12:26.333Z",
+            "createdAt": "2022-08-31T12:12:26.333Z",
+            "frameRange": [
+                62,
+                75
+            ],
+            "key": "97520569ae8a4a25b5ed174bc370eeac"
+        },
+        {
+            "name": "ALMALIYAM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:12:44.593Z",
+            "createdAt": "2022-08-31T12:12:44.593Z",
+            "frameRange": [
+                78,
+                108
+            ],
+            "key": "d52715ec31184810b8727a8ca79a9dbc"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 163
+}

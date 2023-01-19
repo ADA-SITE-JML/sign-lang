@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "c2fb4865f99647bfb211f671c9695af3",
+    "tags": [
+        {
+            "name": "TELEFON",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:41:07.436Z",
+            "createdAt": "2022-09-11T08:41:07.436Z",
+            "frameRange": [
+                50,
+                65
+            ],
+            "key": "f37188f1450d4739ac9f6d780a939ba7"
+        },
+        {
+            "name": "N\u00d6MRE",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:41:17.774Z",
+            "createdAt": "2022-09-11T08:41:17.774Z",
+            "frameRange": [
+                70,
+                77
+            ],
+            "key": "deb366a2e895403eab889289d1a4684c"
+        },
+        {
+            "name": "VERM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:41:29.676Z",
+            "createdAt": "2022-09-11T08:41:29.676Z",
+            "frameRange": [
+                80,
+                101
+            ],
+            "key": "da364c3bf672430fb6c6c739cc9abce0"
+        },
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:40:56.750Z",
+            "createdAt": "2022-09-11T08:40:56.750Z",
+            "frameRange": [
+                20,
+                47
+            ],
+            "key": "9f84dc8c99664ed6b4b7c0010052ffb2"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:41:42.862Z",
+            "createdAt": "2022-09-11T08:41:42.862Z",
+            "frameRange": [
+                104,
+                135
+            ],
+            "key": "140878d825b541048677aa42a3db9f7c"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 143
+}

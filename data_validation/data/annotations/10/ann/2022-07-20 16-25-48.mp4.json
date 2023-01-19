@@ -1,0 +1,57 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "700bff7c12fc404193624fbe53bd9267",
+    "tags": [
+        {
+            "name": "ORDA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-08T11:30:01.019Z",
+            "createdAt": "2022-09-08T11:30:01.019Z",
+            "frameRange": [
+                39,
+                54
+            ],
+            "key": "49896298a5a547f89224d50da2df7205"
+        },
+        {
+            "name": "D\u00dcN\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-08T11:30:35.505Z",
+            "createdAt": "2022-09-08T11:30:35.505Z",
+            "frameRange": [
+                58,
+                72
+            ],
+            "key": "275addcdce43412dab49fecdad0961c5"
+        },
+        {
+            "name": "OLURSUNUZ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T08:00:51.553Z",
+            "createdAt": "2022-09-13T08:00:51.553Z",
+            "frameRange": [
+                78,
+                92
+            ],
+            "key": "159ede73810a4b6e88a3ebe9eedb0e7c"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T08:00:09.838Z",
+            "createdAt": "2022-09-13T08:00:09.838Z",
+            "frameRange": [
+                24,
+                35
+            ],
+            "key": "29828c1f7d954c62a40103d7f6c5264b"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 131
+}

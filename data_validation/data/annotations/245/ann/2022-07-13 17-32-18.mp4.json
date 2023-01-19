@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "3a740bd87cab45e68589eeefbd1ae4db",
+    "tags": [
+        {
+            "name": "M\u018fTB\u018fX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:08:29.481Z",
+            "createdAt": "2022-08-31T12:08:29.481Z",
+            "frameRange": [
+                56,
+                76
+            ],
+            "key": "a5881c0f587c45cfa8b0f9cf03952d95"
+        },
+        {
+            "name": "\u00dc\u00c7\u00dcN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:08:44.741Z",
+            "createdAt": "2022-08-31T12:08:44.741Z",
+            "frameRange": [
+                80,
+                91
+            ],
+            "key": "0545a6c122b54f64acc2c3e116551330"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:08:15.217Z",
+            "createdAt": "2022-08-31T12:08:15.217Z",
+            "frameRange": [
+                36,
+                53
+            ],
+            "key": "a57da07fcaf14fbb8b5aa77b3e2460a9"
+        },
+        {
+            "name": "ALMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:09:19.968Z",
+            "createdAt": "2022-08-31T12:09:19.968Z",
+            "frameRange": [
+                121,
+                144
+            ],
+            "key": "adfc9060df3948109e73669c2a4face2"
+        },
+        {
+            "name": "QAB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T12:09:03.325Z",
+            "createdAt": "2022-08-31T12:09:03.325Z",
+            "frameRange": [
+                98,
+                115
+            ],
+            "key": "b2bcb8ca5a3c4e8db0a65fd2083bfc9e"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 185
+}

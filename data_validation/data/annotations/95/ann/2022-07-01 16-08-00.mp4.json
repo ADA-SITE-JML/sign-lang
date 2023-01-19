@@ -1,0 +1,35 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "3f6a88eb268442b5a49b930c81d9ce0c",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T12:49:02.620Z",
+            "createdAt": "2022-09-11T12:49:02.620Z",
+            "frameRange": [
+                14,
+                28
+            ],
+            "key": "a01bc73e53db4831a3246123c18e96a3"
+        },
+        {
+            "name": "\u0130ST\u0130",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T12:49:15.624Z",
+            "createdAt": "2022-09-11T12:49:15.624Z",
+            "frameRange": [
+                32,
+                74
+            ],
+            "key": "856b370bbde14c6b99a18ec66252418d"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 112
+}

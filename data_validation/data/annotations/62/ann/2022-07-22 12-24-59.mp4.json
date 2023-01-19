@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "3bd34031c1294887b73df6cbffb1a5c2",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:10:47.991Z",
+            "createdAt": "2022-09-03T19:10:47.991Z",
+            "frameRange": [
+                27,
+                37
+            ],
+            "key": "e7857e83c36e4f9c81d47d7ad6eecde7"
+        },
+        {
+            "name": "\u00c7OX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:11:19.454Z",
+            "createdAt": "2022-09-03T19:11:19.454Z",
+            "frameRange": [
+                84,
+                93
+            ],
+            "key": "71532e16dc1a4d2c89f204d4bd0040b9"
+        },
+        {
+            "name": "AYAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:11:02.624Z",
+            "createdAt": "2022-09-03T19:11:02.624Z",
+            "frameRange": [
+                42,
+                78
+            ],
+            "key": "273c32ace20a4e5287249b783e3acaff"
+        },
+        {
+            "name": "DURMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:11:33.344Z",
+            "createdAt": "2022-09-03T19:11:33.344Z",
+            "frameRange": [
+                97,
+                123
+            ],
+            "key": "cb2a262ed9514e8eae4523e959166256"
+        },
+        {
+            "name": "B\u0130LM\u0130R",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T19:11:45.844Z",
+            "createdAt": "2022-09-03T19:11:45.844Z",
+            "frameRange": [
+                129,
+                154
+            ],
+            "key": "8e66ce199ddf44018f63f249dfc110f4"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 232
+}

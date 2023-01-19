@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "224726667d524a798f797eb8b4767086",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:19:25.622Z",
+            "createdAt": "2022-09-14T21:19:25.622Z",
+            "frameRange": [
+                10,
+                19
+            ],
+            "key": "23ef93f7bcd04989b1dc11e296155e4f"
+        },
+        {
+            "name": "P\u0130YADA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:20:08.552Z",
+            "createdAt": "2022-09-14T21:20:08.552Z",
+            "frameRange": [
+                23,
+                39
+            ],
+            "key": "f8333995e5fb488f9bffcab3a05fba60"
+        },
+        {
+            "name": "G\u018fZM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:21:13.381Z",
+            "createdAt": "2022-09-14T21:21:13.381Z",
+            "frameRange": [
+                41,
+                56
+            ],
+            "key": "90fb715695d142bdbb9f962efafdae46"
+        },
+        {
+            "name": "\u00c7OX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:21:34.115Z",
+            "createdAt": "2022-09-14T21:21:34.115Z",
+            "frameRange": [
+                58,
+                68
+            ],
+            "key": "8f470a35eaa44ae8b2fe5fce00a307f0"
+        },
+        {
+            "name": "SEV\u0130R\u018fM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:21:55.354Z",
+            "createdAt": "2022-09-14T21:21:55.354Z",
+            "frameRange": [
+                73,
+                96
+            ],
+            "key": "caf391d6d4b348b4b39ec3fe9a2e413b"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 133
+}

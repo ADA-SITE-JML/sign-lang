@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "8b9cbc7909ea4070b618e25277543661",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:02:41.047Z",
+            "createdAt": "2022-09-14T21:02:41.047Z",
+            "frameRange": [
+                13,
+                25
+            ],
+            "key": "cf69c61641b548ee9e5688afccb7a8e2"
+        },
+        {
+            "name": "P\u0130YADA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:02:55.053Z",
+            "createdAt": "2022-09-14T21:02:55.053Z",
+            "frameRange": [
+                29,
+                53
+            ],
+            "key": "f607827383d741c681ad721b36978121"
+        },
+        {
+            "name": "G\u018fZM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:03:10.109Z",
+            "createdAt": "2022-09-14T21:03:10.109Z",
+            "frameRange": [
+                56,
+                73
+            ],
+            "key": "20e56f7bfc34486ca43b254095a35b47"
+        },
+        {
+            "name": "COX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:03:56.778Z",
+            "createdAt": "2022-09-14T21:03:56.778Z",
+            "frameRange": [
+                76,
+                88
+            ],
+            "key": "d48b51ec81fe4be3a362d721d279f0ec"
+        },
+        {
+            "name": "SEV\u0130R\u018fM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:04:15.040Z",
+            "createdAt": "2022-09-14T21:04:15.040Z",
+            "frameRange": [
+                91,
+                112
+            ],
+            "key": "e3df195b1dc04d9f953317051134e3ae"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 160
+}

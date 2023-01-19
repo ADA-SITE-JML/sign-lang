@@ -1,0 +1,101 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "d700f7c9443c4e3da9508449a39d206c",
+    "tags": [
+        {
+            "name": "A",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T08:44:32.851Z",
+            "createdAt": "2022-08-31T08:44:32.851Z",
+            "frameRange": [
+                88,
+                92
+            ],
+            "key": "7aec853f67c244deb6f124d18bf796c7"
+        },
+        {
+            "name": "E",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T08:45:21.640Z",
+            "createdAt": "2022-08-31T08:45:21.640Z",
+            "frameRange": [
+                107,
+                111
+            ],
+            "key": "92560c329a0e4ea799a50451e48cd1e2"
+        },
+        {
+            "name": "AY",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T08:45:55.531Z",
+            "createdAt": "2022-08-31T08:45:55.531Z",
+            "frameRange": [
+                127,
+                152
+            ],
+            "key": "ce749a96e85d4914855405e8ca511a2b"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T08:43:51.011Z",
+            "createdAt": "2022-08-31T08:43:51.011Z",
+            "frameRange": [
+                14,
+                33
+            ],
+            "key": "da417ae163e4440e942d7bd7b2f8a5ba"
+        },
+        {
+            "name": "P",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T08:44:45.798Z",
+            "createdAt": "2022-08-31T08:44:45.798Z",
+            "frameRange": [
+                95,
+                100
+            ],
+            "key": "678339cecb0f4409b86c7ac974371b0d"
+        },
+        {
+            "name": "AD G\u00dcN\u00dc",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T08:44:09.729Z",
+            "createdAt": "2022-08-31T08:44:09.729Z",
+            "frameRange": [
+                42,
+                80
+            ],
+            "key": "f792aa83dfbd4710a0f696402510711e"
+        },
+        {
+            "name": "R",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T08:45:03.118Z",
+            "createdAt": "2022-08-31T08:45:03.118Z",
+            "frameRange": [
+                103,
+                106
+            ],
+            "key": "ef3bb66caa7f47b08d8883f72e329d57"
+        },
+        {
+            "name": "L",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T08:45:40.553Z",
+            "createdAt": "2022-08-31T08:45:40.553Z",
+            "frameRange": [
+                113,
+                121
+            ],
+            "key": "28c2ba57b699436eabdddec6603f81ee"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 200
+}

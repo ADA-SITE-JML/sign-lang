@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "239a29f7cb1040fb8fe0cad8e8cc30e6",
+    "tags": [
+        {
+            "name": "AYAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T18:55:29.717Z",
+            "createdAt": "2022-09-03T18:55:29.717Z",
+            "frameRange": [
+                26,
+                52
+            ],
+            "key": "09203b5048ff4779b4716851b42d01ea"
+        },
+        {
+            "name": "\u00c7OX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T18:55:46.539Z",
+            "createdAt": "2022-09-03T18:55:46.539Z",
+            "frameRange": [
+                56,
+                78
+            ],
+            "key": "86390a63e99a4e2e8716290eb6f2faec"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T18:55:14.949Z",
+            "createdAt": "2022-09-03T18:55:14.949Z",
+            "frameRange": [
+                8,
+                21
+            ],
+            "key": "eaf2d1b60b864a78bb4dfa96324eb26c"
+        },
+        {
+            "name": "DURMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T18:55:58.724Z",
+            "createdAt": "2022-09-03T18:55:58.724Z",
+            "frameRange": [
+                84,
+                104
+            ],
+            "key": "a8e2ad5117504ce294e2755e7dda623a"
+        },
+        {
+            "name": "B\u0130LM\u0130R",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-03T18:56:19.626Z",
+            "createdAt": "2022-09-03T18:56:19.626Z",
+            "frameRange": [
+                110,
+                161
+            ],
+            "key": "cfc6afbbd2164cf393f2bfe4f2da9b8f"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 179
+}

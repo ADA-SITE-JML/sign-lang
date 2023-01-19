@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "fd78ebf570974f2dafcdd42405e39fec",
+    "tags": [
+        {
+            "name": "C\u0130X\u0130B",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T13:24:18.864Z",
+            "createdAt": "2022-09-14T13:24:18.864Z",
+            "frameRange": [
+                78,
+                89
+            ],
+            "key": "f3aaff5d14e642028dbbc67e87f7c22f"
+        },
+        {
+            "name": "28",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T13:24:42.700Z",
+            "createdAt": "2022-09-14T13:24:42.700Z",
+            "frameRange": [
+                102,
+                114
+            ],
+            "key": "ff348e2bcc6f4b46ae60af6daece34f7"
+        },
+        {
+            "name": "BURDA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T13:23:59.877Z",
+            "createdAt": "2022-09-14T13:23:59.877Z",
+            "frameRange": [
+                56,
+                73
+            ],
+            "key": "44d1fa07b13b419c85c4c5102e08d06f"
+        },
+        {
+            "name": "GED\u018f",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T13:25:30.547Z",
+            "createdAt": "2022-09-14T13:25:30.547Z",
+            "frameRange": [
+                135,
+                158
+            ],
+            "key": "d38309c05de24db68253e582a3a77013"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T13:23:30.837Z",
+            "createdAt": "2022-09-14T13:23:30.837Z",
+            "frameRange": [
+                23,
+                40
+            ],
+            "key": "b369f58cf42f4244a76670f27e9cfcc7"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 244
+}

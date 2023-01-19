@@ -1,0 +1,79 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "1811d66d613b4ad49b89fefe35d2dd2f",
+    "tags": [
+        {
+            "name": "\u0130NSAN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T19:15:12.138Z",
+            "createdAt": "2022-08-31T19:15:12.138Z",
+            "frameRange": [
+                80,
+                95
+            ],
+            "key": "c6fdb79e50104bcf8f42177d6c587eac"
+        },
+        {
+            "name": "ORDA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T19:14:24.199Z",
+            "createdAt": "2022-08-31T19:14:24.199Z",
+            "frameRange": [
+                50,
+                60
+            ],
+            "key": "d4a42171ec864b80af21b749f6798f68"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T19:13:48.824Z",
+            "createdAt": "2022-08-31T19:13:48.824Z",
+            "frameRange": [
+                29,
+                43
+            ],
+            "key": "60a1fa724d8641f7b93960d18f9a8c89"
+        },
+        {
+            "name": "YEN\u0130",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T19:14:39.674Z",
+            "createdAt": "2022-08-31T19:14:39.674Z",
+            "frameRange": [
+                66,
+                78
+            ],
+            "key": "8185dc61fe7d4b9796facdc82afc0fe9"
+        },
+        {
+            "name": "OLMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T19:15:41.017Z",
+            "createdAt": "2022-08-31T19:15:41.017Z",
+            "frameRange": [
+                116,
+                137
+            ],
+            "key": "4b157e3d8cba4c66a1d9887c09b4d407"
+        },
+        {
+            "name": "TANI\u015e",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T19:15:28.279Z",
+            "createdAt": "2022-08-31T19:15:28.279Z",
+            "frameRange": [
+                99,
+                114
+            ],
+            "key": "314eb75e497947398e4103a70c2e119a"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 225
+}

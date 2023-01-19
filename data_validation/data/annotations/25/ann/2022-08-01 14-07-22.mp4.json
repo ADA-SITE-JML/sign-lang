@@ -1,0 +1,57 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "4807098f81dc4d5aa731b6218d5f6643",
+    "tags": [
+        {
+            "name": "\u0130CH\u018fR\u0130",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T11:10:44.423Z",
+            "createdAt": "2022-09-13T11:10:44.423Z",
+            "frameRange": [
+                55,
+                77
+            ],
+            "key": "ec39a9db1fce4e118c5a6274df3ce320"
+        },
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T11:10:02.568Z",
+            "createdAt": "2022-09-13T11:10:02.568Z",
+            "frameRange": [
+                19,
+                48
+            ],
+            "key": "a6441fdb6a9e443fbd6ae6ab02ffb676"
+        },
+        {
+            "name": "S\u018fH\u018fR",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T11:11:03.038Z",
+            "createdAt": "2022-09-13T11:11:03.038Z",
+            "frameRange": [
+                83,
+                102
+            ],
+            "key": "e54edc4d2e4c4bcf8cd687dbea259608"
+        },
+        {
+            "name": "OLMUSUZ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-13T11:11:30.742Z",
+            "createdAt": "2022-09-13T11:11:30.742Z",
+            "frameRange": [
+                105,
+                138
+            ],
+            "key": "01359df905a245398c971e064ddfb34e"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 173
+}

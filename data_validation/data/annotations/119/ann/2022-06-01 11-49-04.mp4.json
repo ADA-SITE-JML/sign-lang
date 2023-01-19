@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "c3f54e1ce96c40df959bac13121131b1",
+    "tags": [
+        {
+            "name": "\u00c7OX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T20:56:46.864Z",
+            "createdAt": "2022-09-14T20:56:46.864Z",
+            "frameRange": [
+                101,
+                123
+            ],
+            "key": "11191be517eb44108af89d487a90d857"
+        },
+        {
+            "name": "P\u0130YADA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T20:56:11.228Z",
+            "createdAt": "2022-09-14T20:56:11.228Z",
+            "frameRange": [
+                41,
+                66
+            ],
+            "key": "2f87e8299be946a89d3920faeb1c2124"
+        },
+        {
+            "name": "G\u018fZM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T20:56:30.387Z",
+            "createdAt": "2022-09-14T20:56:30.387Z",
+            "frameRange": [
+                68,
+                98
+            ],
+            "key": "60365496f5ca40eda816ba291c237387"
+        },
+        {
+            "name": "SEV\u0130R\u018fM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T20:57:07.943Z",
+            "createdAt": "2022-09-14T20:57:07.943Z",
+            "frameRange": [
+                127,
+                154
+            ],
+            "key": "fd3f659e39d9464a9b7dfb6b1a909daf"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T20:55:57.434Z",
+            "createdAt": "2022-09-14T20:55:57.434Z",
+            "frameRange": [
+                15,
+                36
+            ],
+            "key": "9475e87c0ce145dcb373e190865c2df2"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 186
+}

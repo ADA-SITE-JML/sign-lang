@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "afd4868a14da416397a533963ed4af8c",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T08:55:07.312Z",
+            "createdAt": "2022-09-13T08:55:07.312Z",
+            "frameRange": [
+                20,
+                31
+            ],
+            "key": "de951e61c552457cbe028f1f038bdcc4"
+        },
+        {
+            "name": "N\u018fR\u0130MANOV",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T08:55:21.646Z",
+            "createdAt": "2022-09-13T08:55:21.646Z",
+            "frameRange": [
+                38,
+                51
+            ],
+            "key": "31eb7a8627ba4746b052da157c001ea7"
+        },
+        {
+            "name": "METRO",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T08:55:41.652Z",
+            "createdAt": "2022-09-13T08:55:41.652Z",
+            "frameRange": [
+                56,
+                76
+            ],
+            "key": "ef196fc8df9141b793f66b7fbe99acae"
+        },
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T08:56:54.130Z",
+            "createdAt": "2022-09-13T08:56:54.130Z",
+            "frameRange": [
+                101,
+                138
+            ],
+            "key": "7cdba724def247cd9cf6f9f57f31c3b4"
+        },
+        {
+            "name": "YANINDA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T08:55:56.059Z",
+            "createdAt": "2022-09-13T08:55:56.059Z",
+            "frameRange": [
+                81,
+                96
+            ],
+            "key": "40fe8bef3b394f018e060bc13e386640"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 177
+}

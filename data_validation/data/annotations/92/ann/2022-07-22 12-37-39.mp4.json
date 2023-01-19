@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "b5d3d2d404b842a98f7a2f6cf96e7484",
+    "tags": [
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:56:14.943Z",
+            "createdAt": "2022-09-11T08:56:14.943Z",
+            "frameRange": [
+                27,
+                49
+            ],
+            "key": "8beae2b27bae4f6cb1094b01224227d2"
+        },
+        {
+            "name": "VERM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:57:15.223Z",
+            "createdAt": "2022-09-11T08:57:15.223Z",
+            "frameRange": [
+                93,
+                107
+            ],
+            "key": "c0f0baf7d6cf43bcb06798af65fad8c1"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:57:31.542Z",
+            "createdAt": "2022-09-11T08:57:31.542Z",
+            "frameRange": [
+                110,
+                131
+            ],
+            "key": "64b0c40045bb40408e635dde6b48bad8"
+        },
+        {
+            "name": "TELEFON",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:56:43.781Z",
+            "createdAt": "2022-09-11T08:56:43.781Z",
+            "frameRange": [
+                53,
+                74
+            ],
+            "key": "bd6a3bb3654345aa9fd184abed63bb2e"
+        },
+        {
+            "name": "N\u00d6MRE",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:57:02.513Z",
+            "createdAt": "2022-09-11T08:57:02.513Z",
+            "frameRange": [
+                75,
+                87
+            ],
+            "key": "0382bf048bdc4737b9d46478548ca32a"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 182
+}

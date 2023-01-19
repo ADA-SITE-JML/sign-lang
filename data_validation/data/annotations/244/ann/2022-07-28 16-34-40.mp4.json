@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "bc12aabc5e6b4285b8e37784444834b0",
+    "tags": [
+        {
+            "name": "SURDOT\u018fRC\u00dcM\u018f",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T13:47:26.321Z",
+            "createdAt": "2022-08-31T13:47:26.321Z",
+            "frameRange": [
+                90,
+                116
+            ],
+            "key": "1c14fcee05f84077b9a03d73dc8883b3"
+        },
+        {
+            "name": "\u0130ST\u018fY\u0130R\u018fM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T13:47:43.373Z",
+            "createdAt": "2022-08-31T13:47:43.373Z",
+            "frameRange": [
+                117,
+                138
+            ],
+            "key": "e147e063f7b444778ada71ae7a51a4ce"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T13:46:35.922Z",
+            "createdAt": "2022-08-31T13:46:35.922Z",
+            "frameRange": [
+                17,
+                34
+            ],
+            "key": "811a10cd7ec9488498416e106e1fe3aa"
+        },
+        {
+            "name": "BU",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T13:46:50.672Z",
+            "createdAt": "2022-08-31T13:46:50.672Z",
+            "frameRange": [
+                43,
+                58
+            ],
+            "key": "f5bb51ba9a524223bbced7a5d21f0c61"
+        },
+        {
+            "name": "\u018fS\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-08-31T13:47:06.635Z",
+            "createdAt": "2022-08-31T13:47:06.635Z",
+            "frameRange": [
+                62,
+                84
+            ],
+            "key": "16ad05104c174e4787628571721ca2e6"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 181
+}

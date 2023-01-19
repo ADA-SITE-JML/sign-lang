@@ -1,0 +1,24 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "e397b655fcbc48cca242164c2eb940ce",
+    "tags": [
+        {
+            "name": "T\u018f\u015e\u018fKK\u00dcR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T11:54:19.205Z",
+            "createdAt": "2022-09-12T11:54:19.205Z",
+            "frameRange": [
+                12,
+                60
+            ],
+            "key": "303e536f5b66436f9c75c39755545f80"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 110
+}

@@ -1,0 +1,57 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "92081fca09e44a3280eda3cece5295ab",
+    "tags": [
+        {
+            "name": "DAMMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-06T11:22:08.112Z",
+            "createdAt": "2022-09-06T11:22:08.112Z",
+            "frameRange": [
+                80,
+                116
+            ],
+            "key": "befe21d0ee14425da8113acdcaeb2083"
+        },
+        {
+            "name": "QON\u015eU",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-06T11:21:23.489Z",
+            "createdAt": "2022-09-06T11:21:23.489Z",
+            "frameRange": [
+                33,
+                54
+            ],
+            "key": "a4335bc9f6784b4093e21c8f87ea1557"
+        },
+        {
+            "name": "SU",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-06T11:21:36.567Z",
+            "createdAt": "2022-09-06T11:21:36.567Z",
+            "frameRange": [
+                58,
+                77
+            ],
+            "key": "7b5967f2e9be43d8a9a975fdfe98448f"
+        },
+        {
+            "name": "B\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-06T11:21:02.694Z",
+            "createdAt": "2022-09-06T11:21:02.694Z",
+            "frameRange": [
+                14,
+                28
+            ],
+            "key": "1d126ee6681c4e3da048ce6786758643"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 163
+}

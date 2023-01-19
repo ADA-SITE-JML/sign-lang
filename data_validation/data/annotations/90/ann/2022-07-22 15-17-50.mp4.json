@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "399edcaf7df04883aa03d1f90fd43db3",
+    "tags": [
+        {
+            "name": "YOX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T06:53:17.679Z",
+            "createdAt": "2022-09-11T06:53:17.679Z",
+            "frameRange": [
+                42,
+                67
+            ],
+            "key": "5456a0faf93c4d4887aa6c2a0dfabf76"
+        },
+        {
+            "name": "TELEFON",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T06:53:07.301Z",
+            "createdAt": "2022-09-11T06:53:07.301Z",
+            "frameRange": [
+                31,
+                39
+            ],
+            "key": "394adddc800249e8abb69d4eaa9cc6b6"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T06:52:56.524Z",
+            "createdAt": "2022-09-11T06:52:56.524Z",
+            "frameRange": [
+                15,
+                24
+            ],
+            "key": "49e592fe65f94b4993d67e790c42c585"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 112
+}

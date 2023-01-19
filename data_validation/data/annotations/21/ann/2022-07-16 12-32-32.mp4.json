@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "04d44005ec1c4116bac991672a1ebda8",
+    "tags": [
+        {
+            "name": "VAXT",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T07:28:09.964Z",
+            "createdAt": "2022-09-09T07:28:09.964Z",
+            "frameRange": [
+                32,
+                43
+            ],
+            "key": "b6f27e777c4441d991f0dde3f2fd45a1"
+        },
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T07:27:55.502Z",
+            "createdAt": "2022-09-09T07:27:55.502Z",
+            "frameRange": [
+                11,
+                30
+            ],
+            "key": "b3324a11233c49dcb298c0a2a38125c6"
+        },
+        {
+            "name": "VAR",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T07:28:27.603Z",
+            "createdAt": "2022-09-09T07:28:27.603Z",
+            "frameRange": [
+                45,
+                74
+            ],
+            "key": "5e173d23a28c4531bd4162a036eca307"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 110
+}

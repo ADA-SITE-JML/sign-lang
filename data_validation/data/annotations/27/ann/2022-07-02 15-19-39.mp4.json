@@ -1,0 +1,145 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "c56c7ccde2e24d219f81ec500218b99f",
+    "tags": [
+        {
+            "name": "M\u018fRK\u018fZ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:35:27.357Z",
+            "createdAt": "2022-09-15T08:35:27.357Z",
+            "frameRange": [
+                53,
+                69
+            ],
+            "key": "981a08ec902d475fbc8e8cfca3f219d0"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:46:56.706Z",
+            "createdAt": "2022-09-15T08:46:56.706Z",
+            "frameRange": [
+                127,
+                133
+            ],
+            "key": "a9a5a72497664578accd5f78b9142bb4"
+        },
+        {
+            "name": "INDI",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:49:56.844Z",
+            "createdAt": "2022-09-15T08:49:56.844Z",
+            "frameRange": [
+                141,
+                152
+            ],
+            "key": "b5b456ef1d624f3597100083a6cbd20e"
+        },
+        {
+            "name": "M\u0130KRO",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:50:33.422Z",
+            "createdAt": "2022-09-15T08:50:33.422Z",
+            "frameRange": [
+                166,
+                177
+            ],
+            "key": "352f45c7db7f476b9c9bd679ff2a94bf"
+        },
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:52:10.137Z",
+            "createdAt": "2022-09-15T08:52:10.137Z",
+            "frameRange": [
+                181,
+                203
+            ],
+            "key": "7560ac26d6b54e559ab0160b93b9bb21"
+        },
+        {
+            "name": "M",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:46:26.231Z",
+            "createdAt": "2022-09-15T08:46:26.231Z",
+            "frameRange": [
+                120,
+                122
+            ],
+            "key": "353a80932e784025b3e277e14943453b"
+        },
+        {
+            "name": "M",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:46:38.486Z",
+            "createdAt": "2022-09-15T08:46:38.486Z",
+            "frameRange": [
+                123,
+                125
+            ],
+            "key": "472794682ff9407f98d0eb7cd50fe9de"
+        },
+        {
+            "name": "3",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:50:11.833Z",
+            "createdAt": "2022-09-15T08:50:11.833Z",
+            "frameRange": [
+                161,
+                161
+            ],
+            "key": "23f20bce3a3b4dab845926927abf0d52"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:34:24.387Z",
+            "createdAt": "2022-09-15T08:34:24.387Z",
+            "frameRange": [
+                17,
+                29
+            ],
+            "key": "6f0c1b728aee4e65a30f802610a0553f"
+        },
+        {
+            "name": "\u018fVV\u018fL",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:34:43.834Z",
+            "createdAt": "2022-09-15T08:34:43.834Z",
+            "frameRange": [
+                37,
+                48
+            ],
+            "key": "05c80f1eca8b4319a228e7f5c1ffacd9"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:36:44.927Z",
+            "createdAt": "2022-09-15T08:36:44.927Z",
+            "frameRange": [
+                112,
+                115
+            ],
+            "key": "65358bec8b8c4b51994395e330899423"
+        },
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-15T08:36:10.209Z",
+            "createdAt": "2022-09-15T08:36:10.209Z",
+            "frameRange": [
+                77,
+                85
+            ],
+            "key": "8e2ce394b6464cb3821be8ea67db984a"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 254
+}

@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "310645c22151463dbb5bd7c2f49ec855",
+    "tags": [
+        {
+            "name": "N\u018fR\u0130MANOV",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T16:43:30.001Z",
+            "createdAt": "2022-09-12T16:43:30.001Z",
+            "frameRange": [
+                43,
+                65
+            ],
+            "key": "1b03dd5a419844798d1d27780f75f912"
+        },
+        {
+            "name": "METRO",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T16:43:41.291Z",
+            "createdAt": "2022-09-12T16:43:41.291Z",
+            "frameRange": [
+                68,
+                86
+            ],
+            "key": "2f09a1e8f5214b7eaa9f93c833b37990"
+        },
+        {
+            "name": "YA\u015eAMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T16:44:09.753Z",
+            "createdAt": "2022-09-12T16:44:09.753Z",
+            "frameRange": [
+                111,
+                145
+            ],
+            "key": "e13fcbaf6b8944218639cf4fbd680c9f"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T16:43:15.790Z",
+            "createdAt": "2022-09-12T16:43:15.790Z",
+            "frameRange": [
+                15,
+                34
+            ],
+            "key": "f57812b76a474ae7a461eec0e2469871"
+        },
+        {
+            "name": "YANINDA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-12T16:43:51.974Z",
+            "createdAt": "2022-09-12T16:43:51.974Z",
+            "frameRange": [
+                92,
+                107
+            ],
+            "key": "97d609e1317f43beba74fc81f32cffda"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 206
+}

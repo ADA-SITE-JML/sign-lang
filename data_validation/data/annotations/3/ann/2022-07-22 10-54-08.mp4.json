@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "06e5946175624379bbc6b7bfb0615178",
+    "tags": [
+        {
+            "name": "AZ\u018fRBAYCAN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-07T06:52:07.548Z",
+            "createdAt": "2022-09-07T06:52:07.548Z",
+            "frameRange": [
+                46,
+                65
+            ],
+            "key": "b03b5ebe359840229573da2681f6f5dc"
+        },
+        {
+            "name": "PAYTAXT",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T08:36:42.324Z",
+            "createdAt": "2022-09-12T08:36:42.324Z",
+            "frameRange": [
+                68,
+                103
+            ],
+            "key": "0952dbe409da4aa6b0b9a29c8e133a7a"
+        },
+        {
+            "name": "BAKI",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T08:36:17.757Z",
+            "createdAt": "2022-09-12T08:36:17.757Z",
+            "frameRange": [
+                21,
+                43
+            ],
+            "key": "4ace75313aea47fe9b5b20be70fdc96b"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 127
+}

@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "798683e958d44be79ddd52433492d9b3",
+    "tags": [
+        {
+            "name": "N\u018fF\u018fR",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T10:25:51.214Z",
+            "createdAt": "2022-09-14T10:25:51.214Z",
+            "frameRange": [
+                68,
+                80
+            ],
+            "key": "341a7036155f4497949ddda7cbbc2d8b"
+        },
+        {
+            "name": "G\u00d6Z\u018fL",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T10:26:24.253Z",
+            "createdAt": "2022-09-14T10:26:24.253Z",
+            "frameRange": [
+                84,
+                110
+            ],
+            "key": "d6d9f7f445484302aea248b7fa19d6af"
+        },
+        {
+            "name": "2",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T10:25:30.319Z",
+            "createdAt": "2022-09-14T10:25:30.319Z",
+            "frameRange": [
+                58,
+                63
+            ],
+            "key": "4a25b7ce77d64787839bf30343d1f0c9"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T10:17:41.249Z",
+            "createdAt": "2022-09-14T10:17:41.249Z",
+            "frameRange": [
+                11,
+                28
+            ],
+            "key": "babfab3f7c8544728f1d14682ed9e196"
+        },
+        {
+            "name": "ASHAG",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-14T10:18:34.251Z",
+            "createdAt": "2022-09-14T10:18:34.251Z",
+            "frameRange": [
+                35,
+                54
+            ],
+            "key": "5d9bb43f7122490ab7e63da989722efb"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 142
+}

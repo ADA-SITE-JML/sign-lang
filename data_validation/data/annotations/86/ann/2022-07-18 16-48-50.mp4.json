@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "aa1901d02b0545509561b4215a7f9a4c",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:20:39.514Z",
+            "createdAt": "2022-09-10T13:20:39.514Z",
+            "frameRange": [
+                11,
+                28
+            ],
+            "key": "899300bfe16340e89e7689527f44c294"
+        },
+        {
+            "name": "M\u018fKT\u018fB",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:21:03.265Z",
+            "createdAt": "2022-09-10T13:21:03.265Z",
+            "frameRange": [
+                37,
+                55
+            ],
+            "key": "5791daf4ce564eba825aa2f30cbf4ac6"
+        },
+        {
+            "name": "IL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:21:31.012Z",
+            "createdAt": "2022-09-10T13:21:31.012Z",
+            "frameRange": [
+                98,
+                111
+            ],
+            "key": "e72749da86d44bd5826977f65dee2718"
+        },
+        {
+            "name": "B\u0130TM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:21:44.553Z",
+            "createdAt": "2022-09-10T13:21:44.553Z",
+            "frameRange": [
+                114,
+                146
+            ],
+            "key": "16cbf6d4c22f4e1db90d979f42661374"
+        },
+        {
+            "name": "2018",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-10T13:21:19.852Z",
+            "createdAt": "2022-09-10T13:21:19.852Z",
+            "frameRange": [
+                62,
+                94
+            ],
+            "key": "d7333b8dbaad43d3b6c5a720b642188d"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 171
+}

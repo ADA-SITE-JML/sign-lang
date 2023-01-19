@@ -1,0 +1,79 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "c2c5b2f5da6a4bb5a9a909f47f66da9d",
+    "tags": [
+        {
+            "name": "\u0130ND\u0130",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:39:22.779Z",
+            "createdAt": "2022-09-01T08:39:22.779Z",
+            "frameRange": [
+                42,
+                53
+            ],
+            "key": "a5dbf66965b24f3c981289b8e5dda6c7"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:39:32.760Z",
+            "createdAt": "2022-09-01T08:39:32.760Z",
+            "frameRange": [
+                59,
+                65
+            ],
+            "key": "265e8be7c68b4a9ab6710823873c4c10"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:39:50.738Z",
+            "createdAt": "2022-09-01T08:39:50.738Z",
+            "frameRange": [
+                77,
+                86
+            ],
+            "key": "06f6051c52b646279e31dd7588565622"
+        },
+        {
+            "name": "D",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:39:43.576Z",
+            "createdAt": "2022-09-01T08:39:43.576Z",
+            "frameRange": [
+                69,
+                75
+            ],
+            "key": "f5afa2d2dbf64b68a8732181881d4668"
+        },
+        {
+            "name": "UN\u0130VERS\u0130TET\u0130ND\u018fY\u018fM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:40:16.406Z",
+            "createdAt": "2022-09-01T08:40:16.406Z",
+            "frameRange": [
+                91,
+                129
+            ],
+            "key": "afd4d13df2cc4b7a83db083aee5cec05"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:39:09.922Z",
+            "createdAt": "2022-09-01T08:39:09.922Z",
+            "frameRange": [
+                19,
+                33
+            ],
+            "key": "334409096ca34dbfb4e5b1e8451a9484"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 170
+}

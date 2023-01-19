@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "b2b96bdaeb534c79b3575b565e6c9779",
+    "tags": [
+        {
+            "name": "BURDA",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T08:32:29.745Z",
+            "createdAt": "2022-09-09T08:32:29.745Z",
+            "frameRange": [
+                113,
+                131
+            ],
+            "key": "8e56256f557148dd80654750d0d5f901"
+        },
+        {
+            "name": "23",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T08:31:16.945Z",
+            "createdAt": "2022-09-09T08:31:16.945Z",
+            "frameRange": [
+                33,
+                54
+            ],
+            "key": "703c793fe9b143f9ae716c0b90ff6a41"
+        },
+        {
+            "name": "AVTOBUS",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T08:32:13.584Z",
+            "createdAt": "2022-09-09T08:32:13.584Z",
+            "frameRange": [
+                78,
+                110
+            ],
+            "key": "192d3380b5514dc783ff94ed7fba16d2"
+        },
+        {
+            "name": "SAYLI",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T08:31:36.294Z",
+            "createdAt": "2022-09-09T08:31:36.294Z",
+            "frameRange": [
+                56,
+                76
+            ],
+            "key": "7ebdc78565434fd1bee045f22bfa2799"
+        },
+        {
+            "name": "KEC\u0130R",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T08:34:56.418Z",
+            "createdAt": "2022-09-09T08:34:56.418Z",
+            "frameRange": [
+                138,
+                160
+            ],
+            "key": "18383fee008348ba9c4ab951c4e58e56"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 216
+}

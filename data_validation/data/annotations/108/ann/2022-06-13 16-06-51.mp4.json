@@ -1,0 +1,90 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "c9b03e306dbd42a7915547a6594b0878",
+    "tags": [
+        {
+            "name": "HANSI",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T09:38:27.015Z",
+            "createdAt": "2022-09-13T09:38:27.015Z",
+            "frameRange": [
+                42,
+                59
+            ],
+            "key": "be864d47d61648b8bb45caa60171fe29"
+        },
+        {
+            "name": "LAZIM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T09:42:54.513Z",
+            "createdAt": "2022-09-13T09:42:54.513Z",
+            "frameRange": [
+                86,
+                110
+            ],
+            "key": "69f721f19a7b4169b28b2627ce228f7d"
+        },
+        {
+            "name": "HANSI",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T09:38:36.890Z",
+            "createdAt": "2022-09-13T09:38:36.890Z",
+            "frameRange": [
+                42,
+                59
+            ],
+            "key": "81993ff027ca4fc98609718cea4d96a7"
+        },
+        {
+            "name": "S\u018fN\u018fD",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T09:42:44.150Z",
+            "createdAt": "2022-09-13T09:42:44.150Z",
+            "frameRange": [
+                61,
+                83
+            ],
+            "key": "ba3cc380fdb14a5f98aeaf134e6a516a"
+        },
+        {
+            "name": "BA\u015eQA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T09:38:12.718Z",
+            "createdAt": "2022-09-13T09:38:12.718Z",
+            "frameRange": [
+                14,
+                30
+            ],
+            "key": "31a08c3c40fa4634af1fc6a6d6449634"
+        },
+        {
+            "name": "HANSI",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T09:38:29.603Z",
+            "createdAt": "2022-09-13T09:38:29.603Z",
+            "frameRange": [
+                42,
+                59
+            ],
+            "key": "bf15df537f9c4a70851c6800c70abdbb"
+        },
+        {
+            "name": "HANSI",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-13T09:41:28.392Z",
+            "createdAt": "2022-09-13T09:41:28.392Z",
+            "frameRange": [
+                42,
+                56
+            ],
+            "key": "0dbdb4a034b14c4aa731b137a44abe77"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 218
+}

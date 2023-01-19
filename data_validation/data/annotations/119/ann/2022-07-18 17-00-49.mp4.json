@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "10b490589ca64306b18cb0d9f436ec1f",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:14:54.991Z",
+            "createdAt": "2022-09-14T21:14:54.991Z",
+            "frameRange": [
+                6,
+                27
+            ],
+            "key": "c7f69380316740bbb5702d50eebcd336"
+        },
+        {
+            "name": "P\u0130YADA",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:15:24.270Z",
+            "createdAt": "2022-09-14T21:15:24.270Z",
+            "frameRange": [
+                32,
+                58
+            ],
+            "key": "21e14efc188f4932a3e63b75ad5d602e"
+        },
+        {
+            "name": "G\u018fZM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:15:42.268Z",
+            "createdAt": "2022-09-14T21:15:42.268Z",
+            "frameRange": [
+                62,
+                88
+            ],
+            "key": "3213d5276670445cb10c6c198f5d77f7"
+        },
+        {
+            "name": "\u00c7OX",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:18:00.827Z",
+            "createdAt": "2022-09-14T21:18:00.827Z",
+            "frameRange": [
+                93,
+                115
+            ],
+            "key": "efd56d9864db4c358ed63bda4ba1169a"
+        },
+        {
+            "name": "SEV\u0130R\u018fM",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T21:18:29.964Z",
+            "createdAt": "2022-09-14T21:18:29.964Z",
+            "frameRange": [
+                119,
+                150
+            ],
+            "key": "e21b937f03b4454d9d24ae282d8a250f"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 190
+}

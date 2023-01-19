@@ -1,0 +1,46 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "85499bddb36b40f9b8cc30bf3b68bebf",
+    "tags": [
+        {
+            "name": "OYNAMAQ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:41:40.537Z",
+            "createdAt": "2022-09-14T09:41:40.537Z",
+            "frameRange": [
+                79,
+                116
+            ],
+            "key": "2176466927154f64b78f68e2828552ac"
+        },
+        {
+            "name": "FUTBOL",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:41:26.917Z",
+            "createdAt": "2022-09-14T09:41:26.917Z",
+            "frameRange": [
+                56,
+                73
+            ],
+            "key": "7ed6f6fd5dd14b3493de83faa9524033"
+        },
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-14T09:41:15.685Z",
+            "createdAt": "2022-09-14T09:41:15.685Z",
+            "frameRange": [
+                30,
+                52
+            ],
+            "key": "42b37be32fee4f4a9e888f67d7c6284f"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 154
+}

@@ -1,0 +1,24 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "e385e528b5be43169c2be602ab79f363",
+    "tags": [
+        {
+            "name": "23",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-09T08:00:46.810Z",
+            "createdAt": "2022-09-09T08:00:46.810Z",
+            "frameRange": [
+                110,
+                142
+            ],
+            "key": "5d03d7b946ca43608874094acf98d9b3"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 317
+}

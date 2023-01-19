@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "eb01bec4c12d40ea943a549e69610c47",
+    "tags": [
+        {
+            "name": "N\u00d6MRE",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:13:10.580Z",
+            "createdAt": "2022-09-11T08:13:10.580Z",
+            "frameRange": [
+                62,
+                74
+            ],
+            "key": "3195a9b2015f457ab6d751e0cd69e782"
+        },
+        {
+            "name": "B\u0130L\u018fR",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:13:39.327Z",
+            "createdAt": "2022-09-11T08:13:39.327Z",
+            "frameRange": [
+                93,
+                120
+            ],
+            "key": "55a34c98f23749f794a9a67473995363"
+        },
+        {
+            "name": "TELEFON",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:12:56.230Z",
+            "createdAt": "2022-09-11T08:12:56.230Z",
+            "frameRange": [
+                43,
+                58
+            ],
+            "key": "eeacbe5848324efd8e0b3b1296a6067b"
+        },
+        {
+            "name": "VERM\u018fK",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:13:21.374Z",
+            "createdAt": "2022-09-11T08:13:21.374Z",
+            "frameRange": [
+                77,
+                89
+            ],
+            "key": "727618a98df046c9b607473e9fd10ae7"
+        },
+        {
+            "name": "S\u0130Z",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-11T08:12:46.124Z",
+            "createdAt": "2022-09-11T08:12:46.124Z",
+            "frameRange": [
+                27,
+                38
+            ],
+            "key": "1e65cd46920441a0b6e6fca48ddc7a04"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 149
+}

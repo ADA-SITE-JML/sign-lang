@@ -1,0 +1,79 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "55708cbb881044c884583309a0536816",
+    "tags": [
+        {
+            "name": "A",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:17:42.436Z",
+            "createdAt": "2022-09-01T08:17:42.436Z",
+            "frameRange": [
+                69,
+                74
+            ],
+            "key": "df7c881f84bf4552aa9a72004b89e3f7"
+        },
+        {
+            "name": "UN\u0130VERS\u0130TET",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:18:20.034Z",
+            "createdAt": "2022-09-01T08:18:20.034Z",
+            "frameRange": [
+                79,
+                125
+            ],
+            "key": "8007350ab8a8491fbb2ee32e6f31a8b4"
+        },
+        {
+            "name": "\u0130ND\u0130",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:17:22.594Z",
+            "createdAt": "2022-09-01T08:17:22.594Z",
+            "frameRange": [
+                34,
+                45
+            ],
+            "key": "42c0799784494d07823d5946072130ab"
+        },
+        {
+            "name": "D",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:18:00.439Z",
+            "createdAt": "2022-09-01T08:18:00.439Z",
+            "frameRange": [
+                60,
+                67
+            ],
+            "key": "ab379a56b1054a07925acdfcecc5b6f9"
+        },
+        {
+            "name": "A",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:17:34.985Z",
+            "createdAt": "2022-09-01T08:17:34.985Z",
+            "frameRange": [
+                50,
+                59
+            ],
+            "key": "0c87e09a9ab94a56836e6b4d0191968e"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-01T08:16:39.172Z",
+            "createdAt": "2022-09-01T08:16:39.172Z",
+            "frameRange": [
+                11,
+                27
+            ],
+            "key": "4a183350bfc342d98fafed79ab5a896b"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 178
+}

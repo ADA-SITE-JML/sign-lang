@@ -1,0 +1,90 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "6c07a22d34de47fc8464313fad8ec84f",
+    "tags": [
+        {
+            "name": "O\u011eUL",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-07T13:43:22.934Z",
+            "createdAt": "2022-09-07T13:43:22.934Z",
+            "frameRange": [
+                29,
+                41
+            ],
+            "key": "fbc9318a1b754b4d9af519f61eedaebd"
+        },
+        {
+            "name": "QIZ",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-07T13:45:38.138Z",
+            "createdAt": "2022-09-07T13:45:38.138Z",
+            "frameRange": [
+                84,
+                99
+            ],
+            "key": "01400256c19e4b16ad3958c3fa876c04"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-07T13:42:35.264Z",
+            "createdAt": "2022-09-07T13:42:35.264Z",
+            "frameRange": [
+                0,
+                14
+            ],
+            "key": "a2fb63502b514b0282e239377d669b10"
+        },
+        {
+            "name": "2",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-07T13:42:56.226Z",
+            "createdAt": "2022-09-07T13:42:56.226Z",
+            "frameRange": [
+                16,
+                26
+            ],
+            "key": "e32cbb5677994ee993f9b5d23838ff94"
+        },
+        {
+            "name": "1",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-07T13:45:04.546Z",
+            "createdAt": "2022-09-07T13:45:04.546Z",
+            "frameRange": [
+                69,
+                75
+            ],
+            "key": "28dbfc87d5c94b0f8812b028b1962646"
+        },
+        {
+            "name": "V\u018f",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-07T13:44:54.978Z",
+            "createdAt": "2022-09-07T13:44:54.978Z",
+            "frameRange": [
+                57,
+                66
+            ],
+            "key": "c67f760684c0436caa1b50fc00eb8c4c"
+        },
+        {
+            "name": "VAR",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T13:29:43.892Z",
+            "createdAt": "2022-09-12T13:29:43.892Z",
+            "frameRange": [
+                102,
+                117
+            ],
+            "key": "48f6da441fe04b70b5d3f0b83cf30297"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 155
+}

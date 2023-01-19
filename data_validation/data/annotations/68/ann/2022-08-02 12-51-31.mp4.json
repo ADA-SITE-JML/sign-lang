@@ -1,0 +1,68 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "df538944ae4448bbbce3d934fbb54699",
+    "tags": [
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T16:32:35.215Z",
+            "createdAt": "2022-09-05T16:32:35.215Z",
+            "frameRange": [
+                10,
+                33
+            ],
+            "key": "3c57ad2398574a5f926540aaf73c947e"
+        },
+        {
+            "name": "G\u018fL\u0130R",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T16:34:21.776Z",
+            "createdAt": "2022-09-05T16:34:21.776Z",
+            "frameRange": [
+                122,
+                143
+            ],
+            "key": "82fb363406784754a75debdbd9dc0950"
+        },
+        {
+            "name": "EV",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T16:32:46.909Z",
+            "createdAt": "2022-09-05T16:32:46.909Z",
+            "frameRange": [
+                38,
+                59
+            ],
+            "key": "69eb165b3b814f189c1478d3b949fdea"
+        },
+        {
+            "name": "QAZ",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T16:33:07.517Z",
+            "createdAt": "2022-09-05T16:33:07.517Z",
+            "frameRange": [
+                77,
+                97
+            ],
+            "key": "8207c918a0f842e1954728e7569648c7"
+        },
+        {
+            "name": "\u0130Y\u0130",
+            "labelerLogin": "heyder700ok@gmail.com",
+            "updatedAt": "2022-09-05T16:33:23.200Z",
+            "createdAt": "2022-09-05T16:33:23.200Z",
+            "frameRange": [
+                102,
+                115
+            ],
+            "key": "de78807970f74e7c8261e63ae3435016"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 180
+}

@@ -1,0 +1,57 @@
+{
+    "size": {
+        "height": 960,
+        "width": 1280
+    },
+    "description": "",
+    "key": "3e8e671316b64a228660c08d80d337e7",
+    "tags": [
+        {
+            "name": "HANSI",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-07T07:40:05.284Z",
+            "createdAt": "2022-09-07T07:40:05.284Z",
+            "frameRange": [
+                45,
+                62
+            ],
+            "key": "54bffa2a695c4d24b3c6a0c467b14bce"
+        },
+        {
+            "name": "S\u018fN\u018fD",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-07T07:40:32.187Z",
+            "createdAt": "2022-09-07T07:40:32.187Z",
+            "frameRange": [
+                65,
+                91
+            ],
+            "key": "f76507da4f7642b7a273353e1dfd21ea"
+        },
+        {
+            "name": "M\u018fN",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T08:01:00.376Z",
+            "createdAt": "2022-09-12T08:01:00.376Z",
+            "frameRange": [
+                20,
+                41
+            ],
+            "key": "0a0932816fde4df68496e00e83af26c3"
+        },
+        {
+            "name": "VERM\u018fK",
+            "labelerLogin": "slr_worker1",
+            "updatedAt": "2022-09-12T08:01:28.064Z",
+            "createdAt": "2022-09-12T08:01:28.064Z",
+            "frameRange": [
+                94,
+                124
+            ],
+            "key": "2c19c79af7424b4bb71abd2814076262"
+        }
+    ],
+    "objects": [],
+    "frames": [],
+    "framesCount": 181
+}
