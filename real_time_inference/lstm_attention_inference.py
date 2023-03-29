@@ -5,8 +5,8 @@ device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 encodings = torch.load('trained_data/encodings.dict')
 word_idx = torch.load('trained_data/word_idx.dict')
 
-encoder = torch.load('trained_data/encoder_' + device + '.model', map_location=torch.device(device))
-decoder = torch.load('trained_data/decoder_' + device + '.model', map_location=torch.device(device))
+encoder = torch.load('../../encoder.model', map_location=torch.device(device))
+decoder = torch.load('../../decoder.model', map_location=torch.device(device))
 encoder.eval()
 decoder.eval()
 
