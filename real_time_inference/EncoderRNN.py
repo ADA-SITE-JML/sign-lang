@@ -8,11 +8,11 @@ class EncoderRNN(nn.Module):
     def __init__(self, input_size, hidden_size, device, biDirectional = False):
         super(EncoderRNN, self).__init__()
         
-        model = squeezenet1_1(pretrained=True).to(config.device)
+        model = squeezenet1_1(pretrained=True).to(device)
         return_nodes = {
             'features.12.cat': 'layer12'
         }
-        self.pretrained_model = create_feature_extractor(model, return_nodes=return_nodes).to(config.device)
+        self.pretrained_model = create_feature_extractor(model, return_nodes=return_nodes).to(device)
         self.pretrained_model.eval()
 
         self.input_size = input_size
@@ -26,7 +26,7 @@ class EncoderRNN(nn.Module):
                 num_layers = 1,
                 dropout = 0,
                 bidirectional = biDirectional,
-                batch_first = True).to(config.device)
+                batch_first = True).to(device)
 
     def forward(self, input, hidden):
         features = self.pretrained_model(input.squeeze())['layer12'].to(device=self.device)

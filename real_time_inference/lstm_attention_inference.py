@@ -1,14 +1,24 @@
 import torch
+from EncoderRNN import *
+from AttnDecoderRNN import *
 
 device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
 encodings = torch.load('trained_data/encodings.dict')
 word_idx = torch.load('trained_data/word_idx.dict')
 
-encoder = torch.load('../../encoder.model', map_location=torch.device(device))
-decoder = torch.load('../../decoder.model', map_location=torch.device(device))
-encoder.eval()
-decoder.eval()
+input_size = 86528
+hidden_size = 64
+encoding_len = 1136
+encoder = EncoderRNN(input_size, hidden_size, device=device, biDirectional = True).to(device)
+decoder = AttnDecoderRNN(hidden_size*2, encoding_len, device=device, dropout_p=0.1, biDirectional = False, debug=False).to(device)
+
+encoder.load_state_dict(torch.load('../../encoder.model', map_location=torch.device(device)))
+decoder.load_state_dict(torch.load('../../decoder.model', map_location=torch.device(device)))
+# encoder = torch.load('../../encoder.model', map_location=torch.device(device))
+# decoder = torch.load('../../decoder.model', map_location=torch.device(device))
+#encoder.eval()
+#decoder.eval()
 
 def evaluate(frames, max_length = 64):
     global encoder
