@@ -91,7 +91,7 @@ while True:
             output_words, attentions = evaluate(video_frames)
 
             sentence = output_words
-            frames = []
+            frames = torch.zeros((0,3,480,640)).to(device)
 
             recognize = False
 
