@@ -47,6 +47,7 @@ def evaluate(frames, max_length = 64):
                 decoded_words += '.'
                 break
             else:
+                print('Next word: '+str(topi.item())+', '+word_idx[topi.item()])
                 decoded_words += word_idx[topi.item()] + ' '
 
             decoder_input = topi.detach()

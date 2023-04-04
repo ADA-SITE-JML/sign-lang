@@ -1,12 +1,15 @@
 import cv2
+import math
 import torch
 import mediapipe as mp
+import matplotlib.pyplot as plt
 from EncoderRNN import *
 from AttnDecoderRNN import *
 from lstm_attention_inference import *
 import time
 from torchvision.transforms import (
     Compose,
+    Normalize,
     CenterCrop,
     Resize
 )
@@ -31,7 +34,7 @@ color = (255, 0, 0)
 thickness = 2
 recognize = False
 sentence = " - "
-text_coord = (450, 450)
+text_coord = (10, 450)
 
 def show_frames(list1):
     global frames
@@ -46,9 +49,22 @@ def begin_threading(starter):
 
 def apply_video_transforms(resize_size: int = img_size):
     return Compose([
-        CenterCrop(300),
+        CenterCrop(400),
         Resize(size=(resize_size, resize_size))
     ])
+
+def visualize_frames(frames):
+    rows = int(math.sqrt(max_frames))
+    cols = max_frames//rows
+    fig, axes = plt.subplots(nrows=rows, ncols=cols, figsize=(13,13))
+
+    idx = 0
+    for i in range(rows):
+        for j in range(cols):
+            img = frames[idx,:,:,:].permute(1,2,0).cpu()
+            axes[i, j].imshow(img)
+            idx += 1
+    plt.show()
 
 cap = cv2.VideoCapture(0)
 
@@ -64,21 +80,18 @@ while True:
             recognize = True
 
         cv2.circle(img, (300, 30), 30, (0, 0, 255), cv2.FILLED)
-        #frames.append(imgRGB)
-        frames = torch.cat((frames, torch.unsqueeze(torch.from_numpy(imgRGB).permute(2, 0, 1),dim=0)),0)
+
+        frames = torch.cat((frames, torch.unsqueeze(torch.from_numpy(imgRGB).permute(2, 0, 1),dim=0)/255.0),0)
     else:
         if recognize == True:
             # Recognize the collected frames
             measure = time.time()
 
-            video_frames = frames #torch.FloatTensor(frames)
+            video_frames = frames
             print('List to tensor conversion:',time.time() - measure)
             measure = time.time()
 
             n,l,w,h = video_frames.shape
-            # video_frames = video_frames.permute(0,3,1,2)
-            # print('Permutation:',time.time() - measure)
-            # measure = time.time()
 
             video_frames = apply_video_transforms()(video_frames)
             print('Transformation:',time.time() - measure)
@@ -87,6 +100,7 @@ while True:
 
             compliment_arr = torch.zeros(max(0,max_frames-n),l,img_size,img_size).to(device)
             video_frames = torch.cat((video_frames,compliment_arr),0)
+            visualize_frames(video_frames)
 
             output_words, attentions = evaluate(video_frames)
 
