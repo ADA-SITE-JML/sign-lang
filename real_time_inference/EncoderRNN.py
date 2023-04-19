@@ -7,13 +7,6 @@ from torchvision.models.feature_extraction import create_feature_extractor
 class EncoderRNN(nn.Module):
     def __init__(self, input_size, hidden_size, device, biDirectional = False):
         super(EncoderRNN, self).__init__()
-        
-        model = squeezenet1_1(pretrained=True).to(device)
-        return_nodes = {
-            'features.12.cat': 'layer12'
-        }
-        self.pretrained_model = create_feature_extractor(model, return_nodes=return_nodes).to(device)
-        self.pretrained_model.eval()
 
         self.input_size = input_size
         self.hidden_size = hidden_size
@@ -29,12 +22,7 @@ class EncoderRNN(nn.Module):
                 batch_first = True).to(device)
 
     def forward(self, input, hidden):
-        features = self.pretrained_model(input.squeeze())['layer12'].to(device=self.device)
-        feat_shape = features.shape
-
-        feat_flat =  torch.reshape(features,(1,feat_shape[0],feat_shape[1]*feat_shape[2]*feat_shape[3])).to(device=self.device)
-
-        output, hidden = self.rnn(feat_flat, hidden)
+        output, hidden = self.rnn(input, hidden)
         return output, hidden
 
     def initHidden(self):

@@ -7,6 +7,8 @@ from EncoderRNN import *
 from AttnDecoderRNN import *
 from lstm_attention_inference import *
 import time
+from torchvision.models import squeezenet1_1
+from torchvision.models.feature_extraction import create_feature_extractor
 from torchvision.transforms import (
     Compose,
     Normalize,
@@ -66,6 +68,19 @@ def visualize_frames(frames):
             idx += 1
     plt.show()
 
+model = squeezenet1_1(pretrained=True).to(device)
+return_nodes = {
+      'features.12.cat': 'layer12'
+      }
+pretrained_model = create_feature_extractor(model, return_nodes=return_nodes).to(device)
+pretrained_model.eval()
+
+def frame_to_feats(pretrained_model, frames):
+  features = pretrained_model(frames.squeeze())['layer12'].to(device=device)
+  feat_shape = features.shape
+  feat_flat =  torch.reshape(features,(1,feat_shape[0],feat_shape[1]*feat_shape[2]*feat_shape[3])).to(device=device)
+  return feat_flat
+
 cap = cv2.VideoCapture(0)
 
 while True:
@@ -100,9 +115,12 @@ while True:
 
             compliment_arr = torch.zeros(max(0,max_frames-n),l,img_size,img_size).to(device)
             video_frames = torch.cat((video_frames,compliment_arr),0)
-            visualize_frames(video_frames)
+            #visualize_frames(video_frames)
 
-            output_words, attentions = evaluate(video_frames)
+            feats = frame_to_feats(pretrained_model, video_frames)
+            print('Feature shape:',feats.shape)
+
+            output_words, attentions = evaluate(feats)
 
             sentence = output_words
             frames = torch.zeros((0,3,480,640)).to(device)

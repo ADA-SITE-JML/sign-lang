@@ -9,7 +9,7 @@ word_idx = torch.load('trained_data/word_idx.dict')
 
 input_size = 86528
 hidden_size = 64
-encoding_len = 1136
+encoding_len = 1137
 encoder = EncoderRNN(input_size, hidden_size, device=device, biDirectional = True).to(device)
 decoder = AttnDecoderRNN(hidden_size*2, encoding_len, device=device, dropout_p=0.1, biDirectional = False, debug=False).to(device)
 
