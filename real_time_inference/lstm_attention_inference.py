@@ -20,14 +20,14 @@ decoder.load_state_dict(torch.load('../../decoder.model', map_location=torch.dev
 #encoder.eval()
 #decoder.eval()
 
-def evaluate(frames, max_length = 64):
+def evaluate(frames_features, max_length = 64):
     global encoder
     global decoder
     
     with torch.no_grad():
         encoder_hidden = encoder.initHidden()
 
-        encoder_output, encoder_hidden = encoder(frames, encoder_hidden)
+        encoder_output, encoder_hidden = encoder(frames_features, encoder_hidden)
 
         decoder_input = torch.tensor([[encodings['SOS']]], device=device)  # Start of sentence
 

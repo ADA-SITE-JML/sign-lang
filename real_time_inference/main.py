@@ -17,17 +17,13 @@ from torchvision.transforms import (
 )
 
 mpHands = mp.solutions.hands
-hands = mpHands.Hands(
-    static_image_mode=False,
-    model_complexity=1,
-    min_detection_confidence=0.75,
-    min_tracking_confidence=0.75,
-    max_num_hands=2)
+hands = mpHands.Hands(static_image_mode=False, max_num_hands=2,
+                        min_detection_confidence=0.5, min_tracking_confidence=0.8)
 
 device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 
 frames = torch.zeros((0,3,480,640)).to(device)
-#frames = []
+
 max_frames = 64
 img_size = 224
 font = cv2.FONT_HERSHEY_SIMPLEX
@@ -55,17 +51,34 @@ def apply_video_transforms(resize_size: int = img_size):
         Resize(size=(resize_size, resize_size))
     ])
 
-def visualize_frames(frames):
+def visualize_frames(frames, output_words, top_attn_mask):
     rows = int(math.sqrt(max_frames))
     cols = max_frames//rows
     fig, axes = plt.subplots(nrows=rows, ncols=cols, figsize=(13,13))
+
+    out_split = output_words.split()
 
     idx = 0
     for i in range(rows):
         for j in range(cols):
             img = frames[idx,:,:,:].permute(1,2,0).cpu()
             axes[i, j].imshow(img)
+
+            attn_words = ''
+            for widx in range(len(out_split)-1):
+                if top_attn_mask[widx,i*cols+j]:
+                    attn_words += out_split[widx] + ' '
+
+            axes[i, j].set_title(attn_words)
+            axes[i, j].axis('off')
             idx += 1
+
+    plt.subplots_adjust(left=0.05,
+                    bottom=0.05,
+                    right=0.95,
+                    top=0.95,
+                    wspace=0.4,
+                    hspace=0.4)
     plt.show()
 
 model = squeezenet1_1(pretrained=True).to(device)
@@ -115,12 +128,15 @@ while True:
 
             compliment_arr = torch.zeros(max(0,max_frames-n),l,img_size,img_size).to(device)
             video_frames = torch.cat((video_frames,compliment_arr),0)
-            #visualize_frames(video_frames)
 
             feats = frame_to_feats(pretrained_model, video_frames)
             print('Feature shape:',feats.shape)
 
             output_words, attentions = evaluate(feats)
+            top_attn_cnt = 5
+            top_attn_mask =  attentions > torch.topk(attentions,top_attn_cnt)[0].min(dim=1)[0].unsqueeze(1) # find top 'top_attn_cnt' values, get the minimum for each row and return bitmask for top 3 attn
+            # attn_max_val, attn_max_val_idx = torch.topk(attentions,3)
+            visualize_frames(video_frames,output_words, top_attn_mask)
 
             sentence = output_words
             frames = torch.zeros((0,3,480,640)).to(device)
@@ -142,5 +158,3 @@ cap.release()
 
 # Destroy all the windows
 cv2.destroyAllWindows()
-
-print(frames)
