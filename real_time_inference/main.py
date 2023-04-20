@@ -47,7 +47,7 @@ def begin_threading(starter):
 
 def apply_video_transforms(resize_size: int = img_size):
     return Compose([
-        CenterCrop(400),
+        CenterCrop(500),
         Resize(size=(resize_size, resize_size))
     ])
 
@@ -133,7 +133,7 @@ while True:
             print('Feature shape:',feats.shape)
 
             output_words, attentions = evaluate(feats)
-            top_attn_cnt = 5
+            top_attn_cnt = 8
             top_attn_mask =  attentions > torch.topk(attentions,top_attn_cnt)[0].min(dim=1)[0].unsqueeze(1) # find top 'top_attn_cnt' values, get the minimum for each row and return bitmask for top 3 attn
             # attn_max_val, attn_max_val_idx = torch.topk(attentions,3)
             visualize_frames(video_frames,output_words, top_attn_mask)
